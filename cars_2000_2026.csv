@@ -1,0 +1,1680 @@
+car_id,make,model,year,color,body_type,fuel,transmission,engine_cc,mileage_km,price_usd,city,status
+CAR-0001,Ford,Focus,2009,Maroon,Hatchback,Petrol,Automatic,1600,249000,1900,Lahore,For Sale
+CAR-0002,Volkswagen,Beetle,2012,Silver,Hatchback,Petrol,Automatic,2000,194800,3220,Rawalpindi,For Sale
+CAR-0003,Nissan,Patrol,2020,Grey,SUV,Petrol,Manual,4000,97900,26030,Islamabad,Reserved
+CAR-0004,Honda,Accord,2016,Silver,Sedan,Petrol,Manual,2000,149200,7850,Faisalabad,For Sale
+CAR-0005,Toyota,Hilux,2011,Green,Pickup,Diesel,Manual,2800,216600,4220,Karachi,Sold
+CAR-0006,Tesla,Model S,2025,Blue,Sedan,Electric,Automatic,0,31300,83610,Faisalabad,For Sale
+CAR-0007,Volkswagen,Golf,2011,Silver,Hatchback,Petrol,Automatic,1400,211700,3590,Lahore,For Sale
+CAR-0008,Volkswagen,Golf,2021,Blue,Hatchback,Petrol,Automatic,1400,76900,12960,Multan,Sold
+CAR-0009,Mazda,Mazda 3,2004,Maroon,Sedan,Petrol,Manual,2000,317900,1920,Karachi,For Sale
+CAR-0010,BMW,3 Series,2025,White,Sedan,Diesel,Manual,2000,23900,42490,Karachi,Reserved
+CAR-0011,Hyundai,Tucson,2009,Silver,SUV,Diesel,Manual,2000,256000,2750,Peshawar,Sold
+CAR-0012,Ford,Focus,2004,Grey,Hatchback,Petrol,Manual,1600,305300,1600,Lahore,Sold
+CAR-0013,Mercedes-Benz,E-Class,2020,Silver,Sedan,Diesel,Automatic,2000,97500,28000,Peshawar,For Sale
+CAR-0014,Ford,Focus,2009,Silver,Hatchback,Petrol,Manual,1600,242000,1730,Multan,For Sale
+CAR-0015,Ford,Focus,2001,Black,Hatchback,Petrol,Manual,1600,344800,1600,Peshawar,For Sale
+CAR-0016,Tesla,Model 3,2023,Silver,Sedan,Electric,Automatic,0,58300,26330,Peshawar,For Sale
+CAR-0017,Volkswagen,Tiguan,2009,White,SUV,Diesel,Manual,1400,235600,3090,Islamabad,Reserved
+CAR-0018,Nissan,Skyline,2010,Grey,Coupe,Petrol,Automatic,3000,219200,4030,Rawalpindi,Sold
+CAR-0019,Tesla,Model 3,2019,Blue,Sedan,Electric,Automatic,0,123600,16950,Rawalpindi,For Sale
+CAR-0020,Kia,Picanto,2020,Black,Hatchback,Petrol,Manual,1000,95200,4790,Karachi,Sold
+CAR-0021,Hyundai,Sonata,2002,Red,Sedan,Petrol,Manual,2500,346000,2160,Multan,For Sale
+CAR-0022,BMW,3 Series,2010,Black,Sedan,Petrol,Manual,2000,223600,5400,Multan,For Sale
+CAR-0023,Volkswagen,Tiguan,2019,Red,SUV,Diesel,Manual,1400,106400,13110,Rawalpindi,For Sale
+CAR-0024,Kia,Picanto,2020,Blue,Hatchback,Petrol,Automatic,1000,85300,4740,Islamabad,For Sale
+CAR-0025,Toyota,Yaris,2022,Blue,Hatchback,Petrol,Automatic,1500,59700,10320,Lahore,For Sale
+CAR-0026,Suzuki,Wagon R,2025,Grey,Hatchback,Petrol,Manual,1000,25700,8460,Rawalpindi,For Sale
+CAR-0027,BMW,Z4,2019,Gold,Convertible,Petrol,Automatic,2000,111000,19180,Faisalabad,Reserved
+CAR-0028,Ford,F-150,2022,White,Pickup,Petrol,Manual,3500,66600,23860,Multan,Sold
+CAR-0029,Ford,Ranger,2015,Silver,Pickup,Diesel,Manual,2200,168200,7930,Lahore,For Sale
+CAR-0030,BMW,3 Series,2013,Silver,Sedan,Diesel,Automatic,2000,185600,7650,Karachi,For Sale
+CAR-0031,Chevrolet,Camaro,2015,Silver,Coupe,Petrol,Automatic,3600,158700,7920,Lahore,Sold
+CAR-0032,Mazda,Mazda 3,2008,Silver,Sedan,Petrol,Automatic,2000,270200,2150,Faisalabad,For Sale
+CAR-0033,Suzuki,Alto,2020,Black,Hatchback,Petrol,Automatic,660,87300,3490,Rawalpindi,For Sale
+CAR-0034,Suzuki,Cultus,2013,Grey,Hatchback,Petrol,Automatic,1000,186000,1840,Peshawar,For Sale
+CAR-0035,BMW,Z4,2004,Silver,Convertible,Petrol,Automatic,2000,318900,4160,Rawalpindi,Reserved
+CAR-0036,Honda,Civic,2016,Green,Sedan,Petrol,Manual,1800,181500,5550,Rawalpindi,For Sale
+CAR-0037,BMW,X5,2017,White,SUV,Petrol,Automatic,3000,130200,20780,Faisalabad,For Sale
+CAR-0038,Honda,Civic,2005,White,Sedan,Petrol,Manual,1800,307700,2000,Rawalpindi,For Sale
+CAR-0039,Toyota,Yaris,2014,Black,Hatchback,Petrol,Manual,1500,171300,3220,Rawalpindi,For Sale
+CAR-0040,Kia,Picanto,2022,Black,Hatchback,Petrol,Automatic,1000,65200,7100,Islamabad,Reserved
+CAR-0041,Mazda,CX-5,2021,Silver,SUV,Petrol,Automatic,2500,90600,14360,Islamabad,For Sale
+CAR-0042,Kia,Sportage,2023,White,SUV,Petrol,Automatic,2000,52600,17730,Peshawar,Sold
+CAR-0043,Toyota,Yaris,2022,Black,Hatchback,Petrol,Automatic,1500,66400,11000,Islamabad,Sold
+CAR-0044,Mercedes-Benz,C-Class,2014,Grey,Sedan,Diesel,Automatic,2000,170800,9600,Rawalpindi,For Sale
+CAR-0045,Toyota,Land Cruiser,2014,Grey,SUV,Petrol,Automatic,4000,170900,13130,Faisalabad,For Sale
+CAR-0046,Mercedes-Benz,GLC,2026,Black,SUV,Diesel,Manual,2000,16200,58820,Karachi,Sold
+CAR-0047,Kia,Sorento,2012,Green,SUV,Diesel,Manual,2400,207000,5390,Multan,For Sale
+CAR-0048,Toyota,Land Cruiser,2002,Gold,SUV,Petrol,Automatic,4000,344600,6000,Islamabad,For Sale
+CAR-0049,Tesla,Model X,2016,White,SUV,Electric,Automatic,0,157000,25470,Islamabad,Sold
+CAR-0050,Mercedes-Benz,GLC,2018,Silver,SUV,Diesel,Automatic,2000,134900,18830,Rawalpindi,Reserved
+CAR-0051,Mercedes-Benz,E-Class,2004,Red,Sedan,Diesel,Automatic,2000,321000,4960,Faisalabad,For Sale
+CAR-0052,Chevrolet,Corvette,2022,White,Coupe,Petrol,Automatic,6200,60400,38740,Faisalabad,For Sale
+CAR-0053,Nissan,Sunny,2019,Red,Sedan,Petrol,Automatic,1500,104300,5120,Faisalabad,For Sale
+CAR-0054,BMW,3 Series,2011,White,Sedan,Petrol,Manual,2000,235900,6090,Rawalpindi,For Sale
+CAR-0055,Honda,HR-V,2026,Grey,SUV,Petrol,Automatic,1500,4000,28410,Islamabad,For Sale
+CAR-0056,Mazda,Mazda 3,2013,White,Sedan,Petrol,Automatic,2000,192800,3910,Faisalabad,For Sale
+CAR-0057,Ford,Focus,2015,White,Hatchback,Petrol,Automatic,1600,155900,4760,Karachi,For Sale
+CAR-0058,Toyota,Camry,2008,White,Sedan,Petrol,Manual,2500,265700,2330,Karachi,Sold
+CAR-0059,Ford,Explorer,2012,White,SUV,Petrol,Automatic,3500,215000,5580,Lahore,For Sale
+CAR-0060,Nissan,Patrol,2007,Red,SUV,Diesel,Automatic,4000,267100,4800,Peshawar,For Sale
+CAR-0061,Volkswagen,Tiguan,2024,Black,SUV,Petrol,Manual,1400,32400,23290,Lahore,For Sale
+CAR-0062,Mazda,MX-5,2012,Black,Convertible,Petrol,Manual,2000,193500,4110,Multan,For Sale
+CAR-0063,Mercedes-Benz,S-Class,2005,Gold,Sedan,Diesel,Automatic,3000,298200,9200,Lahore,For Sale
+CAR-0064,Honda,Accord,2011,Red,Sedan,Petrol,Automatic,2000,221400,3480,Peshawar,Reserved
+CAR-0065,Suzuki,Cultus,2010,White,Hatchback,Petrol,Manual,1000,227600,1290,Peshawar,For Sale
+CAR-0066,Tesla,Model Y,2020,Maroon,SUV,Electric,Automatic,0,88100,20110,Faisalabad,For Sale
+CAR-0067,Hyundai,Sonata,2005,White,Sedan,Petrol,Manual,2500,294100,2160,Islamabad,For Sale
+CAR-0068,Nissan,Sunny,2004,Silver,Sedan,Petrol,Manual,1500,313000,1120,Rawalpindi,Sold
+CAR-0069,BMW,3 Series,2020,Blue,Sedan,Diesel,Manual,2000,91500,19480,Rawalpindi,For Sale
+CAR-0070,Mercedes-Benz,S-Class,2002,Blue,Sedan,Petrol,Manual,3000,332300,9200,Karachi,For Sale
+CAR-0071,Suzuki,Vitara,2011,White,SUV,Petrol,Automatic,1600,229100,3240,Faisalabad,For Sale
+CAR-0072,Ford,Ranger,2001,Grey,Pickup,Diesel,Manual,2200,363400,2880,Islamabad,For Sale
+CAR-0073,Suzuki,Cultus,2004,Silver,Hatchback,Petrol,Manual,1000,306700,880,Multan,For Sale
+CAR-0074,Hyundai,Sonata,2017,Grey,Sedan,Petrol,Automatic,2500,131100,7620,Multan,Sold
+CAR-0075,Kia,EV6,2023,Blue,SUV,Electric,Automatic,0,50700,28530,Lahore,For Sale
+CAR-0076,Hyundai,Tucson,2012,Gold,SUV,Diesel,Manual,2000,192800,4490,Rawalpindi,For Sale
+CAR-0077,Volkswagen,Golf,2012,Silver,Hatchback,Petrol,Manual,1400,184500,3940,Multan,For Sale
+CAR-0078,Kia,Sportage,2022,Silver,SUV,Petrol,Manual,2000,62900,15020,Islamabad,For Sale
+CAR-0079,Toyota,Hilux,2020,Silver,Pickup,Diesel,Automatic,2800,97300,15730,Multan,Sold
+CAR-0080,Suzuki,Swift,2012,Red,Hatchback,Petrol,Manual,1200,203900,2160,Rawalpindi,For Sale
+CAR-0081,Toyota,Camry,2001,White,Sedan,Petrol,Automatic,2500,362200,2320,Faisalabad,Sold
+CAR-0082,Nissan,Leaf,2013,Grey,Hatchback,Electric,Automatic,0,199500,5250,Peshawar,Reserved
+CAR-0083,BMW,Z4,2018,White,Convertible,Petrol,Automatic,2000,129300,16090,Rawalpindi,For Sale
+CAR-0084,Volkswagen,Beetle,2012,Black,Hatchback,Petrol,Manual,2000,202200,3180,Islamabad,Reserved
+CAR-0085,Ford,F-150,2003,Black,Pickup,Petrol,Automatic,3500,319700,3600,Lahore,For Sale
+CAR-0086,Mazda,MX-5,2019,Black,Convertible,Petrol,Automatic,2000,102500,11550,Multan,For Sale
+CAR-0087,Volkswagen,Beetle,2002,Black,Hatchback,Petrol,Manual,2000,341100,1760,Rawalpindi,Sold
+CAR-0088,Mazda,CX-5,2022,Silver,SUV,Petrol,Automatic,2500,69900,18250,Faisalabad,For Sale
+CAR-0089,Toyota,Yaris,2023,Silver,Hatchback,Petrol,Automatic,1500,37700,12900,Rawalpindi,Sold
+CAR-0090,Chevrolet,Silverado,2026,White,Pickup,Petrol,Automatic,5300,300,49180,Rawalpindi,For Sale
+CAR-0091,Toyota,Camry,2007,Gold,Sedan,Petrol,Automatic,2500,274600,2320,Peshawar,For Sale
+CAR-0092,Kia,Sportage,2011,Black,SUV,Petrol,Manual,2000,221500,3570,Peshawar,Sold
+CAR-0093,BMW,5 Series,2009,White,Sedan,Diesel,Manual,2000,241800,6070,Islamabad,Sold
+CAR-0094,Honda,City,2007,Black,Sedan,Petrol,Manual,1500,255100,1440,Faisalabad,For Sale
+CAR-0095,Mazda,MX-5,2011,Yellow,Convertible,Petrol,Manual,2000,211100,3730,Rawalpindi,For Sale
+CAR-0096,Mazda,Mazda 3,2017,Grey,Sedan,Petrol,Automatic,2000,133000,7540,Multan,Reserved
+CAR-0097,Hyundai,Sonata,2023,Blue,Sedan,Hybrid,Manual,2500,63400,18280,Lahore,For Sale
+CAR-0098,Toyota,Corolla,2017,Blue,Sedan,Petrol,Automatic,1800,132400,6760,Multan,For Sale
+CAR-0099,Tesla,Model Y,2021,White,SUV,Electric,Automatic,0,83100,23680,Faisalabad,Sold
+CAR-0100,Toyota,Land Cruiser,2005,Black,SUV,Diesel,Automatic,4000,306800,6000,Peshawar,Sold
+CAR-0101,BMW,X5,2025,Black,SUV,Diesel,Automatic,3000,18900,65620,Rawalpindi,For Sale
+CAR-0102,Hyundai,Ioniq 5,2026,White,SUV,Electric,Automatic,0,300,43200,Peshawar,Reserved
+CAR-0103,Mazda,MX-5,2008,White,Convertible,Petrol,Manual,2000,244600,2800,Islamabad,For Sale
+CAR-0104,Ford,Ranger,2016,Green,Pickup,Diesel,Manual,2200,149900,9850,Rawalpindi,Sold
+CAR-0105,Mazda,Mazda 3,2006,Red,Sedan,Petrol,Automatic,2000,288500,1920,Peshawar,Sold
+CAR-0106,Hyundai,Tucson,2026,Silver,SUV,Petrol,Automatic,2000,5900,30850,Multan,For Sale
+CAR-0107,Mazda,Mazda 3,2014,White,Sedan,Petrol,Automatic,2000,178000,4300,Lahore,For Sale
+CAR-0108,Mazda,CX-5,2018,Blue,SUV,Petrol,Manual,2500,136100,10340,Karachi,Sold
+CAR-0109,Suzuki,Swift,2014,Silver,Hatchback,Petrol,Automatic,1200,178000,2670,Peshawar,Sold
+CAR-0110,Mercedes-Benz,GLC,2021,White,SUV,Diesel,Manual,2000,76700,25710,Multan,For Sale
+CAR-0111,Volkswagen,Passat,2003,Red,Sedan,Diesel,Automatic,1800,324800,2400,Lahore,For Sale
+CAR-0112,Hyundai,Tucson,2025,Gold,SUV,Petrol,Automatic,2000,22000,26140,Islamabad,For Sale
+CAR-0113,Ford,Explorer,2018,Black,SUV,Petrol,Manual,3500,126900,12710,Peshawar,For Sale
+CAR-0114,Volkswagen,Passat,2001,White,Sedan,Diesel,Manual,1800,359800,2400,Rawalpindi,Sold
+CAR-0115,Mazda,CX-5,2026,White,SUV,Petrol,Automatic,2500,11500,30410,Islamabad,For Sale
+CAR-0116,Kia,Picanto,2024,Maroon,Hatchback,Petrol,Automatic,1000,33800,9720,Karachi,For Sale
+CAR-0117,Honda,HR-V,2015,Yellow,SUV,Petrol,Automatic,1500,177200,5320,Faisalabad,For Sale
+CAR-0118,Tesla,Model Y,2023,Silver,SUV,Electric,Automatic,0,46300,33070,Rawalpindi,Sold
+CAR-0119,Tesla,Model 3,2022,White,Sedan,Electric,Automatic,0,59100,23700,Rawalpindi,Sold
+CAR-0120,Toyota,Prius,2017,White,Hatchback,Hybrid,Automatic,1800,132400,7390,Lahore,For Sale
+CAR-0121,Toyota,Prius,2019,Black,Hatchback,Hybrid,Automatic,1800,107200,10520,Rawalpindi,For Sale
+CAR-0122,Ford,Focus,2001,Black,Hatchback,Petrol,Automatic,1600,350300,1600,Faisalabad,For Sale
+CAR-0123,Tesla,Model 3,2022,White,Sedan,Electric,Automatic,0,69000,25910,Lahore,Reserved
+CAR-0124,Volkswagen,Tiguan,2013,Red,SUV,Petrol,Manual,1400,188100,4780,Peshawar,For Sale
+CAR-0125,Honda,CR-V,2009,Silver,SUV,Petrol,Manual,1500,246700,3260,Faisalabad,Reserved
+CAR-0126,Chevrolet,Camaro,2011,White,Coupe,Petrol,Manual,3600,217200,4930,Islamabad,Sold
+CAR-0127,Mazda,CX-5,2023,Silver,SUV,Petrol,Manual,2500,48000,18240,Islamabad,For Sale
+CAR-0128,Kia,EV6,2023,Blue,SUV,Electric,Automatic,0,55800,34130,Multan,For Sale
+CAR-0129,Kia,Sportage,2010,Blue,SUV,Diesel,Automatic,2000,244600,3430,Faisalabad,For Sale
+CAR-0130,BMW,5 Series,2011,Grey,Sedan,Petrol,Automatic,2000,229800,7730,Lahore,Sold
+CAR-0131,Tesla,Model X,2018,White,SUV,Electric,Automatic,0,104500,35940,Rawalpindi,Sold
+CAR-0132,Honda,CR-V,2022,Maroon,SUV,Petrol,Manual,1500,65500,18030,Islamabad,For Sale
+CAR-0133,Hyundai,Tucson,2019,Black,SUV,Petrol,Manual,2000,107200,11370,Faisalabad,For Sale
+CAR-0134,Kia,Sportage,2014,Green,SUV,Diesel,Automatic,2000,179900,5810,Rawalpindi,For Sale
+CAR-0135,Tesla,Model X,2017,Green,SUV,Electric,Automatic,0,137200,31430,Peshawar,For Sale
+CAR-0136,Toyota,Corolla,2010,Green,Sedan,Hybrid,Manual,1800,223000,2530,Rawalpindi,For Sale
+CAR-0137,Chevrolet,Silverado,2019,Silver,Pickup,Petrol,Automatic,5300,96900,16980,Multan,Sold
+CAR-0138,Mazda,Mazda 3,2007,Blue,Sedan,Petrol,Manual,2000,266000,1920,Multan,For Sale
+CAR-0139,Chevrolet,Silverado,2001,Grey,Pickup,Petrol,Manual,5300,358400,3600,Karachi,For Sale
+CAR-0140,Toyota,Prius,2007,Red,Hatchback,Hybrid,Automatic,1800,271600,2240,Islamabad,Sold
+CAR-0141,Mercedes-Benz,C-Class,2000,Grey,Sedan,Diesel,Manual,2000,368400,3840,Rawalpindi,For Sale
+CAR-0142,Chevrolet,Silverado,2009,Black,Pickup,Petrol,Automatic,5300,244900,3890,Karachi,Reserved
+CAR-0143,Honda,HR-V,2015,Red,SUV,Petrol,Manual,1500,149300,6020,Islamabad,Sold
+CAR-0144,Kia,EV6,2022,Grey,SUV,Electric,Automatic,0,62300,26290,Karachi,For Sale
+CAR-0145,Kia,Picanto,2020,Maroon,Hatchback,Petrol,Manual,1000,98700,4980,Peshawar,Sold
+CAR-0146,Mazda,CX-5,2020,White,SUV,Petrol,Automatic,2500,72300,14370,Lahore,For Sale
+CAR-0147,Hyundai,Ioniq 5,2025,Green,SUV,Electric,Automatic,0,11100,39930,Karachi,Sold
+CAR-0148,Kia,Sportage,2017,Silver,SUV,Petrol,Automatic,2000,130400,8040,Lahore,For Sale
+CAR-0149,Chevrolet,Silverado,2020,Grey,Pickup,Petrol,Manual,5300,92800,17730,Faisalabad,For Sale
+CAR-0150,Chevrolet,Camaro,2009,Blue,Coupe,Petrol,Manual,3600,265500,3650,Islamabad,For Sale
+CAR-0151,Volkswagen,Beetle,2012,Grey,Hatchback,Petrol,Manual,2000,217900,3130,Karachi,For Sale
+CAR-0152,Suzuki,Wagon R,2003,Grey,Hatchback,Petrol,Manual,1000,330300,800,Rawalpindi,For Sale
+CAR-0153,Honda,CR-V,2016,Green,SUV,Petrol,Automatic,1500,154500,8940,Multan,Sold
+CAR-0154,Honda,CR-V,2007,Black,SUV,Petrol,Manual,1500,275100,2640,Faisalabad,Sold
+CAR-0155,Toyota,Corolla,2000,White,Sedan,Petrol,Automatic,1800,370700,1920,Faisalabad,For Sale
+CAR-0156,Mazda,Mazda 3,2017,White,Sedan,Petrol,Manual,2000,135600,7120,Faisalabad,For Sale
+CAR-0157,Hyundai,Sonata,2006,Gold,Sedan,Petrol,Automatic,2500,285600,2160,Faisalabad,For Sale
+CAR-0158,Honda,HR-V,2016,Grey,SUV,Petrol,Manual,1500,145500,6590,Rawalpindi,Sold
+CAR-0159,Kia,EV6,2021,Yellow,SUV,Electric,Automatic,0,79000,26150,Peshawar,Sold
+CAR-0160,Honda,Accord,2022,Red,Sedan,Hybrid,Manual,2000,71000,17090,Multan,For Sale
+CAR-0161,Toyota,Land Cruiser,2020,Blue,SUV,Petrol,Manual,4000,85600,33560,Lahore,For Sale
+CAR-0162,Volkswagen,Passat,2001,Black,Sedan,Diesel,Automatic,1800,355100,2400,Multan,For Sale
+CAR-0163,Suzuki,Wagon R,2001,White,Hatchback,Petrol,Manual,1000,354300,800,Rawalpindi,For Sale
+CAR-0164,Volkswagen,Tiguan,2018,Red,SUV,Diesel,Manual,1400,113100,10730,Peshawar,For Sale
+CAR-0165,BMW,Z4,2012,Black,Convertible,Petrol,Manual,2000,211100,6930,Islamabad,Reserved
+CAR-0166,Suzuki,Wagon R,2001,Red,Hatchback,Petrol,Manual,1000,357600,800,Multan,Sold
+CAR-0167,Toyota,Camry,2009,Red,Sedan,Petrol,Automatic,2500,227200,3080,Karachi,For Sale
+CAR-0168,Suzuki,Vitara,2025,Silver,SUV,Petrol,Manual,1600,3400,21080,Islamabad,For Sale
+CAR-0169,Honda,Accord,2011,Red,Sedan,Hybrid,Manual,2000,211200,3440,Islamabad,For Sale
+CAR-0170,Mercedes-Benz,E-Class,2026,Grey,Sedan,Petrol,Manual,2000,300,61640,Multan,Sold
+CAR-0171,Mazda,CX-5,2023,Grey,SUV,Petrol,Automatic,2500,59800,18350,Rawalpindi,For Sale
+CAR-0172,Ford,Ranger,2014,White,Pickup,Diesel,Automatic,2200,158300,6610,Lahore,Sold
+CAR-0173,Suzuki,Swift,2018,Blue,Hatchback,Petrol,Manual,1200,108200,4710,Multan,For Sale
+CAR-0174,Suzuki,Vitara,2002,White,SUV,Petrol,Manual,1600,334700,1920,Rawalpindi,Reserved
+CAR-0175,Kia,EV6,2026,Black,SUV,Electric,Automatic,0,2800,46780,Lahore,For Sale
+CAR-0176,Toyota,Camry,2011,Black,Sedan,Petrol,Manual,2500,216600,3920,Peshawar,For Sale
+CAR-0177,Mazda,Mazda 3,2003,Blue,Sedan,Petrol,Automatic,2000,313300,1920,Karachi,For Sale
+CAR-0178,Volkswagen,Golf,2013,Silver,Hatchback,Petrol,Automatic,1400,185800,4480,Karachi,For Sale
+CAR-0179,Mercedes-Benz,GLC,2017,Black,SUV,Petrol,Automatic,2000,136000,14640,Rawalpindi,For Sale
+CAR-0180,BMW,Z4,2020,White,Convertible,Petrol,Automatic,2000,111100,22140,Peshawar,Sold
+CAR-0181,Mercedes-Benz,C-Class,2021,Black,Sedan,Petrol,Automatic,2000,78700,21870,Lahore,For Sale
+CAR-0182,Volkswagen,Tiguan,2021,Red,SUV,Petrol,Automatic,1400,57500,17180,Karachi,For Sale
+CAR-0183,Ford,Mustang,2016,Blue,Coupe,Petrol,Automatic,5000,143000,10500,Islamabad,For Sale
+CAR-0184,Tesla,Model 3,2023,Black,Sedan,Electric,Automatic,0,45600,25740,Multan,For Sale
+CAR-0185,Volkswagen,Beetle,2001,Black,Hatchback,Petrol,Automatic,2000,361100,1760,Peshawar,Sold
+CAR-0186,Volkswagen,Beetle,2003,Silver,Hatchback,Petrol,Automatic,2000,320700,1760,Lahore,For Sale
+CAR-0187,Honda,Civic,2005,Green,Sedan,Petrol,Automatic,1800,289300,2000,Lahore,Sold
+CAR-0188,Mazda,MX-5,2015,Black,Convertible,Petrol,Manual,2000,157200,6190,Lahore,For Sale
+CAR-0189,Volkswagen,Passat,2004,Silver,Sedan,Petrol,Automatic,1800,318300,2400,Peshawar,Sold
+CAR-0190,Suzuki,Cultus,2003,Grey,Hatchback,Petrol,Automatic,1000,320100,880,Islamabad,Sold
+CAR-0191,Suzuki,Vitara,2005,White,SUV,Petrol,Automatic,1600,299900,1920,Faisalabad,Sold
+CAR-0192,BMW,X5,2013,Grey,SUV,Diesel,Automatic,3000,190000,11440,Faisalabad,Sold
+CAR-0193,Suzuki,Alto,2022,White,Hatchback,Petrol,Automatic,660,69900,4160,Faisalabad,For Sale
+CAR-0194,Ford,Explorer,2026,Silver,SUV,Petrol,Automatic,3500,3600,46020,Karachi,For Sale
+CAR-0195,Honda,Accord,2000,Black,Sedan,Petrol,Manual,2000,363200,2400,Faisalabad,Reserved
+CAR-0196,BMW,Z4,2012,Black,Convertible,Petrol,Automatic,2000,189500,8060,Islamabad,For Sale
+CAR-0197,BMW,Z4,2010,Blue,Convertible,Petrol,Manual,2000,230400,5900,Peshawar,For Sale
+CAR-0198,Toyota,Yaris,2005,Green,Hatchback,Petrol,Manual,1500,284800,1440,Islamabad,For Sale
+CAR-0199,Tesla,Model X,2018,Gold,SUV,Electric,Automatic,0,111700,36170,Karachi,For Sale
+CAR-0200,Hyundai,Elantra,2022,Silver,Sedan,Petrol,Manual,2000,56000,12500,Faisalabad,For Sale
+CAR-0201,Suzuki,Vitara,2012,White,SUV,Petrol,Automatic,1600,193600,3730,Peshawar,Sold
+CAR-0202,Toyota,Land Cruiser,2018,Red,SUV,Diesel,Manual,4000,128200,27080,Multan,For Sale
+CAR-0203,Ford,Ranger,2013,Yellow,Pickup,Diesel,Manual,2200,195000,5750,Karachi,For Sale
+CAR-0204,Chevrolet,Silverado,2004,White,Pickup,Petrol,Manual,5300,307800,3600,Faisalabad,For Sale
+CAR-0205,BMW,Z4,2015,Green,Convertible,Petrol,Automatic,2000,160500,11470,Lahore,For Sale
+CAR-0206,Kia,Sportage,2012,White,SUV,Petrol,Automatic,2000,176700,3930,Rawalpindi,For Sale
+CAR-0207,Hyundai,Ioniq 5,2022,Blue,SUV,Electric,Automatic,0,59200,27330,Islamabad,For Sale
+CAR-0208,Volkswagen,Passat,2015,Black,Sedan,Diesel,Automatic,1800,161600,5910,Islamabad,For Sale
+CAR-0209,Toyota,Land Cruiser,2024,Black,SUV,Petrol,Automatic,4000,36400,58490,Karachi,For Sale
+CAR-0210,Suzuki,Vitara,2005,Silver,SUV,Petrol,Automatic,1600,299100,1920,Rawalpindi,Sold
+CAR-0211,Hyundai,Tucson,2019,Black,SUV,Diesel,Manual,2000,105200,12340,Multan,For Sale
+CAR-0212,BMW,5 Series,2013,Green,Sedan,Diesel,Automatic,2000,193800,10090,Peshawar,For Sale
+CAR-0213,Honda,HR-V,2021,Grey,SUV,Petrol,Automatic,1500,76100,14190,Multan,Sold
+CAR-0214,Honda,Civic,2013,Grey,Sedan,Petrol,Automatic,1800,187800,3750,Faisalabad,For Sale
+CAR-0215,Tesla,Model X,2025,Black,SUV,Electric,Automatic,0,25100,87550,Multan,For Sale
+CAR-0216,Kia,Sorento,2018,Maroon,SUV,Diesel,Automatic,2400,116500,12770,Faisalabad,Reserved
+CAR-0217,Mercedes-Benz,C-Class,2006,Gold,Sedan,Petrol,Manual,2000,270400,3840,Multan,For Sale
+CAR-0218,Kia,Sportage,2007,White,SUV,Petrol,Automatic,2000,266600,2320,Rawalpindi,Reserved
+CAR-0219,Kia,Sorento,2011,Black,SUV,Diesel,Manual,2400,208000,4490,Peshawar,Sold
+CAR-0220,Hyundai,Tucson,2007,White,SUV,Diesel,Manual,2000,282900,2400,Multan,For Sale
+CAR-0221,BMW,3 Series,2008,Grey,Sedan,Diesel,Manual,2000,273600,3600,Multan,Sold
+CAR-0222,Mercedes-Benz,C-Class,2006,White,Sedan,Petrol,Manual,2000,275000,3840,Karachi,Sold
+CAR-0223,Toyota,Prius,2014,Black,Hatchback,Hybrid,Automatic,1800,186700,5210,Rawalpindi,For Sale
+CAR-0224,Ford,Explorer,2021,White,SUV,Petrol,Automatic,3500,78200,22270,Multan,For Sale
+CAR-0225,Suzuki,Swift,2011,Black,Hatchback,Petrol,Manual,1200,231600,1860,Faisalabad,For Sale
+CAR-0226,Suzuki,Wagon R,2004,Grey,Hatchback,Petrol,Manual,1000,314200,800,Multan,Sold
+CAR-0227,BMW,X5,2003,Black,SUV,Diesel,Manual,3000,327100,5600,Peshawar,For Sale
+CAR-0228,Mazda,MX-5,2015,Silver,Convertible,Petrol,Automatic,2000,165300,6880,Peshawar,Reserved
+CAR-0229,Volkswagen,Tiguan,2025,Green,SUV,Diesel,Automatic,1400,21500,26980,Faisalabad,For Sale
+CAR-0230,Chevrolet,Silverado,2010,Red,Pickup,Petrol,Automatic,5300,246400,5170,Islamabad,Sold
+CAR-0231,Suzuki,Cultus,2015,Black,Hatchback,Petrol,Automatic,1000,174700,2300,Islamabad,For Sale
+CAR-0232,Ford,Explorer,2007,Grey,SUV,Petrol,Automatic,3500,261800,3360,Peshawar,Sold
+CAR-0233,Mercedes-Benz,GLC,2017,Grey,SUV,Petrol,Manual,2000,119000,14510,Multan,Sold
+CAR-0234,Ford,Focus,2018,Green,Hatchback,Petrol,Automatic,1600,125300,7000,Karachi,For Sale
+CAR-0235,Honda,Civic,2026,Red,Sedan,Hybrid,Automatic,1800,4300,27310,Faisalabad,For Sale
+CAR-0236,Mercedes-Benz,GLC,2021,White,SUV,Petrol,Automatic,2000,60300,29940,Rawalpindi,Sold
+CAR-0237,Honda,CR-V,2010,Green,SUV,Hybrid,Automatic,1500,230400,3460,Karachi,For Sale
+CAR-0238,Nissan,Patrol,2013,Silver,SUV,Petrol,Automatic,4000,184100,10370,Lahore,Sold
+CAR-0239,Suzuki,Cultus,2013,White,Hatchback,Petrol,Manual,1000,187100,1890,Islamabad,Sold
+CAR-0240,BMW,3 Series,2012,Maroon,Sedan,Petrol,Automatic,2000,202600,6720,Faisalabad,For Sale
+CAR-0241,Kia,EV6,2025,Green,SUV,Electric,Automatic,0,13600,42280,Islamabad,Reserved
+CAR-0242,Toyota,Camry,2014,Maroon,Sedan,Petrol,Automatic,2500,163800,5580,Multan,For Sale
+CAR-0243,Nissan,Patrol,2009,Silver,SUV,Diesel,Manual,4000,241000,6140,Multan,For Sale
+CAR-0244,Volkswagen,Golf,2003,White,Hatchback,Diesel,Automatic,1400,341700,2080,Islamabad,Sold
+CAR-0245,Kia,EV6,2023,Grey,SUV,Electric,Automatic,0,49400,28610,Multan,Sold
+CAR-0246,Ford,Mustang,2019,White,Coupe,Petrol,Automatic,5000,91300,16240,Multan,Reserved
+CAR-0247,Hyundai,Ioniq 5,2025,White,SUV,Electric,Automatic,0,11500,35920,Rawalpindi,For Sale
+CAR-0248,Ford,Mustang,2012,Blue,Coupe,Petrol,Manual,5000,209400,5890,Multan,For Sale
+CAR-0249,Volkswagen,Beetle,2002,Green,Hatchback,Petrol,Manual,2000,346800,1760,Karachi,For Sale
+CAR-0250,Volkswagen,Passat,2005,White,Sedan,Diesel,Manual,1800,294800,2400,Rawalpindi,For Sale
+CAR-0251,Ford,Ranger,2016,White,Pickup,Diesel,Automatic,2200,150300,8620,Rawalpindi,Sold
+CAR-0252,Nissan,Skyline,2010,Red,Coupe,Petrol,Manual,3000,228500,4420,Islamabad,For Sale
+CAR-0253,Honda,City,2008,Blue,Sedan,Petrol,Manual,1500,260500,1440,Peshawar,Sold
+CAR-0254,Mercedes-Benz,S-Class,2005,Silver,Sedan,Petrol,Manual,3000,288400,9200,Rawalpindi,For Sale
+CAR-0255,Volkswagen,Passat,2016,White,Sedan,Petrol,Automatic,1800,151500,8120,Faisalabad,For Sale
+CAR-0256,Nissan,Sunny,2000,Black,Sedan,Petrol,Manual,1500,389300,1120,Karachi,For Sale
+CAR-0257,Suzuki,Wagon R,2001,Black,Hatchback,Petrol,Automatic,1000,359900,800,Islamabad,For Sale
+CAR-0258,Toyota,Land Cruiser,2025,Black,SUV,Petrol,Manual,4000,16500,65380,Faisalabad,For Sale
+CAR-0259,Mazda,Mazda 3,2026,Maroon,Sedan,Petrol,Automatic,2000,500,22110,Rawalpindi,For Sale
+CAR-0260,Kia,Sportage,2002,Blue,SUV,Diesel,Automatic,2000,346000,2320,Rawalpindi,For Sale
+CAR-0261,Honda,HR-V,2025,Black,SUV,Petrol,Automatic,1500,40600,23680,Multan,For Sale
+CAR-0262,Kia,Sportage,2008,Black,SUV,Diesel,Manual,2000,261400,2320,Karachi,For Sale
+CAR-0263,Honda,CR-V,2024,Black,SUV,Petrol,Automatic,1500,37200,23860,Islamabad,Sold
+CAR-0264,Toyota,Prius,2014,Silver,Hatchback,Hybrid,Manual,1800,184400,4880,Rawalpindi,For Sale
+CAR-0265,Hyundai,Sonata,2013,Blue,Sedan,Petrol,Manual,2500,192800,4060,Rawalpindi,For Sale
+CAR-0266,Honda,HR-V,2023,Red,SUV,Petrol,Manual,1500,37200,15820,Faisalabad,Sold
+CAR-0267,Mazda,MX-5,2004,White,Convertible,Petrol,Automatic,2000,326500,2480,Lahore,For Sale
+CAR-0268,Kia,Picanto,2023,Blue,Hatchback,Petrol,Automatic,1000,54900,7390,Faisalabad,For Sale
+CAR-0269,Mazda,Mazda 3,2009,Maroon,Sedan,Petrol,Automatic,2000,243900,2460,Islamabad,For Sale
+CAR-0270,BMW,5 Series,2025,White,Sedan,Petrol,Automatic,2000,16300,48960,Islamabad,Sold
+CAR-0271,Ford,F-150,2005,Gold,Pickup,Petrol,Manual,3500,299300,3600,Faisalabad,Sold
+CAR-0272,Nissan,Leaf,2026,Red,Hatchback,Electric,Automatic,0,11000,30250,Multan,Reserved
+CAR-0273,Chevrolet,Silverado,2019,Yellow,Pickup,Petrol,Automatic,5300,99400,17990,Rawalpindi,Reserved
+CAR-0274,Mercedes-Benz,C-Class,2010,Maroon,Sedan,Petrol,Automatic,2000,238400,5240,Faisalabad,For Sale
+CAR-0275,Honda,City,2008,White,Sedan,Petrol,Automatic,1500,249900,1600,Peshawar,For Sale
+CAR-0276,Toyota,Land Cruiser,2014,Silver,SUV,Petrol,Automatic,4000,180300,13560,Multan,For Sale
+CAR-0277,Honda,Accord,2025,White,Sedan,Petrol,Automatic,2000,14600,25200,Islamabad,Sold
+CAR-0278,Nissan,Leaf,2011,White,Hatchback,Electric,Automatic,0,211700,3460,Multan,Sold
+CAR-0279,Nissan,Skyline,2006,Silver,Coupe,Petrol,Manual,3000,272500,3040,Peshawar,Sold
+CAR-0280,Toyota,Corolla,2007,White,Sedan,Petrol,Manual,1800,272200,1920,Lahore,Sold
+CAR-0281,Honda,City,2009,White,Sedan,Petrol,Automatic,1500,258700,1830,Faisalabad,Reserved
+CAR-0282,Kia,Picanto,2009,Blue,Hatchback,Petrol,Manual,1000,251000,1210,Islamabad,Sold
+CAR-0283,Tesla,Model 3,2025,Black,Sedan,Electric,Automatic,0,35700,36760,Multan,For Sale
+CAR-0284,Nissan,Skyline,2004,White,Coupe,Petrol,Automatic,3000,314500,3040,Multan,For Sale
+CAR-0285,Honda,HR-V,2026,Silver,SUV,Petrol,Automatic,1500,10000,23470,Peshawar,Sold
+CAR-0286,Hyundai,Tucson,2021,White,SUV,Petrol,Automatic,2000,73600,16240,Faisalabad,Sold
+CAR-0287,Chevrolet,Corvette,2018,Red,Coupe,Petrol,Manual,6200,115300,24350,Islamabad,Reserved
+CAR-0288,Ford,Focus,2017,Red,Hatchback,Petrol,Automatic,1600,143900,5320,Lahore,Sold
+CAR-0289,Toyota,Corolla,2024,Blue,Sedan,Hybrid,Automatic,1800,29500,18340,Karachi,For Sale
+CAR-0290,Volkswagen,Golf,2023,Red,Hatchback,Petrol,Manual,1400,61200,17410,Multan,Sold
+CAR-0291,Hyundai,Elantra,2003,Red,Sedan,Petrol,Manual,2000,322200,1760,Islamabad,Sold
+CAR-0292,Toyota,Camry,2000,Gold,Sedan,Petrol,Manual,2500,374000,2320,Islamabad,For Sale
+CAR-0293,Honda,Accord,2019,Red,Sedan,Petrol,Automatic,2000,105600,10980,Faisalabad,For Sale
+CAR-0294,Tesla,Model Y,2023,White,SUV,Electric,Automatic,0,49300,29720,Islamabad,Sold
+CAR-0295,Mercedes-Benz,C-Class,2019,Silver,Sedan,Petrol,Manual,2000,115800,16660,Karachi,For Sale
+CAR-0296,Nissan,Leaf,2011,Grey,Hatchback,Electric,Automatic,0,216200,3780,Islamabad,For Sale
+CAR-0297,Mercedes-Benz,C-Class,2013,Silver,Sedan,Petrol,Automatic,2000,190100,8210,Rawalpindi,Sold
+CAR-0298,Mazda,Mazda 3,2006,Blue,Sedan,Petrol,Automatic,2000,301500,1920,Rawalpindi,For Sale
+CAR-0299,BMW,3 Series,2019,Maroon,Sedan,Petrol,Manual,2000,108400,16240,Faisalabad,For Sale
+CAR-0300,Volkswagen,Beetle,2010,Blue,Hatchback,Petrol,Manual,2000,235100,2370,Lahore,For Sale
+CAR-0301,Toyota,Camry,2014,Grey,Sedan,Petrol,Manual,2500,185500,5320,Multan,For Sale
+CAR-0302,Toyota,Yaris,2003,Maroon,Hatchback,Petrol,Automatic,1500,327700,1440,Karachi,For Sale
+CAR-0303,Chevrolet,Silverado,2003,Grey,Pickup,Petrol,Manual,5300,334300,3600,Karachi,Sold
+CAR-0304,Kia,Picanto,2008,Black,Hatchback,Petrol,Manual,1000,258200,980,Islamabad,For Sale
+CAR-0305,Honda,HR-V,2026,White,SUV,Petrol,Automatic,1500,4300,27300,Faisalabad,Sold
+CAR-0306,BMW,5 Series,2017,Grey,Sedan,Diesel,Manual,2000,126100,15870,Faisalabad,Reserved
+CAR-0307,Tesla,Model 3,2022,Green,Sedan,Electric,Automatic,0,79700,24470,Rawalpindi,For Sale
+CAR-0308,Tesla,Model 3,2026,White,Sedan,Electric,Automatic,0,12900,42540,Multan,For Sale
+CAR-0309,BMW,X5,2021,White,SUV,Diesel,Automatic,3000,68100,34900,Faisalabad,For Sale
+CAR-0310,Volkswagen,Beetle,2006,White,Hatchback,Petrol,Manual,2000,291800,1760,Faisalabad,For Sale
+CAR-0311,Nissan,Patrol,2010,White,SUV,Petrol,Manual,4000,240400,6600,Peshawar,Sold
+CAR-0312,Chevrolet,Silverado,2017,White,Pickup,Petrol,Automatic,5300,128000,13040,Multan,Reserved
+CAR-0313,BMW,X5,2024,Grey,SUV,Diesel,Automatic,3000,38800,56790,Peshawar,For Sale
+CAR-0314,Suzuki,Swift,2023,Black,Hatchback,Petrol,Automatic,1200,62300,9390,Karachi,Sold
+CAR-0315,Volkswagen,Golf,2017,Green,Hatchback,Petrol,Manual,1400,135100,6830,Multan,Sold
+CAR-0316,Hyundai,Elantra,2014,Blue,Sedan,Petrol,Manual,2000,169800,4210,Lahore,For Sale
+CAR-0317,Suzuki,Swift,2010,Maroon,Hatchback,Petrol,Automatic,1200,229500,1730,Lahore,For Sale
+CAR-0318,Tesla,Model 3,2021,Green,Sedan,Electric,Automatic,0,80200,22580,Islamabad,For Sale
+CAR-0319,Tesla,Model Y,2024,Red,SUV,Electric,Automatic,0,28000,39690,Karachi,For Sale
+CAR-0320,BMW,5 Series,2003,Grey,Sedan,Diesel,Automatic,2000,324700,4800,Islamabad,Sold
+CAR-0321,Nissan,Patrol,2000,White,SUV,Diesel,Manual,4000,383100,4800,Rawalpindi,For Sale
+CAR-0322,Kia,Picanto,2025,Black,Hatchback,Petrol,Automatic,1000,30600,10130,Faisalabad,For Sale
+CAR-0323,Honda,City,2014,Black,Sedan,Petrol,Automatic,1500,173600,3690,Islamabad,Sold
+CAR-0324,BMW,3 Series,2019,Red,Sedan,Petrol,Manual,2000,105300,16270,Karachi,For Sale
+CAR-0325,Mazda,Mazda 3,2006,White,Sedan,Petrol,Manual,2000,292800,1920,Lahore,For Sale
+CAR-0326,Ford,Explorer,2015,Silver,SUV,Petrol,Automatic,3500,154500,9370,Faisalabad,For Sale
+CAR-0327,Honda,CR-V,2009,Silver,SUV,Petrol,Manual,1500,241200,3440,Faisalabad,For Sale
+CAR-0328,Hyundai,Ioniq 5,2023,Black,SUV,Electric,Automatic,0,52300,30930,Multan,Sold
+CAR-0329,Ford,F-150,2002,Silver,Pickup,Petrol,Manual,3500,343800,3600,Rawalpindi,For Sale
+CAR-0330,BMW,3 Series,2026,Green,Sedan,Diesel,Automatic,2000,4800,47390,Rawalpindi,Sold
+CAR-0331,Tesla,Model S,2015,White,Sedan,Electric,Automatic,0,162400,21110,Islamabad,Sold
+CAR-0332,BMW,5 Series,2014,Maroon,Sedan,Petrol,Automatic,2000,181200,11780,Multan,For Sale
+CAR-0333,Toyota,Hilux,2018,Black,Pickup,Diesel,Automatic,2800,110800,11330,Lahore,Reserved
+CAR-0334,Hyundai,Ioniq 5,2026,Blue,SUV,Electric,Automatic,0,2900,43650,Islamabad,Sold
+CAR-0335,Kia,EV6,2023,Grey,SUV,Electric,Automatic,0,45200,30760,Rawalpindi,Reserved
+CAR-0336,Mazda,Mazda 3,2009,Black,Sedan,Petrol,Automatic,2000,246500,2360,Lahore,Sold
+CAR-0337,Honda,City,2001,Grey,Sedan,Petrol,Automatic,1500,358400,1440,Karachi,Sold
+CAR-0338,Ford,F-150,2021,Grey,Pickup,Petrol,Automatic,3500,67500,22870,Lahore,Reserved
+CAR-0339,Chevrolet,Corvette,2025,Red,Coupe,Petrol,Automatic,6200,21500,62220,Islamabad,For Sale
+CAR-0340,Toyota,Yaris,2014,Silver,Hatchback,Petrol,Manual,1500,175300,3500,Peshawar,For Sale
+CAR-0341,Suzuki,Wagon R,2002,Black,Hatchback,Petrol,Automatic,1000,323100,800,Lahore,Reserved
+CAR-0342,Nissan,Skyline,2000,Grey,Coupe,Petrol,Manual,3000,370100,3040,Lahore,For Sale
+CAR-0343,Honda,HR-V,2026,Black,SUV,Petrol,Manual,1500,300,27680,Islamabad,For Sale
+CAR-0344,Suzuki,Swift,2025,Green,Hatchback,Petrol,Automatic,1200,24800,12240,Faisalabad,Sold
+CAR-0345,Mazda,Mazda 3,2014,Yellow,Sedan,Petrol,Manual,2000,180100,4880,Islamabad,For Sale
+CAR-0346,Hyundai,Sonata,2020,Blue,Sedan,Hybrid,Automatic,2500,81000,11190,Multan,For Sale
+CAR-0347,Tesla,Model Y,2024,White,SUV,Electric,Automatic,0,41900,36930,Multan,For Sale
+CAR-0348,BMW,X5,2018,White,SUV,Petrol,Automatic,3000,113100,23370,Karachi,Sold
+CAR-0349,Kia,Sorento,2007,Silver,SUV,Petrol,Manual,2400,280200,2800,Lahore,For Sale
+CAR-0350,Hyundai,Ioniq 5,2025,Grey,SUV,Electric,Automatic,0,10200,37450,Faisalabad,For Sale
+CAR-0351,Kia,Sorento,2007,White,SUV,Petrol,Manual,2400,281000,2800,Lahore,For Sale
+CAR-0352,Hyundai,Sonata,2024,Black,Sedan,Petrol,Automatic,2500,48000,21700,Multan,Sold
+CAR-0353,Suzuki,Wagon R,2002,White,Hatchback,Petrol,Manual,1000,347100,800,Rawalpindi,For Sale
+CAR-0354,Toyota,Camry,2011,White,Sedan,Hybrid,Automatic,2500,214800,3440,Peshawar,For Sale
+CAR-0355,Kia,Sorento,2008,White,SUV,Petrol,Manual,2400,246200,3200,Rawalpindi,For Sale
+CAR-0356,Nissan,Skyline,2010,White,Coupe,Petrol,Manual,3000,250000,4130,Multan,For Sale
+CAR-0357,Mazda,MX-5,2024,Red,Convertible,Petrol,Automatic,2000,32200,25150,Faisalabad,For Sale
+CAR-0358,Honda,Civic,2015,Grey,Sedan,Petrol,Automatic,1800,140900,5500,Lahore,For Sale
+CAR-0359,Chevrolet,Camaro,2016,Blue,Coupe,Petrol,Automatic,3600,140500,10430,Rawalpindi,For Sale
+CAR-0360,Mazda,MX-5,2005,Maroon,Convertible,Petrol,Automatic,2000,306800,2480,Lahore,For Sale
+CAR-0361,Volkswagen,Passat,2008,Blue,Sedan,Petrol,Manual,1800,260200,2730,Rawalpindi,Sold
+CAR-0362,Kia,Sorento,2021,Red,SUV,Petrol,Manual,2400,84500,16490,Faisalabad,For Sale
+CAR-0363,BMW,Z4,2026,Blue,Convertible,Petrol,Automatic,2000,4000,47610,Multan,For Sale
+CAR-0364,Tesla,Model S,2016,Red,Sedan,Electric,Automatic,0,137100,22570,Karachi,For Sale
+CAR-0365,BMW,3 Series,2002,Blue,Sedan,Diesel,Automatic,2000,347300,3600,Multan,For Sale
+CAR-0366,Ford,Focus,2005,Grey,Hatchback,Petrol,Manual,1600,298700,1600,Rawalpindi,For Sale
+CAR-0367,Tesla,Model 3,2020,Blue,Sedan,Electric,Automatic,0,90600,19480,Islamabad,For Sale
+CAR-0368,Hyundai,Sonata,2024,Blue,Sedan,Petrol,Automatic,2500,27700,20330,Karachi,Sold
+CAR-0369,BMW,X5,2022,Red,SUV,Diesel,Manual,3000,62100,42290,Peshawar,Sold
+CAR-0370,Volkswagen,Beetle,2000,White,Hatchback,Petrol,Automatic,2000,368200,1760,Rawalpindi,Sold
+CAR-0371,Kia,EV6,2024,White,SUV,Electric,Automatic,0,32800,39700,Lahore,Reserved
+CAR-0372,Kia,Picanto,2019,Green,Hatchback,Petrol,Automatic,1000,106900,4640,Multan,For Sale
+CAR-0373,Suzuki,Alto,2020,Blue,Hatchback,Petrol,Manual,660,94300,3290,Faisalabad,For Sale
+CAR-0374,Mazda,Mazda 3,2008,Black,Sedan,Petrol,Automatic,2000,261600,1950,Peshawar,For Sale
+CAR-0375,Toyota,Hilux,2000,Red,Pickup,Diesel,Automatic,2800,357000,2800,Multan,Sold
+CAR-0376,Suzuki,Swift,2013,Gold,Hatchback,Petrol,Manual,1200,191800,2690,Islamabad,For Sale
+CAR-0377,Tesla,Model X,2018,Blue,SUV,Electric,Automatic,0,127900,30690,Rawalpindi,For Sale
+CAR-0378,Volkswagen,Golf,2020,Blue,Hatchback,Petrol,Automatic,1400,96200,11740,Multan,Sold
+CAR-0379,Mercedes-Benz,S-Class,2019,White,Sedan,Diesel,Automatic,3000,110400,43840,Lahore,Sold
+CAR-0380,BMW,3 Series,2022,Black,Sedan,Petrol,Manual,2000,58300,28300,Faisalabad,Reserved
+CAR-0381,Toyota,Camry,2004,Green,Sedan,Petrol,Manual,2500,319200,2320,Faisalabad,For Sale
+CAR-0382,Toyota,Hilux,2015,Grey,Pickup,Diesel,Automatic,2800,167600,8180,Lahore,For Sale
+CAR-0383,Volkswagen,Golf,2020,White,Hatchback,Petrol,Automatic,1400,94300,11700,Faisalabad,For Sale
+CAR-0384,Ford,Ranger,2022,White,Pickup,Diesel,Automatic,2200,58900,21340,Rawalpindi,Reserved
+CAR-0385,Kia,Sorento,2026,Black,SUV,Petrol,Manual,2400,8700,35670,Faisalabad,Sold
+CAR-0386,BMW,Z4,2024,White,Convertible,Petrol,Manual,2000,40400,37820,Rawalpindi,For Sale
+CAR-0387,Ford,F-150,2003,Green,Pickup,Petrol,Automatic,3500,333500,3600,Lahore,For Sale
+CAR-0388,Kia,Picanto,2020,Blue,Hatchback,Petrol,Automatic,1000,85100,5310,Karachi,For Sale
+CAR-0389,Chevrolet,Corvette,2014,Silver,Coupe,Petrol,Manual,6200,185900,13830,Karachi,For Sale
+CAR-0390,Suzuki,Alto,2006,Black,Hatchback,Petrol,Manual,660,279000,640,Peshawar,For Sale
+CAR-0391,Honda,Civic,2025,Gold,Sedan,Petrol,Automatic,1800,19000,22600,Lahore,Sold
+CAR-0392,Chevrolet,Silverado,2015,Gold,Pickup,Petrol,Manual,5300,160000,9140,Multan,For Sale
+CAR-0393,Tesla,Model Y,2021,Gold,SUV,Electric,Automatic,0,80500,26520,Lahore,For Sale
+CAR-0394,Toyota,Prius,2022,Green,Hatchback,Hybrid,Automatic,1800,64900,14600,Faisalabad,For Sale
+CAR-0395,Honda,City,2010,Black,Sedan,Petrol,Automatic,1500,227800,2040,Rawalpindi,For Sale
+CAR-0396,Mazda,MX-5,2011,Black,Convertible,Petrol,Manual,2000,210400,4010,Lahore,For Sale
+CAR-0397,Kia,EV6,2021,Yellow,SUV,Electric,Automatic,0,87700,24630,Islamabad,Sold
+CAR-0398,BMW,5 Series,2021,Black,Sedan,Diesel,Automatic,2000,77600,32820,Faisalabad,For Sale
+CAR-0399,BMW,X5,2016,Silver,SUV,Petrol,Manual,3000,138700,16340,Karachi,Reserved
+CAR-0400,Tesla,Model S,2014,Grey,Sedan,Electric,Automatic,0,164900,19230,Rawalpindi,For Sale
+CAR-0401,Mercedes-Benz,GLC,2025,Red,SUV,Petrol,Automatic,2000,23500,44280,Peshawar,For Sale
+CAR-0402,Hyundai,Sonata,2026,Silver,Sedan,Petrol,Automatic,2500,1800,28430,Islamabad,Sold
+CAR-0403,Suzuki,Alto,2001,Grey,Hatchback,Petrol,Manual,660,351100,640,Karachi,For Sale
+CAR-0404,Honda,HR-V,2018,White,SUV,Petrol,Manual,1500,123100,8710,Faisalabad,For Sale
+CAR-0405,Ford,Explorer,2024,White,SUV,Petrol,Manual,3500,50600,32850,Rawalpindi,For Sale
+CAR-0406,Mazda,MX-5,2010,Blue,Convertible,Petrol,Automatic,2000,225600,3320,Faisalabad,For Sale
+CAR-0407,Mazda,Mazda 3,2026,Blue,Sedan,Petrol,Manual,2000,700,25150,Karachi,Sold
+CAR-0408,Hyundai,Tucson,2016,Grey,SUV,Diesel,Automatic,2000,159900,7750,Peshawar,For Sale
+CAR-0409,BMW,Z4,2003,Grey,Convertible,Petrol,Automatic,2000,328200,4160,Lahore,Sold
+CAR-0410,Nissan,Skyline,2010,Blue,Coupe,Petrol,Manual,3000,229300,3920,Rawalpindi,For Sale
+CAR-0411,Toyota,Yaris,2018,Grey,Hatchback,Petrol,Automatic,1500,117600,5690,Lahore,For Sale
+CAR-0412,Suzuki,Swift,2012,White,Hatchback,Petrol,Manual,1200,213500,2150,Faisalabad,For Sale
+CAR-0413,Ford,Mustang,2018,Silver,Coupe,Petrol,Manual,5000,106000,14430,Rawalpindi,Sold
+CAR-0414,Mercedes-Benz,E-Class,2003,Maroon,Sedan,Diesel,Automatic,2000,334700,4960,Karachi,Sold
+CAR-0415,Toyota,Prius,2007,Red,Hatchback,Hybrid,Automatic,1800,274200,2240,Peshawar,Sold
+CAR-0416,Mercedes-Benz,C-Class,2010,Black,Sedan,Diesel,Automatic,2000,241300,5140,Rawalpindi,For Sale
+CAR-0417,Mercedes-Benz,GLC,2018,Silver,SUV,Diesel,Automatic,2000,136700,17110,Lahore,Sold
+CAR-0418,Mazda,Mazda 3,2013,Black,Sedan,Petrol,Automatic,2000,195700,4040,Lahore,For Sale
+CAR-0419,Mercedes-Benz,S-Class,2023,White,Sedan,Diesel,Manual,3000,40700,71630,Islamabad,For Sale
+CAR-0420,Suzuki,Wagon R,2007,Maroon,Hatchback,Petrol,Manual,1000,275400,800,Faisalabad,For Sale
+CAR-0421,Ford,Explorer,2026,Green,SUV,Petrol,Automatic,3500,2500,42600,Rawalpindi,Sold
+CAR-0422,Tesla,Model S,2013,Silver,Sedan,Electric,Automatic,0,186100,15810,Islamabad,For Sale
+CAR-0423,Hyundai,Tucson,2008,White,SUV,Diesel,Manual,2000,249800,2700,Islamabad,For Sale
+CAR-0424,BMW,X5,2010,Silver,SUV,Petrol,Manual,3000,219700,7560,Karachi,For Sale
+CAR-0425,Mazda,CX-5,2015,White,SUV,Petrol,Manual,2500,154900,5970,Multan,Reserved
+CAR-0426,Tesla,Model Y,2021,Grey,SUV,Electric,Automatic,0,78400,23490,Lahore,For Sale
+CAR-0427,Toyota,Land Cruiser,2021,Black,SUV,Diesel,Automatic,4000,72500,37960,Rawalpindi,For Sale
+CAR-0428,Nissan,Leaf,2021,Maroon,Hatchback,Electric,Automatic,0,71400,14840,Peshawar,For Sale
+CAR-0429,Hyundai,Ioniq 5,2024,Silver,SUV,Electric,Automatic,0,38100,35140,Multan,Sold
+CAR-0430,Toyota,Yaris,2019,Grey,Hatchback,Petrol,Automatic,1500,115200,7210,Lahore,For Sale
+CAR-0431,Volkswagen,Golf,2018,White,Hatchback,Diesel,Automatic,1400,126000,8970,Peshawar,For Sale
+CAR-0432,Kia,Sorento,2018,Green,SUV,Diesel,Automatic,2400,113300,12680,Faisalabad,For Sale
+CAR-0433,Honda,Civic,2008,Blue,Sedan,Petrol,Manual,1800,262500,2170,Peshawar,Sold
+CAR-0434,Ford,Explorer,2010,Silver,SUV,Petrol,Automatic,3500,244800,4270,Rawalpindi,Sold
+CAR-0435,Mazda,MX-5,2003,Grey,Convertible,Petrol,Automatic,2000,328200,2480,Karachi,For Sale
+CAR-0436,Tesla,Model S,2017,Silver,Sedan,Electric,Automatic,0,139700,29660,Faisalabad,For Sale
+CAR-0437,Suzuki,Alto,2016,Blue,Hatchback,Petrol,Automatic,660,153600,2120,Islamabad,Sold
+CAR-0438,Ford,Explorer,2008,Black,SUV,Petrol,Automatic,3500,284500,3360,Lahore,Sold
+CAR-0439,Kia,Sorento,2006,White,SUV,Diesel,Automatic,2400,300000,2800,Islamabad,Sold
+CAR-0440,Tesla,Model Y,2021,Silver,SUV,Electric,Automatic,0,66900,26910,Multan,For Sale
+CAR-0441,Toyota,Hilux,2005,Maroon,Pickup,Diesel,Automatic,2800,294200,2800,Islamabad,Sold
+CAR-0442,Suzuki,Wagon R,2012,Maroon,Hatchback,Petrol,Manual,1000,212200,1420,Islamabad,Sold
+CAR-0443,Hyundai,Elantra,2006,Yellow,Sedan,Petrol,Automatic,2000,290100,1760,Islamabad,For Sale
+CAR-0444,Volkswagen,Tiguan,2020,Blue,SUV,Diesel,Automatic,1400,98000,13130,Lahore,For Sale
+CAR-0445,Mazda,CX-5,2017,Black,SUV,Petrol,Manual,2500,123400,8060,Islamabad,For Sale
+CAR-0446,Toyota,Yaris,2000,Red,Hatchback,Petrol,Automatic,1500,358300,1440,Rawalpindi,For Sale
+CAR-0447,Hyundai,Sonata,2021,Black,Sedan,Hybrid,Automatic,2500,82900,14260,Lahore,Sold
+CAR-0448,BMW,Z4,2018,White,Convertible,Petrol,Automatic,2000,116300,17260,Faisalabad,For Sale
+CAR-0449,Tesla,Model X,2025,White,SUV,Electric,Automatic,0,18000,80800,Peshawar,For Sale
+CAR-0450,Ford,F-150,2000,Green,Pickup,Petrol,Automatic,3500,361700,3600,Karachi,For Sale
+CAR-0451,Suzuki,Wagon R,2026,Green,Hatchback,Petrol,Automatic,1000,6600,9630,Multan,Sold
+CAR-0452,Ford,F-150,2003,Silver,Pickup,Petrol,Automatic,3500,327800,3600,Multan,Reserved
+CAR-0453,Mercedes-Benz,GLC,2019,Silver,SUV,Diesel,Manual,2000,110900,22690,Rawalpindi,For Sale
+CAR-0454,Mercedes-Benz,GLC,2018,Silver,SUV,Diesel,Automatic,2000,111500,18890,Lahore,Reserved
+CAR-0455,Mercedes-Benz,GLC,2024,Grey,SUV,Petrol,Automatic,2000,28000,43760,Lahore,Sold
+CAR-0456,Hyundai,Ioniq 5,2024,Green,SUV,Electric,Automatic,0,30000,33780,Rawalpindi,For Sale
+CAR-0457,Suzuki,Alto,2019,Maroon,Hatchback,Petrol,Automatic,660,95700,3230,Peshawar,For Sale
+CAR-0458,Volkswagen,Beetle,2015,White,Hatchback,Petrol,Automatic,2000,145600,5170,Multan,For Sale
+CAR-0459,Suzuki,Vitara,2000,Green,SUV,Petrol,Manual,1600,372700,1920,Rawalpindi,For Sale
+CAR-0460,Volkswagen,Passat,2003,Black,Sedan,Petrol,Manual,1800,326100,2400,Lahore,For Sale
+CAR-0461,Suzuki,Swift,2011,White,Hatchback,Petrol,Automatic,1200,202300,2090,Peshawar,For Sale
+CAR-0462,Tesla,Model Y,2021,Green,SUV,Electric,Automatic,0,74700,22730,Peshawar,Sold
+CAR-0463,Nissan,Patrol,2022,White,SUV,Petrol,Automatic,4000,52700,36340,Islamabad,For Sale
+CAR-0464,Suzuki,Cultus,2007,Red,Hatchback,Petrol,Manual,1000,269300,880,Rawalpindi,Reserved
+CAR-0465,Tesla,Model X,2022,Black,SUV,Electric,Automatic,0,61000,61430,Lahore,Sold
+CAR-0466,Tesla,Model 3,2021,Silver,Sedan,Electric,Automatic,0,86700,21850,Peshawar,For Sale
+CAR-0467,Ford,F-150,2024,Blue,Pickup,Petrol,Automatic,3500,45600,35740,Rawalpindi,Sold
+CAR-0468,Volkswagen,Beetle,2006,White,Hatchback,Petrol,Manual,2000,288600,1760,Peshawar,Sold
+CAR-0469,Hyundai,Sonata,2013,Blue,Sedan,Hybrid,Manual,2500,192500,4040,Peshawar,Sold
+CAR-0470,Mercedes-Benz,E-Class,2010,White,Sedan,Petrol,Manual,2000,226500,6500,Multan,For Sale
+CAR-0471,Kia,EV6,2025,Silver,SUV,Electric,Automatic,0,11900,46070,Karachi,For Sale
+CAR-0472,Tesla,Model S,2023,White,Sedan,Electric,Automatic,0,62000,66210,Karachi,Reserved
+CAR-0473,Kia,EV6,2022,Silver,SUV,Electric,Automatic,0,62100,25940,Peshawar,Sold
+CAR-0474,Nissan,Leaf,2013,Blue,Hatchback,Electric,Automatic,0,187600,4630,Peshawar,Reserved
+CAR-0475,Volkswagen,Golf,2001,White,Hatchback,Diesel,Manual,1400,366100,2080,Islamabad,For Sale
+CAR-0476,Suzuki,Wagon R,2023,White,Hatchback,Petrol,Manual,1000,67200,6090,Lahore,For Sale
+CAR-0477,Toyota,Corolla,2004,White,Sedan,Petrol,Automatic,1800,311500,1920,Peshawar,Sold
+CAR-0478,Kia,Sportage,2023,Silver,SUV,Petrol,Manual,2000,41700,19920,Multan,For Sale
+CAR-0479,Suzuki,Swift,2005,Green,Hatchback,Petrol,Manual,1200,300800,1200,Multan,Sold
+CAR-0480,Mazda,MX-5,2023,Red,Convertible,Petrol,Automatic,2000,54100,22020,Peshawar,Sold
+CAR-0481,Toyota,Yaris,2021,Silver,Hatchback,Petrol,Manual,1500,73900,9350,Rawalpindi,Sold
+CAR-0482,Honda,Civic,2020,Red,Sedan,Petrol,Automatic,1800,104500,10440,Islamabad,Sold
+CAR-0483,Suzuki,Swift,2024,Maroon,Hatchback,Petrol,Manual,1200,33400,10870,Peshawar,Sold
+CAR-0484,Hyundai,Sonata,2019,Grey,Sedan,Hybrid,Manual,2500,106400,10970,Islamabad,For Sale
+CAR-0485,Ford,Ranger,2018,Grey,Pickup,Diesel,Automatic,2200,116300,12340,Rawalpindi,For Sale
+CAR-0486,Honda,HR-V,2023,Gold,SUV,Petrol,Automatic,1500,51700,17090,Multan,For Sale
+CAR-0487,Chevrolet,Silverado,2007,White,Pickup,Petrol,Automatic,5300,269300,3600,Peshawar,For Sale
+CAR-0488,BMW,3 Series,2007,Grey,Sedan,Petrol,Automatic,2000,277000,3600,Peshawar,Reserved
+CAR-0489,Mazda,CX-5,2023,Green,SUV,Petrol,Automatic,2500,52000,20250,Multan,Sold
+CAR-0490,Mazda,MX-5,2006,Black,Convertible,Petrol,Automatic,2000,279300,2480,Multan,For Sale
+CAR-0491,Suzuki,Vitara,2025,White,SUV,Petrol,Manual,1600,28600,21490,Peshawar,For Sale
+CAR-0492,Ford,F-150,2015,Maroon,Pickup,Petrol,Manual,3500,153900,9780,Islamabad,Reserved
+CAR-0493,Hyundai,Tucson,2005,Blue,SUV,Petrol,Manual,2000,289900,2400,Islamabad,Sold
+CAR-0494,Honda,City,2020,Black,Sedan,Petrol,Manual,1500,97900,7840,Rawalpindi,For Sale
+CAR-0495,Tesla,Model 3,2018,Grey,Sedan,Electric,Automatic,0,123600,15110,Multan,For Sale
+CAR-0496,Toyota,Prius,2016,Blue,Hatchback,Hybrid,Automatic,1800,139500,6510,Multan,Sold
+CAR-0497,BMW,Z4,2024,Silver,Convertible,Petrol,Automatic,2000,31100,43160,Rawalpindi,For Sale
+CAR-0498,Kia,Sorento,2002,Silver,SUV,Petrol,Automatic,2400,347800,2800,Karachi,Sold
+CAR-0499,Toyota,Camry,2023,Silver,Sedan,Petrol,Automatic,2500,30800,21000,Multan,Sold
+CAR-0500,Nissan,Sunny,2021,Yellow,Sedan,Petrol,Automatic,1500,90400,6340,Peshawar,For Sale
+CAR-0501,Toyota,Land Cruiser,2018,Black,SUV,Petrol,Automatic,4000,117000,24080,Lahore,Sold
+CAR-0502,Volkswagen,Passat,2022,Grey,Sedan,Petrol,Manual,1800,57100,16510,Peshawar,For Sale
+CAR-0503,Kia,Picanto,2011,Black,Hatchback,Petrol,Automatic,1000,224100,1360,Islamabad,For Sale
+CAR-0504,BMW,X5,2013,Black,SUV,Diesel,Manual,3000,193300,11720,Islamabad,Sold
+CAR-0505,Kia,Sorento,2012,Maroon,SUV,Petrol,Manual,2400,199000,4580,Lahore,For Sale
+CAR-0506,Toyota,Yaris,2020,Grey,Hatchback,Petrol,Automatic,1500,84500,8460,Karachi,For Sale
+CAR-0507,Hyundai,Elantra,2020,Blue,Sedan,Petrol,Automatic,2000,97400,9210,Lahore,For Sale
+CAR-0508,Honda,CR-V,2005,White,SUV,Petrol,Manual,1500,299600,2640,Islamabad,For Sale
+CAR-0509,Tesla,Model Y,2020,Grey,SUV,Electric,Automatic,0,89500,21140,Islamabad,For Sale
+CAR-0510,Hyundai,Tucson,2005,Red,SUV,Petrol,Manual,2000,307400,2400,Peshawar,Sold
+CAR-0511,Volkswagen,Tiguan,2009,Black,SUV,Diesel,Manual,1400,245100,3140,Faisalabad,For Sale
+CAR-0512,Hyundai,Ioniq 5,2025,Blue,SUV,Electric,Automatic,0,34000,35400,Islamabad,For Sale
+CAR-0513,Hyundai,Elantra,2020,Red,Sedan,Petrol,Automatic,2000,97700,9020,Multan,Reserved
+CAR-0514,Honda,HR-V,2020,Grey,SUV,Petrol,Manual,1500,91800,10890,Karachi,Reserved
+CAR-0515,Toyota,Hilux,2019,Red,Pickup,Diesel,Manual,2800,108200,14260,Faisalabad,For Sale
+CAR-0516,Honda,Accord,2005,Maroon,Sedan,Petrol,Automatic,2000,307000,2400,Karachi,Sold
+CAR-0517,Mazda,CX-5,2022,Red,SUV,Petrol,Manual,2500,67000,16750,Lahore,Sold
+CAR-0518,Hyundai,Elantra,2018,Black,Sedan,Petrol,Manual,2000,120000,6870,Multan,For Sale
+CAR-0519,Mercedes-Benz,E-Class,2014,White,Sedan,Petrol,Automatic,2000,173900,10780,Rawalpindi,For Sale
+CAR-0520,Nissan,Sunny,2012,Blue,Sedan,Petrol,Automatic,1500,196300,2040,Multan,For Sale
+CAR-0521,Nissan,Patrol,2002,White,SUV,Petrol,Manual,4000,339600,4800,Rawalpindi,Sold
+CAR-0522,Mercedes-Benz,E-Class,2013,Black,Sedan,Diesel,Manual,2000,177100,10920,Peshawar,For Sale
+CAR-0523,Tesla,Model Y,2023,White,SUV,Electric,Automatic,0,48900,31890,Islamabad,Sold
+CAR-0524,Nissan,Skyline,2009,Grey,Coupe,Petrol,Automatic,3000,247900,3330,Rawalpindi,For Sale
+CAR-0525,Suzuki,Cultus,2011,Silver,Hatchback,Petrol,Automatic,1000,229700,1360,Islamabad,For Sale
+CAR-0526,Kia,Sportage,2008,White,SUV,Diesel,Manual,2000,260400,2320,Lahore,Sold
+CAR-0527,Volkswagen,Golf,2000,Black,Hatchback,Diesel,Automatic,1400,377900,2080,Islamabad,Sold
+CAR-0528,Kia,Sportage,2012,Maroon,SUV,Petrol,Manual,2000,199700,3870,Lahore,For Sale
+CAR-0529,Mercedes-Benz,C-Class,2025,Black,Sedan,Diesel,Manual,2000,6400,45510,Karachi,Sold
+CAR-0530,Honda,Accord,2017,White,Sedan,Petrol,Automatic,2000,127300,8050,Multan,Sold
+CAR-0531,Suzuki,Cultus,2014,Grey,Hatchback,Petrol,Manual,1000,180100,2210,Peshawar,Sold
+CAR-0532,BMW,Z4,2023,Maroon,Convertible,Petrol,Automatic,2000,50700,32660,Karachi,Sold
+CAR-0533,Chevrolet,Camaro,2024,Red,Coupe,Petrol,Automatic,3600,46100,30160,Faisalabad,For Sale
+CAR-0534,Kia,Picanto,2011,Black,Hatchback,Petrol,Manual,1000,204700,1400,Multan,For Sale
+CAR-0535,Kia,EV6,2022,Silver,SUV,Electric,Automatic,0,63700,25900,Faisalabad,For Sale
+CAR-0536,Mercedes-Benz,E-Class,2020,Green,Sedan,Petrol,Automatic,2000,92800,25630,Peshawar,For Sale
+CAR-0537,Nissan,Leaf,2023,White,Hatchback,Electric,Automatic,0,44600,21310,Peshawar,For Sale
+CAR-0538,Kia,Sorento,2008,Red,SUV,Diesel,Manual,2400,262100,2800,Faisalabad,For Sale
+CAR-0539,BMW,5 Series,2007,Black,Sedan,Petrol,Manual,2000,276100,4800,Peshawar,Sold
+CAR-0540,Chevrolet,Corvette,2003,Silver,Coupe,Petrol,Automatic,6200,338000,5440,Lahore,For Sale
+CAR-0541,Ford,Ranger,2013,Red,Pickup,Diesel,Manual,2200,180700,5580,Karachi,For Sale
+CAR-0542,Toyota,Camry,2002,Grey,Sedan,Petrol,Automatic,2500,348200,2320,Lahore,Sold
+CAR-0543,Ford,Explorer,2007,Black,SUV,Petrol,Manual,3500,264900,3360,Karachi,Reserved
+CAR-0544,Ford,F-150,2021,White,Pickup,Petrol,Automatic,3500,85100,21810,Multan,For Sale
+CAR-0545,Nissan,Skyline,2011,Silver,Coupe,Petrol,Automatic,3000,227600,4840,Peshawar,For Sale
+CAR-0546,Kia,Picanto,2021,Black,Hatchback,Petrol,Automatic,1000,83400,6530,Karachi,For Sale
+CAR-0547,Hyundai,Elantra,2002,Black,Sedan,Petrol,Automatic,2000,359200,1760,Multan,For Sale
+CAR-0548,Volkswagen,Golf,2003,Red,Hatchback,Petrol,Manual,1400,340100,2080,Islamabad,Reserved
+CAR-0549,Mazda,CX-5,2024,Grey,SUV,Petrol,Automatic,2500,49400,21670,Lahore,For Sale
+CAR-0550,Mazda,MX-5,2007,Blue,Convertible,Petrol,Manual,2000,273100,2480,Islamabad,Sold
+CAR-0551,BMW,5 Series,2013,Black,Sedan,Diesel,Automatic,2000,181400,10450,Peshawar,For Sale
+CAR-0552,Hyundai,Elantra,2000,Maroon,Sedan,Petrol,Automatic,2000,365500,1760,Rawalpindi,Sold
+CAR-0553,Volkswagen,Golf,2015,Gold,Hatchback,Diesel,Automatic,1400,174000,5890,Peshawar,For Sale
+CAR-0554,Toyota,Yaris,2008,Black,Hatchback,Petrol,Manual,1500,249900,1440,Faisalabad,Sold
+CAR-0555,Mazda,MX-5,2006,Silver,Convertible,Petrol,Manual,2000,284600,2480,Multan,Sold
+CAR-0556,Honda,Accord,2020,Red,Sedan,Petrol,Manual,2000,93800,13260,Multan,Sold
+CAR-0557,Nissan,Sunny,2017,White,Sedan,Petrol,Manual,1500,137100,4370,Faisalabad,For Sale
+CAR-0558,Ford,Ranger,2013,Silver,Pickup,Diesel,Automatic,2200,178700,6360,Faisalabad,Sold
+CAR-0559,Toyota,Hilux,2015,Silver,Pickup,Diesel,Automatic,2800,165400,7690,Multan,Sold
+CAR-0560,Mazda,CX-5,2021,White,SUV,Petrol,Automatic,2500,86300,15220,Islamabad,Reserved
+CAR-0561,Suzuki,Swift,2013,Blue,Hatchback,Petrol,Automatic,1200,195300,2270,Lahore,For Sale
+CAR-0562,Toyota,Yaris,2020,Grey,Hatchback,Petrol,Automatic,1500,92900,7450,Karachi,For Sale
+CAR-0563,Mercedes-Benz,GLC,2025,Grey,SUV,Diesel,Manual,2000,14400,48630,Karachi,Reserved
+CAR-0564,BMW,X5,2011,White,SUV,Petrol,Automatic,3000,220500,9390,Lahore,For Sale
+CAR-0565,BMW,5 Series,2021,White,Sedan,Petrol,Manual,2000,88700,31610,Lahore,Sold
+CAR-0566,Toyota,Camry,2022,White,Sedan,Hybrid,Automatic,2500,73700,15920,Rawalpindi,For Sale
+CAR-0567,Kia,Picanto,2024,White,Hatchback,Petrol,Manual,1000,39300,8150,Faisalabad,For Sale
+CAR-0568,Nissan,Patrol,2000,Grey,SUV,Petrol,Automatic,4000,377600,4800,Rawalpindi,For Sale
+CAR-0569,Kia,Sportage,2025,Blue,SUV,Diesel,Automatic,2000,12400,27480,Peshawar,Sold
+CAR-0570,Chevrolet,Camaro,2004,Maroon,Coupe,Petrol,Manual,3600,311900,3040,Multan,Sold
+CAR-0571,Suzuki,Alto,2013,Silver,Hatchback,Petrol,Manual,660,181000,1200,Islamabad,For Sale
+CAR-0572,Volkswagen,Tiguan,2012,Grey,SUV,Diesel,Automatic,1400,208000,4650,Peshawar,Sold
+CAR-0573,Toyota,Corolla,2024,Black,Sedan,Hybrid,Automatic,1800,34200,17190,Islamabad,For Sale
+CAR-0574,Chevrolet,Silverado,2001,Green,Pickup,Petrol,Manual,5300,353700,3600,Faisalabad,Sold
+CAR-0575,Suzuki,Vitara,2011,Silver,SUV,Petrol,Manual,1600,224500,3260,Islamabad,For Sale
+CAR-0576,Kia,Sportage,2003,Blue,SUV,Petrol,Manual,2000,328600,2320,Islamabad,For Sale
+CAR-0577,Mazda,MX-5,2013,White,Convertible,Petrol,Manual,2000,188900,4830,Islamabad,For Sale
+CAR-0578,Honda,City,2011,White,Sedan,Petrol,Automatic,1500,217500,2340,Lahore,Reserved
+CAR-0579,Nissan,Sunny,2015,Silver,Sedan,Petrol,Manual,1500,159200,3280,Karachi,For Sale
+CAR-0580,Suzuki,Swift,2009,Blue,Hatchback,Petrol,Manual,1200,241300,1470,Faisalabad,For Sale
+CAR-0581,Volkswagen,Golf,2001,White,Hatchback,Diesel,Manual,1400,366900,2080,Lahore,For Sale
+CAR-0582,Hyundai,Elantra,2008,Silver,Sedan,Petrol,Automatic,2000,251400,1980,Faisalabad,Sold
+CAR-0583,Suzuki,Swift,2007,Grey,Hatchback,Petrol,Manual,1200,261000,1200,Faisalabad,Sold
+CAR-0584,Honda,HR-V,2024,Red,SUV,Petrol,Automatic,1500,38000,20820,Karachi,For Sale
+CAR-0585,Tesla,Model X,2019,White,SUV,Electric,Automatic,0,109300,39620,Rawalpindi,For Sale
+CAR-0586,Hyundai,Tucson,2024,Blue,SUV,Petrol,Automatic,2000,34600,20650,Lahore,For Sale
+CAR-0587,Tesla,Model 3,2026,Red,Sedan,Electric,Automatic,0,11200,40690,Multan,For Sale
+CAR-0588,Volkswagen,Tiguan,2019,Blue,SUV,Diesel,Automatic,1400,103100,11750,Faisalabad,For Sale
+CAR-0589,Honda,City,2014,Green,Sedan,Petrol,Automatic,1500,172000,3620,Rawalpindi,Reserved
+CAR-0590,BMW,3 Series,2017,Blue,Sedan,Diesel,Automatic,2000,122600,13700,Multan,Sold
+CAR-0591,Volkswagen,Golf,2022,Silver,Hatchback,Petrol,Automatic,1400,58900,15200,Rawalpindi,For Sale
+CAR-0592,Volkswagen,Golf,2019,Silver,Hatchback,Diesel,Automatic,1400,112600,9470,Karachi,For Sale
+CAR-0593,Ford,Mustang,2017,Black,Coupe,Petrol,Manual,5000,124100,11910,Lahore,Sold
+CAR-0594,Mercedes-Benz,E-Class,2007,Silver,Sedan,Diesel,Manual,2000,265300,4960,Islamabad,Sold
+CAR-0595,Kia,Picanto,2019,White,Hatchback,Petrol,Automatic,1000,106500,4890,Faisalabad,For Sale
+CAR-0596,Hyundai,Sonata,2003,Green,Sedan,Petrol,Manual,2500,333100,2160,Peshawar,Reserved
+CAR-0597,Kia,Picanto,2024,Black,Hatchback,Petrol,Manual,1000,47700,9290,Rawalpindi,For Sale
+CAR-0598,Suzuki,Alto,2011,White,Hatchback,Petrol,Automatic,660,211000,970,Multan,For Sale
+CAR-0599,Nissan,Leaf,2016,Blue,Hatchback,Electric,Automatic,0,164700,7810,Faisalabad,For Sale
+CAR-0600,Chevrolet,Camaro,2021,Maroon,Coupe,Petrol,Manual,3600,72800,19420,Karachi,For Sale
+CAR-0601,Mazda,MX-5,2015,White,Convertible,Petrol,Manual,2000,173100,6130,Peshawar,For Sale
+CAR-0602,Volkswagen,Passat,2001,Black,Sedan,Petrol,Automatic,1800,350100,2400,Peshawar,For Sale
+CAR-0603,Tesla,Model S,2016,Black,Sedan,Electric,Automatic,0,153900,22050,Peshawar,For Sale
+CAR-0604,Mercedes-Benz,GLC,2020,Blue,SUV,Diesel,Automatic,2000,91400,23430,Rawalpindi,Sold
+CAR-0605,Mazda,Mazda 3,2015,Grey,Sedan,Petrol,Automatic,2000,165100,5580,Karachi,Reserved
+CAR-0606,Ford,F-150,2020,White,Pickup,Petrol,Automatic,3500,90300,21380,Peshawar,For Sale
+CAR-0607,Mazda,Mazda 3,2004,Green,Sedan,Petrol,Automatic,2000,307300,1920,Lahore,For Sale
+CAR-0608,Tesla,Model Y,2020,Green,SUV,Electric,Automatic,0,97600,23210,Faisalabad,For Sale
+CAR-0609,Honda,Civic,2019,Silver,Sedan,Petrol,Automatic,1800,95600,9210,Peshawar,For Sale
+CAR-0610,Honda,Civic,2001,White,Sedan,Petrol,Manual,1800,376100,2000,Lahore,For Sale
+CAR-0611,Chevrolet,Corvette,2009,Grey,Coupe,Petrol,Automatic,6200,236200,7090,Karachi,For Sale
+CAR-0612,Honda,Accord,2013,Black,Sedan,Petrol,Manual,2000,172900,5370,Multan,For Sale
+CAR-0613,Tesla,Model Y,2021,White,SUV,Electric,Automatic,0,89800,25170,Karachi,Sold
+CAR-0614,Hyundai,Elantra,2014,Red,Sedan,Petrol,Manual,2000,171900,4300,Multan,Reserved
+CAR-0615,Toyota,Camry,2008,Grey,Sedan,Petrol,Manual,2500,269800,2580,Rawalpindi,Sold
+CAR-0616,BMW,X5,2020,Gold,SUV,Petrol,Automatic,3000,94500,28330,Peshawar,Sold
+CAR-0617,Toyota,Land Cruiser,2012,White,SUV,Petrol,Automatic,4000,211900,10740,Islamabad,For Sale
+CAR-0618,BMW,3 Series,2005,Grey,Sedan,Petrol,Manual,2000,298200,3600,Multan,Reserved
+CAR-0619,Ford,Ranger,2011,Gold,Pickup,Diesel,Automatic,2200,212900,4410,Lahore,For Sale
+CAR-0620,Mazda,CX-5,2021,Silver,SUV,Petrol,Automatic,2500,76400,16210,Islamabad,Sold
+CAR-0621,Hyundai,Elantra,2010,Black,Sedan,Petrol,Manual,2000,230100,2400,Islamabad,Sold
+CAR-0622,Tesla,Model 3,2022,Blue,Sedan,Electric,Automatic,0,67000,23840,Multan,Sold
+CAR-0623,Honda,Accord,2003,Black,Sedan,Petrol,Manual,2000,328300,2400,Faisalabad,For Sale
+CAR-0624,Suzuki,Wagon R,2006,Grey,Hatchback,Petrol,Automatic,1000,294100,800,Islamabad,For Sale
+CAR-0625,Toyota,Yaris,2024,Silver,Hatchback,Petrol,Automatic,1500,39700,14790,Rawalpindi,For Sale
+CAR-0626,Nissan,Patrol,2022,Green,SUV,Diesel,Automatic,4000,59800,34980,Lahore,For Sale
+CAR-0627,Hyundai,Tucson,2020,Maroon,SUV,Diesel,Automatic,2000,86900,13980,Faisalabad,For Sale
+CAR-0628,Nissan,Leaf,2020,Maroon,Hatchback,Electric,Automatic,0,93100,13010,Faisalabad,For Sale
+CAR-0629,BMW,X5,2013,Blue,SUV,Diesel,Automatic,3000,196000,11430,Faisalabad,For Sale
+CAR-0630,Kia,Sportage,2005,Maroon,SUV,Diesel,Automatic,2000,303500,2320,Lahore,For Sale
+CAR-0631,Suzuki,Vitara,2019,Blue,SUV,Petrol,Automatic,1600,100500,9370,Faisalabad,For Sale
+CAR-0632,Suzuki,Wagon R,2014,Black,Hatchback,Petrol,Automatic,1000,174100,1720,Islamabad,Sold
+CAR-0633,Mercedes-Benz,E-Class,2020,White,Sedan,Petrol,Automatic,2000,90300,29200,Karachi,For Sale
+CAR-0634,BMW,3 Series,2019,Silver,Sedan,Petrol,Automatic,2000,108200,17840,Karachi,For Sale
+CAR-0635,Ford,F-150,2014,Silver,Pickup,Petrol,Automatic,3500,176200,9400,Peshawar,Sold
+CAR-0636,Ford,Ranger,2014,White,Pickup,Diesel,Automatic,2200,174600,6780,Rawalpindi,Sold
+CAR-0637,Ford,Ranger,2023,Black,Pickup,Diesel,Automatic,2200,39900,24580,Peshawar,Reserved
+CAR-0638,Ford,Focus,2006,Blue,Hatchback,Petrol,Automatic,1600,280200,1600,Lahore,For Sale
+CAR-0639,Honda,Civic,2015,Green,Sedan,Hybrid,Automatic,1800,174200,5040,Faisalabad,Sold
+CAR-0640,Suzuki,Cultus,2006,Red,Hatchback,Petrol,Automatic,1000,284200,880,Faisalabad,For Sale
+CAR-0641,BMW,5 Series,2022,Black,Sedan,Petrol,Automatic,2000,60200,37790,Multan,For Sale
+CAR-0642,Volkswagen,Beetle,2005,Silver,Hatchback,Petrol,Automatic,2000,306300,1760,Faisalabad,Sold
+CAR-0643,Kia,Picanto,2022,White,Hatchback,Petrol,Automatic,1000,45000,6560,Lahore,For Sale
+CAR-0644,Mercedes-Benz,GLC,2023,Green,SUV,Diesel,Automatic,2000,44700,34970,Peshawar,For Sale
+CAR-0645,Mercedes-Benz,E-Class,2002,Green,Sedan,Petrol,Automatic,2000,340400,4960,Lahore,For Sale
+CAR-0646,Suzuki,Alto,2026,Silver,Hatchback,Petrol,Automatic,660,300,8380,Islamabad,For Sale
+CAR-0647,Nissan,Skyline,2013,White,Coupe,Petrol,Automatic,3000,181700,6880,Faisalabad,Sold
+CAR-0648,Chevrolet,Camaro,2024,White,Coupe,Petrol,Manual,3600,35400,26700,Multan,For Sale
+CAR-0649,Hyundai,Ioniq 5,2025,Blue,SUV,Electric,Automatic,0,28200,37260,Islamabad,Sold
+CAR-0650,Suzuki,Cultus,2012,Black,Hatchback,Petrol,Automatic,1000,206800,1730,Lahore,For Sale
+CAR-0651,Ford,Focus,2017,White,Hatchback,Petrol,Manual,1600,122400,5240,Rawalpindi,For Sale
+CAR-0652,Hyundai,Elantra,2008,Blue,Sedan,Petrol,Manual,2000,256200,1920,Rawalpindi,For Sale
+CAR-0653,Toyota,Prius,2015,Blue,Hatchback,Hybrid,Automatic,1800,155300,6220,Rawalpindi,Sold
+CAR-0654,Honda,Accord,2020,Maroon,Sedan,Hybrid,Manual,2000,87800,13120,Multan,Sold
+CAR-0655,Volkswagen,Passat,2011,Black,Sedan,Diesel,Manual,1800,223700,3380,Lahore,For Sale
+CAR-0656,Honda,CR-V,2017,Silver,SUV,Petrol,Automatic,1500,137600,9780,Peshawar,Reserved
+CAR-0657,Ford,Ranger,2008,Grey,Pickup,Diesel,Manual,2200,260100,2880,Islamabad,For Sale
+CAR-0658,Suzuki,Swift,2005,Silver,Hatchback,Petrol,Manual,1200,301700,1200,Lahore,Sold
+CAR-0659,Honda,City,2011,Green,Sedan,Petrol,Manual,1500,202900,2140,Multan,For Sale
+CAR-0660,Honda,Accord,2017,Red,Sedan,Hybrid,Automatic,2000,143200,8940,Rawalpindi,For Sale
+CAR-0661,Toyota,Camry,2018,Red,Sedan,Petrol,Automatic,2500,119300,9830,Islamabad,For Sale
+CAR-0662,Toyota,Yaris,2011,Grey,Hatchback,Petrol,Automatic,1500,214400,2330,Rawalpindi,For Sale
+CAR-0663,Toyota,Prius,2007,White,Hatchback,Hybrid,Automatic,1800,282900,2240,Karachi,For Sale
+CAR-0664,BMW,5 Series,2005,Maroon,Sedan,Diesel,Manual,2000,290900,4800,Peshawar,For Sale
+CAR-0665,Mazda,CX-5,2025,Maroon,SUV,Petrol,Manual,2500,12000,26470,Lahore,For Sale
+CAR-0666,Mercedes-Benz,E-Class,2011,Black,Sedan,Petrol,Automatic,2000,226100,7020,Islamabad,For Sale
+CAR-0667,Suzuki,Cultus,2006,Silver,Hatchback,Petrol,Manual,1000,276200,880,Karachi,For Sale
+CAR-0668,Nissan,Skyline,2014,Black,Coupe,Petrol,Automatic,3000,177800,7390,Multan,Sold
+CAR-0669,BMW,3 Series,2022,White,Sedan,Diesel,Automatic,2000,49400,28330,Karachi,Reserved
+CAR-0670,Suzuki,Swift,2021,Maroon,Hatchback,Petrol,Automatic,1200,89000,6840,Lahore,Reserved
+CAR-0671,Chevrolet,Silverado,2019,Red,Pickup,Petrol,Manual,5300,112700,17820,Peshawar,For Sale
+CAR-0672,BMW,Z4,2011,Black,Convertible,Petrol,Manual,2000,216400,7030,Peshawar,For Sale
+CAR-0673,Hyundai,Tucson,2006,Silver,SUV,Petrol,Automatic,2000,293700,2400,Rawalpindi,For Sale
+CAR-0674,Toyota,Yaris,2020,Silver,Hatchback,Petrol,Automatic,1500,84300,7480,Karachi,For Sale
+CAR-0675,Tesla,Model 3,2024,Blue,Sedan,Electric,Automatic,0,37200,30610,Lahore,For Sale
+CAR-0676,Ford,Explorer,2004,Green,SUV,Petrol,Manual,3500,323600,3360,Faisalabad,For Sale
+CAR-0677,Ford,Focus,2001,Grey,Hatchback,Petrol,Manual,1600,349600,1600,Faisalabad,For Sale
+CAR-0678,Ford,F-150,2001,White,Pickup,Petrol,Manual,3500,359600,3600,Lahore,For Sale
+CAR-0679,Nissan,Patrol,2009,Grey,SUV,Diesel,Automatic,4000,235100,5550,Peshawar,For Sale
+CAR-0680,Suzuki,Vitara,2012,Silver,SUV,Petrol,Manual,1600,194200,3400,Rawalpindi,For Sale
+CAR-0681,BMW,3 Series,2006,Grey,Sedan,Diesel,Automatic,2000,290000,3600,Rawalpindi,Sold
+CAR-0682,Suzuki,Swift,2008,Silver,Hatchback,Petrol,Manual,1200,262100,1360,Lahore,For Sale
+CAR-0683,BMW,5 Series,2016,Red,Sedan,Petrol,Automatic,2000,147600,14850,Faisalabad,For Sale
+CAR-0684,Chevrolet,Silverado,2004,Silver,Pickup,Petrol,Manual,5300,305700,3600,Rawalpindi,For Sale
+CAR-0685,Nissan,Skyline,2000,Red,Coupe,Petrol,Manual,3000,380600,3040,Faisalabad,For Sale
+CAR-0686,BMW,X5,2008,Blue,SUV,Petrol,Manual,3000,257600,6270,Karachi,Sold
+CAR-0687,Suzuki,Cultus,2006,White,Hatchback,Petrol,Manual,1000,290100,880,Islamabad,For Sale
+CAR-0688,BMW,3 Series,2020,Red,Sedan,Petrol,Manual,2000,80300,17810,Lahore,For Sale
+CAR-0689,Suzuki,Alto,2018,Gold,Hatchback,Petrol,Automatic,660,120700,2900,Lahore,For Sale
+CAR-0690,Tesla,Model Y,2024,Green,SUV,Electric,Automatic,0,30400,40660,Rawalpindi,For Sale
+CAR-0691,Nissan,Leaf,2025,White,Hatchback,Electric,Automatic,0,16700,25710,Rawalpindi,Sold
+CAR-0692,Ford,Mustang,2014,White,Coupe,Petrol,Manual,5000,174200,7560,Islamabad,For Sale
+CAR-0693,Toyota,Hilux,2013,Gold,Pickup,Diesel,Automatic,2800,185800,5590,Lahore,For Sale
+CAR-0694,Ford,Explorer,2011,Blue,SUV,Petrol,Automatic,3500,209400,5110,Lahore,Sold
+CAR-0695,Toyota,Corolla,2024,White,Sedan,Hybrid,Manual,1800,30300,19220,Islamabad,For Sale
+CAR-0696,Tesla,Model X,2017,Black,SUV,Electric,Automatic,0,141100,28890,Lahore,Sold
+CAR-0697,Hyundai,Sonata,2019,Blue,Sedan,Petrol,Manual,2500,87700,10330,Peshawar,Sold
+CAR-0698,Toyota,Corolla,2018,Yellow,Sedan,Petrol,Automatic,1800,124000,8160,Islamabad,For Sale
+CAR-0699,Nissan,Skyline,2012,Grey,Coupe,Petrol,Manual,3000,210200,5800,Multan,For Sale
+CAR-0700,Kia,Sportage,2007,Blue,SUV,Diesel,Automatic,2000,268300,2320,Peshawar,For Sale
+CAR-0701,Nissan,Skyline,2010,White,Coupe,Petrol,Automatic,3000,225400,4310,Faisalabad,Sold
+CAR-0702,BMW,X5,2012,Blue,SUV,Diesel,Automatic,3000,197100,10910,Multan,Reserved
+CAR-0703,Ford,Focus,2014,Silver,Hatchback,Petrol,Automatic,1600,195200,3530,Lahore,For Sale
+CAR-0704,Honda,CR-V,2000,Blue,SUV,Petrol,Manual,1500,370500,2640,Karachi,For Sale
+CAR-0705,Ford,Focus,2002,White,Hatchback,Petrol,Automatic,1600,338600,1600,Peshawar,Sold
+CAR-0706,Kia,Picanto,2020,White,Hatchback,Petrol,Manual,1000,97000,5130,Rawalpindi,Sold
+CAR-0707,Suzuki,Cultus,2001,White,Hatchback,Petrol,Manual,1000,370100,880,Faisalabad,For Sale
+CAR-0708,Volkswagen,Passat,2022,Black,Sedan,Petrol,Manual,1800,61600,16210,Rawalpindi,Sold
+CAR-0709,BMW,X5,2011,Blue,SUV,Petrol,Automatic,3000,205800,8800,Lahore,For Sale
+CAR-0710,Volkswagen,Beetle,2012,Green,Hatchback,Petrol,Automatic,2000,201400,2980,Peshawar,For Sale
+CAR-0711,Toyota,Hilux,2004,Green,Pickup,Diesel,Manual,2800,308900,2800,Faisalabad,Sold
+CAR-0712,Suzuki,Swift,2025,Blue,Hatchback,Petrol,Automatic,1200,22600,13690,Islamabad,Sold
+CAR-0713,Nissan,Leaf,2013,Silver,Hatchback,Electric,Automatic,0,189700,5160,Faisalabad,For Sale
+CAR-0714,Mercedes-Benz,E-Class,2014,Silver,Sedan,Diesel,Automatic,2000,176700,10680,Peshawar,For Sale
+CAR-0715,Kia,EV6,2022,Red,SUV,Electric,Automatic,0,64200,29150,Lahore,For Sale
+CAR-0716,Ford,Mustang,2010,White,Coupe,Petrol,Manual,5000,242300,4100,Karachi,Sold
+CAR-0717,Mazda,CX-5,2018,Maroon,SUV,Petrol,Automatic,2500,115000,10250,Lahore,For Sale
+CAR-0718,Mercedes-Benz,S-Class,2019,Blue,Sedan,Diesel,Manual,3000,107800,47880,Islamabad,For Sale
+CAR-0719,Hyundai,Sonata,2002,Maroon,Sedan,Petrol,Automatic,2500,363600,2160,Faisalabad,For Sale
+CAR-0720,Toyota,Hilux,2003,Blue,Pickup,Diesel,Manual,2800,320600,2800,Rawalpindi,For Sale
+CAR-0721,Honda,Accord,2026,White,Sedan,Petrol,Manual,2000,300,30370,Lahore,Reserved
+CAR-0722,Hyundai,Elantra,2024,Red,Sedan,Petrol,Automatic,2000,37800,16910,Peshawar,For Sale
+CAR-0723,Toyota,Prius,2026,Silver,Hatchback,Hybrid,Automatic,1800,1500,25710,Islamabad,Reserved
+CAR-0724,Honda,City,2002,Grey,Sedan,Petrol,Manual,1500,342500,1440,Islamabad,For Sale
+CAR-0725,Volkswagen,Tiguan,2016,Silver,SUV,Petrol,Manual,1400,148800,8800,Islamabad,Sold
+CAR-0726,Kia,Sorento,2021,Silver,SUV,Petrol,Manual,2400,75300,16920,Peshawar,Reserved
+CAR-0727,Honda,Civic,2025,Grey,Sedan,Hybrid,Automatic,1800,32200,22560,Karachi,For Sale
+CAR-0728,Honda,HR-V,2023,Silver,SUV,Petrol,Automatic,1500,45500,15980,Rawalpindi,For Sale
+CAR-0729,Nissan,Skyline,2004,White,Coupe,Petrol,Manual,3000,321600,3040,Peshawar,For Sale
+CAR-0730,Volkswagen,Passat,2010,White,Sedan,Petrol,Manual,1800,250200,3460,Lahore,For Sale
+CAR-0731,Chevrolet,Camaro,2013,Maroon,Coupe,Petrol,Automatic,3600,180600,5960,Islamabad,Sold
+CAR-0732,Hyundai,Elantra,2011,Red,Sedan,Petrol,Manual,2000,221500,2840,Karachi,For Sale
+CAR-0733,Chevrolet,Corvette,2023,Silver,Coupe,Petrol,Automatic,6200,65700,44870,Karachi,For Sale
+CAR-0734,Ford,F-150,2025,Silver,Pickup,Petrol,Automatic,3500,29800,41390,Faisalabad,Sold
+CAR-0735,Tesla,Model 3,2024,Blue,Sedan,Electric,Automatic,0,29600,33160,Multan,Sold
+CAR-0736,Mazda,CX-5,2015,Red,SUV,Petrol,Automatic,2500,157300,6290,Peshawar,Sold
+CAR-0737,Suzuki,Alto,2016,Blue,Hatchback,Petrol,Automatic,660,162100,2160,Rawalpindi,For Sale
+CAR-0738,Volkswagen,Beetle,2014,Silver,Hatchback,Petrol,Manual,2000,163500,4150,Islamabad,Sold
+CAR-0739,Mazda,MX-5,2013,Black,Convertible,Petrol,Automatic,2000,181200,5200,Rawalpindi,Reserved
+CAR-0740,Toyota,Corolla,2024,Red,Sedan,Petrol,Automatic,1800,26600,19800,Lahore,Reserved
+CAR-0741,Nissan,Patrol,2005,Blue,SUV,Petrol,Automatic,4000,307900,4800,Islamabad,For Sale
+CAR-0742,Suzuki,Wagon R,2008,Black,Hatchback,Petrol,Automatic,1000,261100,880,Faisalabad,For Sale
+CAR-0743,Tesla,Model Y,2023,Grey,SUV,Electric,Automatic,0,39300,33280,Multan,For Sale
+CAR-0744,Tesla,Model X,2023,Blue,SUV,Electric,Automatic,0,52400,72310,Rawalpindi,For Sale
+CAR-0745,Chevrolet,Camaro,2005,Blue,Coupe,Petrol,Manual,3600,294600,3040,Faisalabad,For Sale
+CAR-0746,BMW,X5,2015,Silver,SUV,Petrol,Automatic,3000,160000,14290,Multan,For Sale
+CAR-0747,Mercedes-Benz,E-Class,2004,Silver,Sedan,Petrol,Automatic,2000,323300,4960,Islamabad,For Sale
+CAR-0748,Honda,City,2003,Silver,Sedan,Petrol,Manual,1500,339400,1440,Lahore,Sold
+CAR-0749,Honda,Accord,2022,White,Sedan,Petrol,Automatic,2000,48900,18130,Karachi,For Sale
+CAR-0750,BMW,X5,2013,Black,SUV,Diesel,Automatic,3000,189100,12390,Lahore,For Sale
+CAR-0751,Suzuki,Cultus,2009,Silver,Hatchback,Petrol,Automatic,1000,259700,930,Rawalpindi,Sold
+CAR-0752,Ford,Mustang,2001,Black,Coupe,Petrol,Automatic,5000,364200,3200,Peshawar,For Sale
+CAR-0753,Mercedes-Benz,C-Class,2021,Silver,Sedan,Petrol,Manual,2000,80600,25500,Karachi,Sold
+CAR-0754,Chevrolet,Corvette,2024,Grey,Coupe,Petrol,Manual,6200,36600,55660,Karachi,Sold
+CAR-0755,Suzuki,Cultus,2014,White,Hatchback,Petrol,Automatic,1000,166000,1940,Faisalabad,For Sale
+CAR-0756,Ford,Focus,2013,Grey,Hatchback,Petrol,Automatic,1600,194800,3200,Rawalpindi,For Sale
+CAR-0757,Suzuki,Vitara,2025,Black,SUV,Petrol,Automatic,1600,18500,22810,Rawalpindi,For Sale
+CAR-0758,Toyota,Prius,2022,White,Hatchback,Hybrid,Manual,1800,71100,14670,Faisalabad,For Sale
+CAR-0759,Hyundai,Sonata,2016,Blue,Sedan,Petrol,Manual,2500,145800,7170,Peshawar,For Sale
+CAR-0760,Honda,HR-V,2015,Silver,SUV,Petrol,Automatic,1500,161200,5790,Peshawar,For Sale
+CAR-0761,Suzuki,Vitara,2020,Black,SUV,Petrol,Manual,1600,94500,10920,Karachi,For Sale
+CAR-0762,Ford,Explorer,2013,Blue,SUV,Petrol,Automatic,3500,182000,6650,Multan,For Sale
+CAR-0763,Volkswagen,Golf,2000,Silver,Hatchback,Petrol,Automatic,1400,360800,2080,Multan,Sold
+CAR-0764,Mazda,MX-5,2010,Silver,Convertible,Petrol,Manual,2000,222000,3600,Peshawar,For Sale
+CAR-0765,Ford,Explorer,2013,Blue,SUV,Petrol,Automatic,3500,173300,6720,Islamabad,For Sale
+CAR-0766,Ford,F-150,2025,Silver,Pickup,Petrol,Manual,3500,14400,36190,Peshawar,For Sale
+CAR-0767,Mercedes-Benz,C-Class,2022,White,Sedan,Diesel,Automatic,2000,66800,29810,Rawalpindi,For Sale
+CAR-0768,Tesla,Model S,2022,Grey,Sedan,Electric,Automatic,0,65300,50940,Multan,For Sale
+CAR-0769,Chevrolet,Camaro,2018,Black,Coupe,Petrol,Manual,3600,107200,13750,Islamabad,For Sale
+CAR-0770,Suzuki,Vitara,2000,Maroon,SUV,Petrol,Manual,1600,362200,1920,Karachi,Sold
+CAR-0771,Mercedes-Benz,E-Class,2009,White,Sedan,Diesel,Automatic,2000,251000,5800,Islamabad,For Sale
+CAR-0772,Suzuki,Alto,2011,Blue,Hatchback,Petrol,Manual,660,225600,950,Peshawar,Sold
+CAR-0773,Volkswagen,Tiguan,2022,Maroon,SUV,Diesel,Manual,1400,69300,17160,Islamabad,For Sale
+CAR-0774,Ford,Ranger,2002,Maroon,Pickup,Diesel,Manual,2200,358000,2880,Islamabad,For Sale
+CAR-0775,Tesla,Model Y,2025,Red,SUV,Electric,Automatic,0,20100,46790,Karachi,For Sale
+CAR-0776,Mercedes-Benz,GLC,2020,Gold,SUV,Diesel,Automatic,2000,96600,23280,Islamabad,Sold
+CAR-0777,Mazda,Mazda 3,2006,Blue,Sedan,Petrol,Automatic,2000,299900,1920,Faisalabad,For Sale
+CAR-0778,Toyota,Camry,2016,White,Sedan,Petrol,Automatic,2500,151300,7500,Karachi,Sold
+CAR-0779,Toyota,Corolla,2019,Gold,Sedan,Petrol,Automatic,1800,104800,8330,Faisalabad,Sold
+CAR-0780,Tesla,Model X,2025,Silver,SUV,Electric,Automatic,0,12600,82000,Karachi,Sold
+CAR-0781,Nissan,Skyline,2011,Silver,Coupe,Petrol,Automatic,3000,222000,4310,Multan,For Sale
+CAR-0782,Suzuki,Swift,2023,Green,Hatchback,Petrol,Automatic,1200,46000,10610,Peshawar,For Sale
+CAR-0783,Hyundai,Tucson,2017,Silver,SUV,Petrol,Automatic,2000,132000,9230,Islamabad,For Sale
+CAR-0784,Ford,Explorer,2019,Black,SUV,Petrol,Manual,3500,99000,15190,Lahore,For Sale
+CAR-0785,Toyota,Camry,2003,Silver,Sedan,Petrol,Manual,2500,329000,2320,Karachi,Sold
+CAR-0786,Mercedes-Benz,C-Class,2003,Black,Sedan,Petrol,Manual,2000,340900,3840,Rawalpindi,For Sale
+CAR-0787,Kia,Picanto,2018,White,Hatchback,Petrol,Automatic,1000,122000,4270,Lahore,Sold
+CAR-0788,Suzuki,Alto,2001,Silver,Hatchback,Petrol,Manual,660,348200,640,Lahore,For Sale
+CAR-0789,Ford,Explorer,2024,Black,SUV,Petrol,Manual,3500,36700,34210,Islamabad,Reserved
+CAR-0790,Ford,Explorer,2009,Grey,SUV,Petrol,Manual,3500,244200,3640,Multan,For Sale
+CAR-0791,Suzuki,Vitara,2017,Gold,SUV,Petrol,Automatic,1600,137300,7310,Islamabad,For Sale
+CAR-0792,Tesla,Model Y,2026,Red,SUV,Electric,Automatic,0,300,45950,Rawalpindi,For Sale
+CAR-0793,Ford,Mustang,2016,Blue,Coupe,Petrol,Automatic,5000,143300,10970,Lahore,For Sale
+CAR-0794,Hyundai,Sonata,2022,Black,Sedan,Petrol,Manual,2500,51200,15650,Islamabad,For Sale
+CAR-0795,Honda,Accord,2016,Red,Sedan,Petrol,Manual,2000,137400,8080,Lahore,For Sale
+CAR-0796,Hyundai,Sonata,2012,Red,Sedan,Petrol,Manual,2500,187800,4320,Islamabad,For Sale
+CAR-0797,Mazda,Mazda 3,2004,Grey,Sedan,Petrol,Automatic,2000,328800,1920,Rawalpindi,For Sale
+CAR-0798,Mazda,Mazda 3,2018,Black,Sedan,Petrol,Automatic,2000,114800,7320,Karachi,For Sale
+CAR-0799,BMW,5 Series,2021,White,Sedan,Diesel,Manual,2000,79700,29020,Multan,For Sale
+CAR-0800,Honda,HR-V,2018,Blue,SUV,Petrol,Automatic,1500,126500,8220,Lahore,For Sale
+CAR-0801,Toyota,Yaris,2023,Black,Hatchback,Petrol,Automatic,1500,38600,11280,Lahore,For Sale
+CAR-0802,Honda,Accord,2025,Black,Sedan,Petrol,Manual,2000,24100,28500,Faisalabad,For Sale
+CAR-0803,Volkswagen,Passat,2022,Red,Sedan,Petrol,Automatic,1800,54200,16800,Multan,Reserved
+CAR-0804,Toyota,Corolla,2020,Grey,Sedan,Hybrid,Automatic,1800,88500,10380,Karachi,Sold
+CAR-0805,Chevrolet,Silverado,2008,Black,Pickup,Petrol,Manual,5300,258400,3730,Rawalpindi,For Sale
+CAR-0806,Mazda,Mazda 3,2024,Grey,Sedan,Petrol,Automatic,2000,22400,17450,Rawalpindi,Sold
+CAR-0807,Tesla,Model X,2020,Red,SUV,Electric,Automatic,0,81800,47720,Multan,Sold
+CAR-0808,Kia,Sorento,2003,Silver,SUV,Petrol,Automatic,2400,333100,2800,Islamabad,Reserved
+CAR-0809,Nissan,Leaf,2016,Black,Hatchback,Electric,Automatic,0,158100,7710,Karachi,For Sale
+CAR-0810,Suzuki,Cultus,2002,Black,Hatchback,Petrol,Manual,1000,355600,880,Lahore,For Sale
+CAR-0811,Kia,Sorento,2014,White,SUV,Diesel,Manual,2400,169700,6960,Multan,For Sale
+CAR-0812,Volkswagen,Golf,2003,Silver,Hatchback,Petrol,Automatic,1400,314800,2080,Rawalpindi,For Sale
+CAR-0813,Mercedes-Benz,E-Class,2002,Grey,Sedan,Petrol,Manual,2000,355000,4960,Peshawar,For Sale
+CAR-0814,Hyundai,Elantra,2012,Grey,Sedan,Petrol,Manual,2000,211600,3190,Peshawar,For Sale
+CAR-0815,Hyundai,Sonata,2009,White,Sedan,Petrol,Manual,2500,235900,2680,Peshawar,For Sale
+CAR-0816,Nissan,Leaf,2019,Black,Hatchback,Electric,Automatic,0,108200,10860,Multan,For Sale
+CAR-0817,Mercedes-Benz,E-Class,2015,Blue,Sedan,Diesel,Automatic,2000,155400,12900,Peshawar,For Sale
+CAR-0818,Hyundai,Ioniq 5,2022,Black,SUV,Electric,Automatic,0,75700,23890,Peshawar,For Sale
+CAR-0819,Toyota,Land Cruiser,2022,Gold,SUV,Diesel,Manual,4000,78200,40700,Faisalabad,For Sale
+CAR-0820,Mercedes-Benz,E-Class,2011,Silver,Sedan,Diesel,Manual,2000,220300,8190,Karachi,For Sale
+CAR-0821,BMW,X5,2002,Silver,SUV,Petrol,Manual,3000,349000,5600,Lahore,Sold
+CAR-0822,Kia,Sorento,2022,Gold,SUV,Petrol,Manual,2400,60700,18340,Rawalpindi,For Sale
+CAR-0823,Toyota,Corolla,2020,Red,Sedan,Petrol,Automatic,1800,82200,10780,Lahore,Sold
+CAR-0824,Tesla,Model S,2015,Silver,Sedan,Electric,Automatic,0,157500,22180,Multan,For Sale
+CAR-0825,Suzuki,Vitara,2003,Red,SUV,Petrol,Automatic,1600,318400,1920,Faisalabad,For Sale
+CAR-0826,Tesla,Model Y,2024,Blue,SUV,Electric,Automatic,0,37800,36330,Islamabad,For Sale
+CAR-0827,Mercedes-Benz,C-Class,2016,Yellow,Sedan,Diesel,Automatic,2000,147900,11390,Islamabad,For Sale
+CAR-0828,Ford,Focus,2003,Blue,Hatchback,Petrol,Manual,1600,311900,1600,Multan,Reserved
+CAR-0829,Suzuki,Vitara,2023,Gold,SUV,Petrol,Manual,1600,46100,14440,Peshawar,Reserved
+CAR-0830,Toyota,Hilux,2021,Green,Pickup,Diesel,Automatic,2800,76200,18810,Faisalabad,Sold
+CAR-0831,Toyota,Corolla,2023,Red,Sedan,Hybrid,Automatic,1800,44100,16070,Rawalpindi,For Sale
+CAR-0832,Mercedes-Benz,E-Class,2007,Silver,Sedan,Diesel,Automatic,2000,267000,4960,Karachi,Sold
+CAR-0833,Suzuki,Alto,2024,Black,Hatchback,Petrol,Automatic,660,41400,6540,Faisalabad,Sold
+CAR-0834,Nissan,Skyline,2001,Grey,Coupe,Petrol,Manual,3000,351400,3040,Islamabad,For Sale
+CAR-0835,Kia,Picanto,2020,Red,Hatchback,Petrol,Automatic,1000,86700,5500,Rawalpindi,Sold
+CAR-0836,Hyundai,Sonata,2011,Red,Sedan,Petrol,Automatic,2500,211700,3490,Multan,For Sale
+CAR-0837,Volkswagen,Passat,2022,Silver,Sedan,Diesel,Automatic,1800,67500,15900,Peshawar,Sold
+CAR-0838,BMW,X5,2016,Blue,SUV,Diesel,Manual,3000,155200,18830,Islamabad,For Sale
+CAR-0839,Ford,Mustang,2014,Red,Coupe,Petrol,Manual,5000,169400,7160,Multan,Sold
+CAR-0840,Tesla,Model X,2017,White,SUV,Electric,Automatic,0,143700,26110,Faisalabad,For Sale
+CAR-0841,Toyota,Camry,2023,Yellow,Sedan,Petrol,Automatic,2500,48600,18860,Multan,Sold
+CAR-0842,BMW,Z4,2023,Black,Convertible,Petrol,Automatic,2000,65600,35820,Lahore,Sold
+CAR-0843,Honda,Accord,2020,White,Sedan,Petrol,Manual,2000,73400,12660,Faisalabad,For Sale
+CAR-0844,Toyota,Yaris,2013,White,Hatchback,Petrol,Automatic,1500,187400,3080,Rawalpindi,For Sale
+CAR-0845,Kia,Sportage,2011,Blue,SUV,Petrol,Manual,2000,224800,3640,Islamabad,For Sale
+CAR-0846,Suzuki,Wagon R,2004,Maroon,Hatchback,Petrol,Manual,1000,324500,800,Peshawar,Sold
+CAR-0847,Toyota,Yaris,2004,Red,Hatchback,Petrol,Automatic,1500,318800,1440,Rawalpindi,For Sale
+CAR-0848,Volkswagen,Beetle,2012,Gold,Hatchback,Petrol,Automatic,2000,204400,3010,Karachi,For Sale
+CAR-0849,Ford,Ranger,2013,Maroon,Pickup,Diesel,Manual,2200,186800,6140,Islamabad,For Sale
+CAR-0850,Honda,Civic,2014,Silver,Sedan,Petrol,Automatic,1800,185300,4970,Faisalabad,Sold
+CAR-0851,Nissan,Patrol,2003,Silver,SUV,Petrol,Manual,4000,346200,4800,Lahore,For Sale
+CAR-0852,Ford,Explorer,2014,Silver,SUV,Petrol,Automatic,3500,161600,7360,Lahore,For Sale
+CAR-0853,Toyota,Hilux,2007,White,Pickup,Diesel,Automatic,2800,273500,2800,Faisalabad,Sold
+CAR-0854,Nissan,Leaf,2023,Silver,Hatchback,Electric,Automatic,0,46800,18770,Multan,For Sale
+CAR-0855,Volkswagen,Passat,2003,Black,Sedan,Diesel,Manual,1800,332600,2400,Multan,Sold
+CAR-0856,Chevrolet,Camaro,2016,White,Coupe,Petrol,Manual,3600,140100,8930,Multan,For Sale
+CAR-0857,Suzuki,Swift,2008,Yellow,Hatchback,Petrol,Manual,1200,248300,1200,Rawalpindi,For Sale
+CAR-0858,Toyota,Hilux,2026,Black,Pickup,Diesel,Automatic,2800,7600,37640,Faisalabad,Sold
+CAR-0859,Nissan,Sunny,2009,Blue,Sedan,Petrol,Manual,1500,249800,1430,Rawalpindi,For Sale
+CAR-0860,Toyota,Prius,2011,Yellow,Hatchback,Hybrid,Manual,1800,223300,3690,Karachi,Sold
+CAR-0861,Tesla,Model X,2026,Grey,SUV,Electric,Automatic,0,4100,97800,Multan,For Sale
+CAR-0862,Hyundai,Tucson,2023,White,SUV,Diesel,Automatic,2000,47500,19290,Rawalpindi,For Sale
+CAR-0863,BMW,3 Series,2014,Grey,Sedan,Diesel,Manual,2000,162100,8240,Rawalpindi,For Sale
+CAR-0864,Nissan,Patrol,2002,Gold,SUV,Diesel,Manual,4000,352300,4800,Islamabad,For Sale
+CAR-0865,Suzuki,Vitara,2005,Blue,SUV,Petrol,Manual,1600,291100,1920,Karachi,Sold
+CAR-0866,Nissan,Sunny,2016,White,Sedan,Petrol,Manual,1500,149900,3350,Rawalpindi,Sold
+CAR-0867,Volkswagen,Tiguan,2025,Blue,SUV,Diesel,Automatic,1400,26400,28320,Karachi,For Sale
+CAR-0868,Volkswagen,Golf,2006,Red,Hatchback,Petrol,Manual,1400,296900,2080,Islamabad,For Sale
+CAR-0869,Hyundai,Ioniq 5,2022,Grey,SUV,Electric,Automatic,0,61000,24750,Faisalabad,For Sale
+CAR-0870,Mercedes-Benz,C-Class,2025,Maroon,Sedan,Petrol,Automatic,2000,22600,40540,Faisalabad,Sold
+CAR-0871,Mercedes-Benz,C-Class,2022,White,Sedan,Petrol,Automatic,2000,67100,29830,Islamabad,For Sale
+CAR-0872,Suzuki,Swift,2013,Grey,Hatchback,Petrol,Manual,1200,191300,2420,Multan,For Sale
+CAR-0873,Chevrolet,Silverado,2010,Blue,Pickup,Petrol,Automatic,5300,236300,5320,Karachi,For Sale
+CAR-0874,Ford,Ranger,2013,Black,Pickup,Diesel,Automatic,2200,198800,5490,Multan,For Sale
+CAR-0875,Kia,EV6,2024,Grey,SUV,Electric,Automatic,0,39400,33830,Multan,Sold
+CAR-0876,Chevrolet,Corvette,2001,Red,Coupe,Petrol,Automatic,6200,358800,5440,Karachi,For Sale
+CAR-0877,Toyota,Prius,2023,Silver,Hatchback,Hybrid,Automatic,1800,51800,18340,Rawalpindi,Sold
+CAR-0878,Mazda,CX-5,2012,Blue,SUV,Petrol,Automatic,2500,195600,3950,Lahore,For Sale
+CAR-0879,Toyota,Camry,2010,Silver,Sedan,Petrol,Automatic,2500,230500,3350,Peshawar,For Sale
+CAR-0880,Volkswagen,Passat,2012,Maroon,Sedan,Petrol,Automatic,1800,204400,4700,Peshawar,For Sale
+CAR-0881,Mercedes-Benz,S-Class,2002,Silver,Sedan,Petrol,Automatic,3000,350200,9200,Karachi,Reserved
+CAR-0882,Kia,Sportage,2004,Maroon,SUV,Diesel,Manual,2000,310000,2320,Lahore,Sold
+CAR-0883,Toyota,Camry,2001,White,Sedan,Petrol,Automatic,2500,348800,2320,Lahore,Sold
+CAR-0884,Nissan,Patrol,2001,Silver,SUV,Petrol,Automatic,4000,357700,4800,Peshawar,Reserved
+CAR-0885,Honda,Accord,2006,Black,Sedan,Petrol,Automatic,2000,288500,2400,Rawalpindi,Sold
+CAR-0886,Ford,Mustang,2022,White,Coupe,Petrol,Automatic,5000,77900,21980,Islamabad,Sold
+CAR-0887,Suzuki,Cultus,2002,White,Hatchback,Petrol,Automatic,1000,347700,880,Faisalabad,Reserved
+CAR-0888,Toyota,Prius,2020,Black,Hatchback,Hybrid,Manual,1800,90000,12100,Rawalpindi,For Sale
+CAR-0889,Hyundai,Elantra,2007,Grey,Sedan,Petrol,Manual,2000,287400,1760,Rawalpindi,For Sale
+CAR-0890,Ford,Explorer,2026,Black,SUV,Petrol,Manual,3500,16600,44410,Karachi,For Sale
+CAR-0891,Chevrolet,Corvette,2018,Grey,Coupe,Petrol,Automatic,6200,123400,21800,Peshawar,For Sale
+CAR-0892,Toyota,Hilux,2024,Red,Pickup,Diesel,Automatic,2800,38500,26340,Karachi,Sold
+CAR-0893,Ford,Focus,2014,Grey,Hatchback,Petrol,Automatic,1600,175400,3530,Rawalpindi,Sold
+CAR-0894,Honda,HR-V,2021,Yellow,SUV,Petrol,Automatic,1500,80900,12850,Lahore,Sold
+CAR-0895,Mercedes-Benz,E-Class,2022,Black,Sedan,Diesel,Automatic,2000,54000,39110,Peshawar,For Sale
+CAR-0896,Hyundai,Elantra,2017,Black,Sedan,Petrol,Manual,2000,125800,6470,Rawalpindi,Sold
+CAR-0897,Ford,Ranger,2022,Silver,Pickup,Diesel,Automatic,2200,58600,22070,Lahore,Sold
+CAR-0898,Suzuki,Vitara,2026,Blue,SUV,Petrol,Manual,1600,6700,25100,Islamabad,Sold
+CAR-0899,Chevrolet,Camaro,2019,Blue,Coupe,Petrol,Manual,3600,98700,14560,Rawalpindi,Sold
+CAR-0900,Ford,Mustang,2011,Blue,Coupe,Petrol,Manual,5000,222300,4630,Karachi,For Sale
+CAR-0901,Ford,Explorer,2004,Green,SUV,Petrol,Automatic,3500,304700,3360,Rawalpindi,For Sale
+CAR-0902,Mazda,CX-5,2016,Blue,SUV,Petrol,Automatic,2500,146200,6930,Rawalpindi,Sold
+CAR-0903,Toyota,Corolla,2013,Black,Sedan,Hybrid,Automatic,1800,183000,3620,Faisalabad,For Sale
+CAR-0904,Toyota,Land Cruiser,2017,Blue,SUV,Petrol,Automatic,4000,138400,20650,Lahore,Sold
+CAR-0905,Nissan,Leaf,2024,Silver,Hatchback,Electric,Automatic,0,34300,23260,Rawalpindi,For Sale
+CAR-0906,Mercedes-Benz,S-Class,2019,Silver,Sedan,Petrol,Automatic,3000,112400,43570,Lahore,For Sale
+CAR-0907,Hyundai,Sonata,2025,Silver,Sedan,Petrol,Automatic,2500,21000,24930,Rawalpindi,For Sale
+CAR-0908,Mercedes-Benz,GLC,2016,Green,SUV,Diesel,Manual,2000,148600,12450,Faisalabad,Sold
+CAR-0909,Toyota,Yaris,2015,Grey,Hatchback,Petrol,Manual,1500,169900,3690,Faisalabad,Sold
+CAR-0910,Nissan,Leaf,2019,White,Hatchback,Electric,Automatic,0,101800,12320,Rawalpindi,Sold
+CAR-0911,Kia,EV6,2024,Blue,SUV,Electric,Automatic,0,26900,33510,Rawalpindi,For Sale
+CAR-0912,Suzuki,Vitara,2002,Red,SUV,Petrol,Manual,1600,338100,1920,Rawalpindi,For Sale
+CAR-0913,Hyundai,Sonata,2012,Silver,Sedan,Petrol,Automatic,2500,197000,3780,Multan,Sold
+CAR-0914,Honda,HR-V,2021,Black,SUV,Petrol,Automatic,1500,73000,12380,Rawalpindi,Sold
+CAR-0915,Chevrolet,Corvette,2023,White,Coupe,Petrol,Manual,6200,66800,41260,Multan,For Sale
+CAR-0916,BMW,3 Series,2012,White,Sedan,Petrol,Manual,2000,204800,6980,Faisalabad,Sold
+CAR-0917,Kia,Sorento,2009,Black,SUV,Diesel,Manual,2400,251800,3240,Multan,For Sale
+CAR-0918,Toyota,Prius,2012,White,Hatchback,Hybrid,Manual,1800,210700,4100,Karachi,Sold
+CAR-0919,Suzuki,Wagon R,2017,Silver,Hatchback,Petrol,Automatic,1000,127400,2750,Karachi,For Sale
+CAR-0920,Hyundai,Ioniq 5,2026,Grey,SUV,Electric,Automatic,0,300,40590,Karachi,For Sale
+CAR-0921,Tesla,Model Y,2020,White,SUV,Electric,Automatic,0,88100,20230,Faisalabad,Sold
+CAR-0922,Mercedes-Benz,S-Class,2026,White,Sedan,Petrol,Automatic,3000,18400,117320,Peshawar,For Sale
+CAR-0923,Chevrolet,Corvette,2000,Grey,Coupe,Petrol,Manual,6200,361800,5440,Karachi,For Sale
+CAR-0924,Kia,Sportage,2008,Silver,SUV,Petrol,Manual,2000,245200,2420,Islamabad,For Sale
+CAR-0925,Suzuki,Vitara,2018,Gold,SUV,Petrol,Automatic,1600,133400,8350,Karachi,For Sale
+CAR-0926,Ford,Ranger,2009,Blue,Pickup,Diesel,Automatic,2200,259600,3370,Rawalpindi,For Sale
+CAR-0927,Hyundai,Sonata,2013,Black,Sedan,Petrol,Automatic,2500,188000,4520,Multan,For Sale
+CAR-0928,Kia,Picanto,2017,White,Hatchback,Petrol,Automatic,1000,140900,3350,Karachi,Reserved
+CAR-0929,Volkswagen,Tiguan,2013,Blue,SUV,Diesel,Manual,1400,203600,5650,Karachi,For Sale
+CAR-0930,Hyundai,Elantra,2015,Red,Sedan,Petrol,Manual,2000,156800,5190,Karachi,Sold
+CAR-0931,Suzuki,Swift,2019,Blue,Hatchback,Petrol,Automatic,1200,107600,5840,Peshawar,For Sale
+CAR-0932,Nissan,Sunny,2005,Red,Sedan,Petrol,Automatic,1500,290600,1120,Lahore,For Sale
+CAR-0933,Honda,CR-V,2024,Blue,SUV,Petrol,Automatic,1500,23500,23610,Rawalpindi,For Sale
+CAR-0934,Volkswagen,Golf,2009,Blue,Hatchback,Petrol,Manual,1400,242800,2580,Lahore,For Sale
+CAR-0935,Nissan,Sunny,2000,Blue,Sedan,Petrol,Manual,1500,360000,1120,Faisalabad,Sold
+CAR-0936,Mazda,Mazda 3,2022,Silver,Sedan,Petrol,Automatic,2000,56700,15100,Faisalabad,For Sale
+CAR-0937,Hyundai,Elantra,2004,Blue,Sedan,Petrol,Manual,2000,310700,1760,Rawalpindi,Sold
+CAR-0938,Ford,Mustang,2004,Black,Coupe,Petrol,Manual,5000,309800,3200,Rawalpindi,Sold
+CAR-0939,Tesla,Model X,2020,Blue,SUV,Electric,Automatic,0,87200,43940,Rawalpindi,For Sale
+CAR-0940,Volkswagen,Tiguan,2009,White,SUV,Diesel,Automatic,1400,244200,2960,Faisalabad,Sold
+CAR-0941,Honda,CR-V,2002,Silver,SUV,Petrol,Automatic,1500,340100,2640,Lahore,For Sale
+CAR-0942,Tesla,Model S,2012,White,Sedan,Electric,Automatic,0,198300,13190,Faisalabad,For Sale
+CAR-0943,Suzuki,Vitara,2001,Red,SUV,Petrol,Automatic,1600,352000,1920,Rawalpindi,For Sale
+CAR-0944,Mercedes-Benz,GLC,2023,Blue,SUV,Diesel,Automatic,2000,55800,37600,Rawalpindi,Sold
+CAR-0945,Nissan,Skyline,2005,Grey,Coupe,Petrol,Automatic,3000,293800,3040,Multan,Sold
+CAR-0946,Hyundai,Sonata,2018,White,Sedan,Petrol,Automatic,2500,123100,8910,Peshawar,For Sale
+CAR-0947,Ford,Focus,2002,Grey,Hatchback,Petrol,Manual,1600,335300,1600,Peshawar,For Sale
+CAR-0948,Tesla,Model X,2025,Yellow,SUV,Electric,Automatic,0,20900,94340,Multan,Reserved
+CAR-0949,Mercedes-Benz,E-Class,2003,Black,Sedan,Petrol,Automatic,2000,313900,4960,Islamabad,Sold
+CAR-0950,Chevrolet,Corvette,2016,Red,Coupe,Petrol,Automatic,6200,141300,17980,Islamabad,For Sale
+CAR-0951,Nissan,Skyline,2009,Green,Coupe,Petrol,Automatic,3000,246400,3330,Lahore,For Sale
+CAR-0952,Ford,Explorer,2013,Black,SUV,Petrol,Manual,3500,197700,6890,Peshawar,Reserved
+CAR-0953,Tesla,Model S,2017,White,Sedan,Electric,Automatic,0,134000,27770,Islamabad,For Sale
+CAR-0954,Chevrolet,Silverado,2001,Black,Pickup,Petrol,Manual,5300,358600,3600,Faisalabad,Sold
+CAR-0955,BMW,X5,2021,Maroon,SUV,Diesel,Automatic,3000,79000,38120,Lahore,Sold
+CAR-0956,Mercedes-Benz,S-Class,2007,Grey,Sedan,Petrol,Automatic,3000,263300,9200,Karachi,Sold
+CAR-0957,Tesla,Model Y,2022,Blue,SUV,Electric,Automatic,0,75200,29980,Rawalpindi,For Sale
+CAR-0958,Ford,Focus,2003,Black,Hatchback,Petrol,Manual,1600,326100,1600,Faisalabad,For Sale
+CAR-0959,Kia,Sorento,2026,Black,SUV,Diesel,Automatic,2400,18200,36650,Peshawar,For Sale
+CAR-0960,Tesla,Model 3,2017,Red,Sedan,Electric,Automatic,0,147000,11380,Peshawar,Reserved
+CAR-0961,Kia,Sorento,2006,Grey,SUV,Diesel,Manual,2400,280000,2800,Karachi,For Sale
+CAR-0962,BMW,Z4,2025,White,Convertible,Petrol,Automatic,2000,22400,49440,Karachi,For Sale
+CAR-0963,Mazda,CX-5,2026,White,SUV,Petrol,Automatic,2500,5500,27980,Peshawar,For Sale
+CAR-0964,Nissan,Leaf,2018,Black,Hatchback,Electric,Automatic,0,122800,10330,Faisalabad,For Sale
+CAR-0965,Mercedes-Benz,GLC,2021,White,SUV,Diesel,Automatic,2000,76100,28400,Multan,For Sale
+CAR-0966,Tesla,Model 3,2018,White,Sedan,Electric,Automatic,0,116800,13160,Islamabad,Reserved
+CAR-0967,Nissan,Sunny,2001,Gold,Sedan,Petrol,Manual,1500,361300,1120,Rawalpindi,For Sale
+CAR-0968,Toyota,Hilux,2006,Black,Pickup,Diesel,Manual,2800,287300,2800,Peshawar,Sold
+CAR-0969,Volkswagen,Tiguan,2020,Green,SUV,Petrol,Automatic,1400,94200,12590,Lahore,For Sale
+CAR-0970,Kia,Sorento,2016,Grey,SUV,Diesel,Manual,2400,138300,9210,Karachi,For Sale
+CAR-0971,Ford,Mustang,2016,Red,Coupe,Petrol,Manual,5000,159700,10390,Karachi,Sold
+CAR-0972,BMW,3 Series,2015,Gold,Sedan,Diesel,Automatic,2000,163500,8920,Rawalpindi,For Sale
+CAR-0973,Ford,Mustang,2011,Maroon,Coupe,Petrol,Automatic,5000,216300,5330,Lahore,For Sale
+CAR-0974,BMW,3 Series,2003,Grey,Sedan,Petrol,Manual,2000,330600,3600,Lahore,For Sale
+CAR-0975,Toyota,Corolla,2016,Red,Sedan,Petrol,Manual,1800,160800,5730,Peshawar,For Sale
+CAR-0976,Tesla,Model 3,2019,White,Sedan,Electric,Automatic,0,96700,16740,Peshawar,Sold
+CAR-0977,Tesla,Model X,2018,Green,SUV,Electric,Automatic,0,124500,32910,Multan,For Sale
+CAR-0978,Nissan,Skyline,2010,Black,Coupe,Petrol,Automatic,3000,229500,4230,Peshawar,For Sale
+CAR-0979,Hyundai,Ioniq 5,2021,White,SUV,Electric,Automatic,0,77400,23430,Faisalabad,For Sale
+CAR-0980,Chevrolet,Corvette,2016,Silver,Coupe,Petrol,Manual,6200,151200,17110,Karachi,For Sale
+CAR-0981,Ford,Ranger,2006,White,Pickup,Diesel,Automatic,2200,290100,2880,Peshawar,For Sale
+CAR-0982,Ford,Focus,2003,Black,Hatchback,Petrol,Manual,1600,325000,1600,Multan,For Sale
+CAR-0983,Mercedes-Benz,E-Class,2024,White,Sedan,Diesel,Automatic,2000,44900,45400,Faisalabad,Sold
+CAR-0984,Toyota,Camry,2009,White,Sedan,Petrol,Automatic,2500,227000,2890,Islamabad,Reserved
+CAR-0985,Honda,HR-V,2023,Maroon,SUV,Petrol,Manual,1500,58000,18720,Rawalpindi,For Sale
+CAR-0986,Toyota,Camry,2006,Red,Sedan,Petrol,Manual,2500,296300,2320,Multan,For Sale
+CAR-0987,Toyota,Camry,2003,White,Sedan,Petrol,Manual,2500,313700,2320,Lahore,Sold
+CAR-0988,Toyota,Land Cruiser,2018,Blue,SUV,Diesel,Automatic,4000,126600,24540,Faisalabad,For Sale
+CAR-0989,Kia,EV6,2024,Black,SUV,Electric,Automatic,0,40400,36440,Faisalabad,Sold
+CAR-0990,Toyota,Corolla,2002,Black,Sedan,Petrol,Manual,1800,342500,1920,Faisalabad,For Sale
+CAR-0991,Kia,EV6,2021,Red,SUV,Electric,Automatic,0,71400,25240,Lahore,Sold
+CAR-0992,Toyota,Yaris,2013,Silver,Hatchback,Petrol,Manual,1500,187000,2890,Peshawar,For Sale
+CAR-0993,Tesla,Model S,2019,Blue,Sedan,Electric,Automatic,0,107200,35030,Faisalabad,For Sale
+CAR-0994,Suzuki,Wagon R,2014,White,Hatchback,Petrol,Manual,1000,171600,2090,Karachi,Sold
+CAR-0995,Mercedes-Benz,C-Class,2023,White,Sedan,Petrol,Manual,2000,36000,29850,Peshawar,For Sale
+CAR-0996,Chevrolet,Camaro,2009,Red,Coupe,Petrol,Manual,3600,247300,3460,Islamabad,For Sale
+CAR-0997,Toyota,Land Cruiser,2014,Black,SUV,Diesel,Manual,4000,180300,14770,Multan,For Sale
+CAR-0998,Hyundai,Sonata,2018,Silver,Sedan,Petrol,Automatic,2500,102700,9170,Peshawar,For Sale
+CAR-0999,Mercedes-Benz,S-Class,2004,Black,Sedan,Petrol,Manual,3000,318900,9200,Multan,For Sale
+CAR-1000,Mazda,CX-5,2015,Gold,SUV,Petrol,Automatic,2500,165700,6540,Lahore,For Sale
+CAR-1001,Ford,Mustang,2002,White,Coupe,Petrol,Automatic,5000,345100,3200,Karachi,For Sale
+CAR-1002,Volkswagen,Golf,2002,Blue,Hatchback,Petrol,Manual,1400,345000,2080,Multan,Sold
+CAR-1003,BMW,Z4,2015,Silver,Convertible,Petrol,Manual,2000,159700,11780,Lahore,Sold
+CAR-1004,Tesla,Model S,2015,Grey,Sedan,Electric,Automatic,0,160400,21080,Karachi,Reserved
+CAR-1005,Toyota,Yaris,2019,Blue,Hatchback,Petrol,Manual,1500,88000,7050,Rawalpindi,For Sale
+CAR-1006,Hyundai,Elantra,2010,Black,Sedan,Petrol,Manual,2000,239700,2460,Peshawar,For Sale
+CAR-1007,Tesla,Model X,2020,White,SUV,Electric,Automatic,0,89400,43680,Faisalabad,For Sale
+CAR-1008,Honda,City,2001,White,Sedan,Petrol,Automatic,1500,342200,1440,Islamabad,For Sale
+CAR-1009,Tesla,Model S,2017,White,Sedan,Electric,Automatic,0,124900,26540,Rawalpindi,For Sale
+CAR-1010,Volkswagen,Tiguan,2017,Black,SUV,Diesel,Manual,1400,126400,9510,Rawalpindi,Sold
+CAR-1011,Honda,CR-V,2022,Black,SUV,Hybrid,Automatic,1500,66000,17550,Faisalabad,For Sale
+CAR-1012,BMW,X5,2017,Silver,SUV,Petrol,Automatic,3000,131700,19600,Faisalabad,For Sale
+CAR-1013,Hyundai,Elantra,2025,White,Sedan,Petrol,Manual,2000,24000,18360,Rawalpindi,Reserved
+CAR-1014,Suzuki,Wagon R,2001,Grey,Hatchback,Petrol,Manual,1000,368000,800,Multan,Reserved
+CAR-1015,Toyota,Land Cruiser,2018,Black,SUV,Diesel,Manual,4000,105500,27430,Multan,For Sale
+CAR-1016,Hyundai,Tucson,2017,Black,SUV,Petrol,Automatic,2000,147800,7940,Rawalpindi,For Sale
+CAR-1017,Ford,Mustang,2009,Blue,Coupe,Petrol,Manual,5000,247000,3430,Rawalpindi,Sold
+CAR-1018,Toyota,Camry,2004,Black,Sedan,Petrol,Automatic,2500,313500,2320,Islamabad,For Sale
+CAR-1019,Hyundai,Elantra,2018,Blue,Sedan,Petrol,Automatic,2000,122000,7580,Rawalpindi,Sold
+CAR-1020,Honda,CR-V,2023,Grey,SUV,Petrol,Automatic,1500,50300,23570,Lahore,Reserved
+CAR-1021,Nissan,Skyline,2011,Maroon,Coupe,Petrol,Manual,3000,216400,5160,Faisalabad,Sold
+CAR-1022,Suzuki,Cultus,2009,Green,Hatchback,Petrol,Manual,1000,254600,1030,Lahore,For Sale
+CAR-1023,Volkswagen,Golf,2024,Black,Hatchback,Diesel,Manual,1400,20600,19390,Lahore,For Sale
+CAR-1024,Tesla,Model X,2026,White,SUV,Electric,Automatic,0,7100,90330,Multan,For Sale
+CAR-1025,Ford,F-150,2005,Green,Pickup,Petrol,Automatic,3500,307800,3600,Faisalabad,For Sale
+CAR-1026,Volkswagen,Passat,2004,Gold,Sedan,Diesel,Manual,1800,318900,2400,Lahore,Sold
+CAR-1027,Honda,Civic,2024,Grey,Sedan,Petrol,Automatic,1800,29300,18410,Karachi,For Sale
+CAR-1028,Nissan,Skyline,2003,Green,Coupe,Petrol,Automatic,3000,323700,3040,Karachi,For Sale
+CAR-1029,Ford,Ranger,2005,Blue,Pickup,Diesel,Manual,2200,297100,2880,Lahore,For Sale
+CAR-1030,Nissan,Sunny,2000,Red,Sedan,Petrol,Manual,1500,371900,1120,Karachi,For Sale
+CAR-1031,Ford,Explorer,2013,Black,SUV,Petrol,Automatic,3500,192600,7160,Rawalpindi,Sold
+CAR-1032,Toyota,Yaris,2020,Blue,Hatchback,Petrol,Automatic,1500,86800,7990,Rawalpindi,For Sale
+CAR-1033,Nissan,Skyline,2010,Grey,Coupe,Petrol,Manual,3000,229600,4400,Lahore,For Sale
+CAR-1034,Mercedes-Benz,C-Class,2003,White,Sedan,Petrol,Manual,2000,316100,3840,Lahore,For Sale
+CAR-1035,Chevrolet,Corvette,2008,Green,Coupe,Petrol,Manual,6200,247000,5440,Faisalabad,Sold
+CAR-1036,Mazda,MX-5,2004,White,Convertible,Petrol,Automatic,2000,301900,2480,Peshawar,Reserved
+CAR-1037,Honda,Civic,2005,Blue,Sedan,Petrol,Automatic,1800,300800,2000,Faisalabad,For Sale
+CAR-1038,Kia,Sportage,2011,Silver,SUV,Diesel,Automatic,2000,210200,4020,Faisalabad,For Sale
+CAR-1039,Toyota,Camry,2002,Blue,Sedan,Petrol,Manual,2500,338200,2320,Lahore,Reserved
+CAR-1040,Volkswagen,Golf,2024,Silver,Hatchback,Diesel,Manual,1400,39100,17860,Karachi,For Sale
+CAR-1041,Nissan,Skyline,2009,Red,Coupe,Petrol,Manual,3000,237100,3580,Rawalpindi,For Sale
+CAR-1042,Toyota,Camry,2017,Black,Sedan,Petrol,Automatic,2500,144000,8850,Faisalabad,Sold
+CAR-1043,Ford,F-150,2000,Grey,Pickup,Petrol,Automatic,3500,364100,3600,Faisalabad,For Sale
+CAR-1044,Mercedes-Benz,C-Class,2018,Red,Sedan,Petrol,Automatic,2000,111900,15980,Faisalabad,Sold
+CAR-1045,Suzuki,Cultus,2002,Black,Hatchback,Petrol,Manual,1000,357200,880,Karachi,For Sale
+CAR-1046,Chevrolet,Camaro,2014,Silver,Coupe,Petrol,Automatic,3600,179100,7280,Rawalpindi,For Sale
+CAR-1047,Toyota,Yaris,2010,Silver,Hatchback,Petrol,Manual,1500,233600,1830,Karachi,For Sale
+CAR-1048,Honda,HR-V,2021,White,SUV,Petrol,Automatic,1500,87200,12810,Peshawar,For Sale
+CAR-1049,Toyota,Camry,2019,Grey,Sedan,Hybrid,Manual,2500,104900,10440,Rawalpindi,For Sale
+CAR-1050,Ford,Ranger,2008,Red,Pickup,Diesel,Automatic,2200,258800,2930,Peshawar,Sold
+CAR-1051,Honda,CR-V,2012,Green,SUV,Hybrid,Automatic,1500,201200,5050,Islamabad,Sold
+CAR-1052,Chevrolet,Silverado,2025,Blue,Pickup,Petrol,Automatic,5300,27100,40610,Faisalabad,For Sale
+CAR-1053,Honda,City,2020,Grey,Sedan,Petrol,Automatic,1500,89000,7660,Rawalpindi,For Sale
+CAR-1054,Ford,Focus,2018,Black,Hatchback,Petrol,Manual,1600,112200,7270,Karachi,For Sale
+CAR-1055,Suzuki,Swift,2025,Grey,Hatchback,Petrol,Manual,1200,19900,12050,Multan,For Sale
+CAR-1056,Mercedes-Benz,GLC,2022,White,SUV,Diesel,Manual,2000,52300,30450,Rawalpindi,For Sale
+CAR-1057,Suzuki,Cultus,2002,Black,Hatchback,Petrol,Manual,1000,330300,880,Lahore,For Sale
+CAR-1058,Tesla,Model 3,2025,Grey,Sedan,Electric,Automatic,0,14700,37780,Lahore,Reserved
+CAR-1059,BMW,3 Series,2023,White,Sedan,Diesel,Manual,2000,51800,27200,Faisalabad,Sold
+CAR-1060,Nissan,Patrol,2011,White,SUV,Petrol,Manual,4000,223100,7600,Islamabad,For Sale
+CAR-1061,BMW,Z4,2003,White,Convertible,Petrol,Automatic,2000,328400,4160,Multan,Sold
+CAR-1062,Toyota,Yaris,2023,Grey,Hatchback,Petrol,Manual,1500,54600,12420,Peshawar,For Sale
+CAR-1063,BMW,5 Series,2022,White,Sedan,Diesel,Manual,2000,52600,36450,Faisalabad,For Sale
+CAR-1064,Ford,Focus,2000,White,Hatchback,Petrol,Manual,1600,381600,1600,Lahore,Sold
+CAR-1065,Toyota,Camry,2017,White,Sedan,Petrol,Automatic,2500,143900,9000,Karachi,Sold
+CAR-1066,Honda,HR-V,2021,Blue,SUV,Petrol,Automatic,1500,78800,13370,Islamabad,Reserved
+CAR-1067,Toyota,Land Cruiser,2017,White,SUV,Petrol,Automatic,4000,134900,21440,Peshawar,For Sale
+CAR-1068,Honda,Accord,2019,White,Sedan,Petrol,Automatic,2000,114300,10960,Lahore,For Sale
+CAR-1069,BMW,3 Series,2001,Black,Sedan,Diesel,Automatic,2000,358000,3600,Rawalpindi,For Sale
+CAR-1070,Ford,Explorer,2017,Grey,SUV,Petrol,Automatic,3500,133700,12600,Karachi,Sold
+CAR-1071,Suzuki,Wagon R,2023,Green,Hatchback,Petrol,Manual,1000,47000,7110,Peshawar,For Sale
+CAR-1072,Tesla,Model X,2022,Red,SUV,Electric,Automatic,0,74900,54160,Faisalabad,Sold
+CAR-1073,Mercedes-Benz,S-Class,2008,Blue,Sedan,Diesel,Automatic,3000,269500,10360,Multan,For Sale
+CAR-1074,Toyota,Land Cruiser,2002,Blue,SUV,Petrol,Manual,4000,345400,6000,Multan,For Sale
+CAR-1075,Tesla,Model S,2012,Blue,Sedan,Electric,Automatic,0,196100,13390,Faisalabad,For Sale
+CAR-1076,Volkswagen,Beetle,2001,Silver,Hatchback,Petrol,Manual,2000,353100,1760,Rawalpindi,For Sale
+CAR-1077,Honda,Accord,2020,Grey,Sedan,Petrol,Automatic,2000,84800,14340,Islamabad,For Sale
+CAR-1078,Kia,Sportage,2007,Red,SUV,Diesel,Manual,2000,269000,2320,Peshawar,For Sale
+CAR-1079,Tesla,Model 3,2025,Grey,Sedan,Electric,Automatic,0,28100,32840,Faisalabad,For Sale
+CAR-1080,Volkswagen,Golf,2015,Red,Hatchback,Petrol,Manual,1400,159100,5450,Multan,For Sale
+CAR-1081,Toyota,Yaris,2007,Black,Hatchback,Petrol,Automatic,1500,268100,1440,Islamabad,For Sale
+CAR-1082,Toyota,Land Cruiser,2014,Silver,SUV,Diesel,Automatic,4000,175300,14430,Lahore,For Sale
+CAR-1083,Honda,Accord,2020,White,Sedan,Hybrid,Manual,2000,87900,11830,Islamabad,Sold
+CAR-1084,Suzuki,Wagon R,2013,Black,Hatchback,Petrol,Automatic,1000,187500,1530,Rawalpindi,For Sale
+CAR-1085,Hyundai,Ioniq 5,2026,Blue,SUV,Electric,Automatic,0,300,43710,Karachi,For Sale
+CAR-1086,Volkswagen,Beetle,2009,Maroon,Hatchback,Petrol,Manual,2000,230300,2140,Karachi,Sold
+CAR-1087,Toyota,Land Cruiser,2006,Black,SUV,Petrol,Automatic,4000,295400,6000,Rawalpindi,For Sale
+CAR-1088,Toyota,Hilux,2014,Grey,Pickup,Diesel,Automatic,2800,169300,6920,Islamabad,Sold
+CAR-1089,Mercedes-Benz,S-Class,2019,Black,Sedan,Petrol,Automatic,3000,100400,46120,Peshawar,For Sale
+CAR-1090,Tesla,Model S,2019,Grey,Sedan,Electric,Automatic,0,97500,37990,Islamabad,For Sale
+CAR-1091,Honda,Accord,2020,Red,Sedan,Petrol,Manual,2000,91800,12320,Multan,For Sale
+CAR-1092,BMW,Z4,2006,Red,Convertible,Petrol,Automatic,2000,284900,4160,Faisalabad,For Sale
+CAR-1093,Nissan,Patrol,2019,White,SUV,Petrol,Automatic,4000,113900,24740,Multan,For Sale
+CAR-1094,Hyundai,Sonata,2013,Red,Sedan,Petrol,Manual,2500,175700,4540,Multan,Reserved
+CAR-1095,Mercedes-Benz,C-Class,2000,Grey,Sedan,Petrol,Manual,2000,368500,3840,Faisalabad,For Sale
+CAR-1096,Tesla,Model X,2025,Maroon,SUV,Electric,Automatic,0,19400,88680,Multan,Sold
+CAR-1097,Mercedes-Benz,GLC,2016,Blue,SUV,Diesel,Automatic,2000,148500,14950,Lahore,For Sale
+CAR-1098,Mercedes-Benz,C-Class,2013,White,Sedan,Diesel,Manual,2000,187300,7940,Lahore,For Sale
+CAR-1099,Kia,Sportage,2024,Black,SUV,Diesel,Manual,2000,40800,21290,Karachi,Reserved
+CAR-1100,Volkswagen,Beetle,2007,Black,Hatchback,Petrol,Manual,2000,269500,1760,Karachi,Reserved
+CAR-1101,Tesla,Model 3,2025,Red,Sedan,Electric,Automatic,0,24400,35700,Islamabad,For Sale
+CAR-1102,Hyundai,Tucson,2025,Green,SUV,Diesel,Automatic,2000,18400,25750,Peshawar,Sold
+CAR-1103,Ford,Focus,2018,Red,Hatchback,Petrol,Automatic,1600,132600,6050,Lahore,Sold
+CAR-1104,Mercedes-Benz,C-Class,2000,Black,Sedan,Petrol,Automatic,2000,366800,3840,Karachi,For Sale
+CAR-1105,Tesla,Model 3,2022,Green,Sedan,Electric,Automatic,0,63100,25590,Karachi,Sold
+CAR-1106,Ford,Mustang,2016,Black,Coupe,Petrol,Manual,5000,137200,10490,Islamabad,For Sale
+CAR-1107,Chevrolet,Camaro,2013,Yellow,Coupe,Petrol,Manual,3600,191500,6240,Peshawar,For Sale
+CAR-1108,Tesla,Model Y,2026,Red,SUV,Electric,Automatic,0,11100,48770,Karachi,Reserved
+CAR-1109,Kia,Sorento,2006,White,SUV,Petrol,Manual,2400,284200,2800,Rawalpindi,For Sale
+CAR-1110,Toyota,Corolla,2000,Green,Sedan,Petrol,Automatic,1800,369300,1920,Islamabad,For Sale
+CAR-1111,Hyundai,Elantra,2015,Grey,Sedan,Petrol,Manual,2000,183000,4870,Multan,Reserved
+CAR-1112,Mazda,Mazda 3,2026,Black,Sedan,Petrol,Automatic,2000,2100,24450,Rawalpindi,For Sale
+CAR-1113,BMW,Z4,2023,Silver,Convertible,Petrol,Automatic,2000,49300,37240,Peshawar,Sold
+CAR-1114,Mazda,CX-5,2014,Silver,SUV,Petrol,Manual,2500,176100,5480,Peshawar,Sold
+CAR-1115,Kia,Picanto,2023,White,Hatchback,Petrol,Automatic,1000,43600,7370,Faisalabad,Sold
+CAR-1116,Ford,Mustang,2003,Yellow,Coupe,Petrol,Manual,5000,331500,3200,Peshawar,For Sale
+CAR-1117,Honda,CR-V,2003,Blue,SUV,Petrol,Manual,1500,321900,2640,Peshawar,For Sale
+CAR-1118,Kia,Sorento,2024,Black,SUV,Petrol,Automatic,2400,24400,25980,Multan,For Sale
+CAR-1119,Volkswagen,Golf,2000,Green,Hatchback,Diesel,Manual,1400,364100,2080,Faisalabad,Sold
+CAR-1120,Suzuki,Swift,2018,Silver,Hatchback,Petrol,Automatic,1200,104300,5200,Rawalpindi,For Sale
+CAR-1121,Honda,CR-V,2006,Silver,SUV,Petrol,Automatic,1500,280800,2640,Multan,For Sale
+CAR-1122,Kia,Picanto,2015,Grey,Hatchback,Petrol,Manual,1000,156200,2680,Islamabad,For Sale
+CAR-1123,Honda,City,2007,White,Sedan,Petrol,Automatic,1500,260500,1440,Faisalabad,For Sale
+CAR-1124,Volkswagen,Golf,2015,Black,Hatchback,Petrol,Automatic,1400,145500,5510,Karachi,Sold
+CAR-1125,Suzuki,Cultus,2002,Silver,Hatchback,Petrol,Automatic,1000,330600,880,Rawalpindi,For Sale
+CAR-1126,Nissan,Leaf,2018,Black,Hatchback,Electric,Automatic,0,118000,9330,Multan,Reserved
+CAR-1127,Toyota,Hilux,2022,Silver,Pickup,Diesel,Manual,2800,49900,19490,Lahore,For Sale
+CAR-1128,BMW,3 Series,2015,Red,Sedan,Petrol,Automatic,2000,177000,10240,Multan,Sold
+CAR-1129,Volkswagen,Passat,2022,White,Sedan,Diesel,Automatic,1800,65300,16790,Islamabad,Sold
+CAR-1130,Suzuki,Wagon R,2016,White,Hatchback,Petrol,Automatic,1000,158600,2530,Islamabad,For Sale
+CAR-1131,Nissan,Skyline,2000,Grey,Coupe,Petrol,Manual,3000,377600,3040,Islamabad,Reserved
+CAR-1132,Suzuki,Cultus,2017,White,Hatchback,Petrol,Automatic,1000,151300,3180,Karachi,For Sale
+CAR-1133,Ford,F-150,2017,Blue,Pickup,Petrol,Automatic,3500,120700,11800,Faisalabad,Sold
+CAR-1134,Nissan,Sunny,2013,White,Sedan,Petrol,Manual,1500,181500,2460,Rawalpindi,For Sale
+CAR-1135,Toyota,Prius,2021,White,Hatchback,Hybrid,Automatic,1800,78200,14450,Lahore,For Sale
+CAR-1136,Suzuki,Swift,2011,Red,Hatchback,Petrol,Manual,1200,219300,2000,Multan,For Sale
+CAR-1137,Nissan,Sunny,2007,Red,Sedan,Petrol,Manual,1500,265400,1120,Karachi,For Sale
+CAR-1138,Mazda,Mazda 3,2016,Black,Sedan,Petrol,Automatic,2000,148700,5910,Faisalabad,Reserved
+CAR-1139,Toyota,Camry,2019,Silver,Sedan,Petrol,Automatic,2500,93200,10700,Faisalabad,For Sale
+CAR-1140,Toyota,Corolla,2026,White,Sedan,Petrol,Automatic,1800,9100,22620,Peshawar,For Sale
+CAR-1141,Honda,City,2005,White,Sedan,Petrol,Automatic,1500,296800,1440,Rawalpindi,For Sale
+CAR-1142,Mercedes-Benz,E-Class,2022,Black,Sedan,Diesel,Manual,2000,61500,33510,Multan,For Sale
+CAR-1143,Volkswagen,Golf,2011,Blue,Hatchback,Petrol,Automatic,1400,213800,3350,Lahore,For Sale
+CAR-1144,Tesla,Model 3,2024,Silver,Sedan,Electric,Automatic,0,30800,33750,Islamabad,For Sale
+CAR-1145,Mercedes-Benz,C-Class,2019,Red,Sedan,Diesel,Automatic,2000,99500,18560,Karachi,For Sale
+CAR-1146,Toyota,Yaris,2015,Red,Hatchback,Petrol,Automatic,1500,154100,3780,Faisalabad,For Sale
+CAR-1147,Honda,Accord,2018,Grey,Sedan,Petrol,Automatic,2000,118400,9560,Faisalabad,For Sale
+CAR-1148,Volkswagen,Beetle,2001,White,Hatchback,Petrol,Automatic,2000,360700,1760,Karachi,For Sale
+CAR-1149,Toyota,Prius,2011,White,Hatchback,Hybrid,Manual,1800,219300,3370,Rawalpindi,For Sale
+CAR-1150,Mercedes-Benz,C-Class,2002,Red,Sedan,Petrol,Manual,2000,347600,3840,Rawalpindi,For Sale
+CAR-1151,Kia,EV6,2023,Silver,SUV,Electric,Automatic,0,50000,30580,Multan,For Sale
+CAR-1152,Tesla,Model 3,2022,Silver,Sedan,Electric,Automatic,0,71500,23690,Faisalabad,For Sale
+CAR-1153,Honda,Civic,2009,White,Sedan,Petrol,Automatic,1800,244900,2510,Faisalabad,For Sale
+CAR-1154,Suzuki,Vitara,2009,White,SUV,Petrol,Manual,1600,263900,2160,Faisalabad,Sold
+CAR-1155,Ford,Ranger,2006,Grey,Pickup,Diesel,Manual,2200,285100,2880,Faisalabad,Sold
+CAR-1156,Toyota,Yaris,2009,Grey,Hatchback,Petrol,Automatic,1500,238800,1810,Rawalpindi,For Sale
+CAR-1157,Mercedes-Benz,GLC,2021,Red,SUV,Petrol,Manual,2000,85200,29680,Rawalpindi,For Sale
+CAR-1158,Suzuki,Cultus,2010,Blue,Hatchback,Petrol,Automatic,1000,223100,1290,Islamabad,For Sale
+CAR-1159,Toyota,Camry,2001,White,Sedan,Petrol,Manual,2500,338900,2320,Peshawar,Sold
+CAR-1160,Nissan,Skyline,2007,Black,Coupe,Petrol,Manual,3000,277200,3040,Karachi,Sold
+CAR-1161,BMW,X5,2003,Black,SUV,Diesel,Manual,3000,316200,5600,Peshawar,For Sale
+CAR-1162,Toyota,Prius,2010,White,Hatchback,Hybrid,Manual,1800,230200,3120,Karachi,Sold
+CAR-1163,Ford,Ranger,2002,White,Pickup,Diesel,Automatic,2200,329400,2880,Faisalabad,For Sale
+CAR-1164,Kia,Sportage,2015,Silver,SUV,Diesel,Automatic,2000,162300,5800,Peshawar,For Sale
+CAR-1165,Chevrolet,Camaro,2021,White,Coupe,Petrol,Manual,3600,71500,20880,Islamabad,For Sale
+CAR-1166,Suzuki,Swift,2007,Grey,Hatchback,Petrol,Manual,1200,272600,1200,Peshawar,Sold
+CAR-1167,BMW,X5,2008,Silver,SUV,Petrol,Automatic,3000,253800,5600,Lahore,For Sale
+CAR-1168,Ford,Explorer,2001,Grey,SUV,Petrol,Manual,3500,366000,3360,Faisalabad,For Sale
+CAR-1169,Volkswagen,Tiguan,2011,Black,SUV,Diesel,Automatic,1400,226300,3770,Lahore,For Sale
+CAR-1170,Mercedes-Benz,E-Class,2017,White,Sedan,Diesel,Automatic,2000,133300,18440,Peshawar,For Sale
+CAR-1171,Suzuki,Swift,2005,Grey,Hatchback,Petrol,Automatic,1200,319600,1200,Islamabad,For Sale
+CAR-1172,Ford,Explorer,2002,Silver,SUV,Petrol,Manual,3500,340900,3360,Multan,Sold
+CAR-1173,Kia,Sorento,2017,Blue,SUV,Diesel,Manual,2400,120400,11200,Lahore,Sold
+CAR-1174,Nissan,Leaf,2012,Silver,Hatchback,Electric,Automatic,0,211100,3880,Rawalpindi,For Sale
+CAR-1175,Ford,F-150,2001,Grey,Pickup,Petrol,Manual,3500,357100,3600,Rawalpindi,For Sale
+CAR-1176,Nissan,Leaf,2021,Blue,Hatchback,Electric,Automatic,0,77700,16400,Lahore,For Sale
+CAR-1177,BMW,5 Series,2026,Silver,Sedan,Petrol,Automatic,2000,20700,57600,Rawalpindi,For Sale
+CAR-1178,Mazda,Mazda 3,2014,Grey,Sedan,Petrol,Automatic,2000,192000,4520,Multan,Reserved
+CAR-1179,Ford,F-150,2010,Black,Pickup,Petrol,Automatic,3500,231900,4600,Lahore,For Sale
+CAR-1180,BMW,5 Series,2013,Grey,Sedan,Diesel,Automatic,2000,195000,10370,Faisalabad,For Sale
+CAR-1181,BMW,Z4,2011,Silver,Convertible,Petrol,Manual,2000,229800,5900,Rawalpindi,For Sale
+CAR-1182,Kia,Sorento,2025,White,SUV,Diesel,Automatic,2400,11600,27890,Peshawar,For Sale
+CAR-1183,Mazda,CX-5,2022,Yellow,SUV,Petrol,Manual,2500,79000,15720,Karachi,For Sale
+CAR-1184,Suzuki,Alto,2022,White,Hatchback,Petrol,Automatic,660,61500,5040,Peshawar,For Sale
+CAR-1185,Ford,Mustang,2021,Yellow,Coupe,Petrol,Automatic,5000,76600,21410,Karachi,Sold
+CAR-1186,Nissan,Skyline,2001,Grey,Coupe,Petrol,Automatic,3000,356200,3040,Peshawar,Sold
+CAR-1187,Toyota,Corolla,2011,Maroon,Sedan,Hybrid,Automatic,1800,220200,2830,Faisalabad,Sold
+CAR-1188,Hyundai,Tucson,2014,Black,SUV,Petrol,Automatic,2000,172400,5650,Islamabad,Sold
+CAR-1189,Honda,Civic,2022,Blue,Sedan,Hybrid,Manual,1800,60600,14850,Faisalabad,For Sale
+CAR-1190,Honda,HR-V,2025,White,SUV,Petrol,Automatic,1500,24000,24140,Rawalpindi,For Sale
+CAR-1191,Mercedes-Benz,GLC,2015,Maroon,SUV,Diesel,Automatic,2000,169000,10780,Islamabad,For Sale
+CAR-1192,Chevrolet,Corvette,2021,White,Coupe,Petrol,Automatic,6200,70700,35130,Multan,For Sale
+CAR-1193,Toyota,Hilux,2001,Silver,Pickup,Diesel,Automatic,2800,353200,2800,Peshawar,Sold
+CAR-1194,Suzuki,Swift,2018,Black,Hatchback,Petrol,Manual,1200,121200,4670,Islamabad,For Sale
+CAR-1195,BMW,X5,2003,Blue,SUV,Diesel,Automatic,3000,341100,5600,Rawalpindi,Sold
+CAR-1196,Chevrolet,Camaro,2021,Black,Coupe,Petrol,Manual,3600,77600,20900,Faisalabad,Sold
+CAR-1197,Mercedes-Benz,GLC,2020,Grey,SUV,Diesel,Automatic,2000,99200,21550,Multan,For Sale
+CAR-1198,Toyota,Prius,2022,Gold,Hatchback,Hybrid,Automatic,1800,56200,15600,Rawalpindi,For Sale
+CAR-1199,Mercedes-Benz,S-Class,2014,Silver,Sedan,Petrol,Manual,3000,170000,23360,Lahore,For Sale
+CAR-1200,BMW,Z4,2025,Blue,Convertible,Petrol,Automatic,2000,23100,40770,Islamabad,For Sale
+CAR-1201,Toyota,Hilux,2003,Silver,Pickup,Diesel,Automatic,2800,335100,2800,Rawalpindi,Sold
+CAR-1202,Hyundai,Sonata,2008,Black,Sedan,Petrol,Manual,2500,249900,2210,Peshawar,For Sale
+CAR-1203,Toyota,Corolla,2011,Gold,Sedan,Petrol,Manual,1800,205500,3180,Faisalabad,For Sale
+CAR-1204,Ford,Ranger,2007,White,Pickup,Diesel,Manual,2200,255900,2880,Multan,For Sale
+CAR-1205,Ford,F-150,2012,Silver,Pickup,Petrol,Manual,3500,212500,6000,Rawalpindi,For Sale
+CAR-1206,Mazda,CX-5,2024,Black,SUV,Petrol,Automatic,2500,49700,24310,Rawalpindi,For Sale
+CAR-1207,Kia,Picanto,2009,White,Hatchback,Petrol,Automatic,1000,249200,1080,Faisalabad,Reserved
+CAR-1208,Honda,CR-V,2022,Silver,SUV,Petrol,Automatic,1500,67200,19090,Karachi,Sold
+CAR-1209,Ford,F-150,2012,Black,Pickup,Petrol,Automatic,3500,213900,6730,Faisalabad,For Sale
+CAR-1210,Tesla,Model X,2021,Blue,SUV,Electric,Automatic,0,80900,54780,Islamabad,For Sale
+CAR-1211,Volkswagen,Golf,2025,Blue,Hatchback,Petrol,Manual,1400,13500,21360,Peshawar,Sold
+CAR-1212,Volkswagen,Golf,2004,Grey,Hatchback,Diesel,Manual,1400,304600,2080,Lahore,For Sale
+CAR-1213,Ford,Ranger,2026,White,Pickup,Diesel,Manual,2200,2500,38060,Islamabad,For Sale
+CAR-1214,Hyundai,Elantra,2005,Blue,Sedan,Petrol,Automatic,2000,298500,1760,Karachi,Reserved
+CAR-1215,Suzuki,Cultus,2008,Blue,Hatchback,Petrol,Manual,1000,261300,920,Islamabad,For Sale
+CAR-1216,Suzuki,Cultus,2013,Silver,Hatchback,Petrol,Automatic,1000,189800,2000,Faisalabad,Reserved
+CAR-1217,Ford,Focus,2008,Green,Hatchback,Petrol,Manual,1600,260500,1710,Peshawar,For Sale
+CAR-1218,Mercedes-Benz,E-Class,2001,Silver,Sedan,Petrol,Manual,2000,361500,4960,Rawalpindi,For Sale
+CAR-1219,Nissan,Leaf,2022,Grey,Hatchback,Electric,Automatic,0,71200,18570,Islamabad,For Sale
+CAR-1220,Ford,F-150,2003,Blue,Pickup,Petrol,Automatic,3500,334800,3600,Karachi,Sold
+CAR-1221,Kia,Sportage,2004,Red,SUV,Petrol,Manual,2000,301400,2320,Multan,Sold
+CAR-1222,Ford,Mustang,2016,Grey,Coupe,Petrol,Automatic,5000,156600,9940,Rawalpindi,For Sale
+CAR-1223,Mazda,Mazda 3,2003,White,Sedan,Petrol,Manual,2000,335700,1920,Peshawar,For Sale
+CAR-1224,Suzuki,Alto,2012,Red,Hatchback,Petrol,Manual,660,189600,1210,Multan,For Sale
+CAR-1225,Toyota,Prius,2023,Gold,Hatchback,Hybrid,Manual,1800,55300,18890,Islamabad,For Sale
+CAR-1226,Nissan,Skyline,2009,Green,Coupe,Petrol,Automatic,3000,247200,3270,Karachi,For Sale
+CAR-1227,Hyundai,Elantra,2020,White,Sedan,Petrol,Automatic,2000,100300,9150,Lahore,Sold
+CAR-1228,Kia,EV6,2022,Red,SUV,Electric,Automatic,0,79300,26290,Lahore,Sold
+CAR-1229,Suzuki,Swift,2023,Green,Hatchback,Petrol,Automatic,1200,51600,10350,Lahore,For Sale
+CAR-1230,Hyundai,Ioniq 5,2025,Red,SUV,Electric,Automatic,0,14400,36490,Peshawar,For Sale
+CAR-1231,Suzuki,Alto,2023,Red,Hatchback,Petrol,Manual,660,58100,4970,Karachi,For Sale
+CAR-1232,Toyota,Camry,2001,Black,Sedan,Petrol,Automatic,2500,370700,2320,Faisalabad,Sold
+CAR-1233,Volkswagen,Passat,2009,Blue,Sedan,Petrol,Manual,1800,231500,2740,Islamabad,Sold
+CAR-1234,Kia,Sportage,2021,Green,SUV,Petrol,Automatic,2000,82200,14440,Lahore,Sold
+CAR-1235,Chevrolet,Silverado,2019,Silver,Pickup,Petrol,Manual,5300,112600,15970,Karachi,For Sale
+CAR-1236,Ford,Explorer,2009,White,SUV,Petrol,Manual,3500,254500,3660,Lahore,For Sale
+CAR-1237,Chevrolet,Camaro,2009,Grey,Coupe,Petrol,Automatic,3600,220900,3840,Peshawar,Sold
+CAR-1238,Hyundai,Tucson,2026,Blue,SUV,Petrol,Manual,2000,6600,29400,Faisalabad,Sold
+CAR-1239,Mazda,Mazda 3,2024,Grey,Sedan,Petrol,Automatic,2000,56200,16300,Faisalabad,For Sale
+CAR-1240,Nissan,Patrol,2000,Silver,SUV,Diesel,Manual,4000,363700,4800,Faisalabad,For Sale
+CAR-1241,Mazda,CX-5,2024,Blue,SUV,Petrol,Automatic,2500,24500,21510,Rawalpindi,For Sale
+CAR-1242,Tesla,Model S,2022,White,Sedan,Electric,Automatic,0,63000,57540,Islamabad,For Sale
+CAR-1243,Volkswagen,Golf,2001,White,Hatchback,Diesel,Manual,1400,369000,2080,Faisalabad,Sold
+CAR-1244,Kia,EV6,2025,White,SUV,Electric,Automatic,0,25300,44770,Karachi,For Sale
+CAR-1245,Mazda,Mazda 3,2018,Black,Sedan,Petrol,Automatic,2000,105400,8750,Rawalpindi,For Sale
+CAR-1246,Chevrolet,Corvette,2005,Yellow,Coupe,Petrol,Automatic,6200,285800,5440,Faisalabad,For Sale
+CAR-1247,Chevrolet,Camaro,2016,Grey,Coupe,Petrol,Manual,3600,152800,9890,Peshawar,For Sale
+CAR-1248,Ford,F-150,2006,Grey,Pickup,Petrol,Automatic,3500,290000,3600,Faisalabad,For Sale
+CAR-1249,Toyota,Prius,2016,Grey,Hatchback,Hybrid,Automatic,1800,139800,7430,Islamabad,For Sale
+CAR-1250,Mazda,MX-5,2007,Blue,Convertible,Petrol,Manual,2000,270600,2480,Karachi,For Sale
+CAR-1251,Suzuki,Cultus,2001,Blue,Hatchback,Petrol,Automatic,1000,358500,880,Karachi,Reserved
+CAR-1252,BMW,3 Series,2005,White,Sedan,Petrol,Automatic,2000,282500,3600,Rawalpindi,For Sale
+CAR-1253,Tesla,Model X,2019,Maroon,SUV,Electric,Automatic,0,97800,41680,Peshawar,For Sale
+CAR-1254,Nissan,Sunny,2020,Black,Sedan,Petrol,Automatic,1500,77500,6700,Lahore,For Sale
+CAR-1255,Honda,CR-V,2003,Blue,SUV,Petrol,Manual,1500,321100,2640,Multan,For Sale
+CAR-1256,Hyundai,Tucson,2022,Black,SUV,Petrol,Automatic,2000,57300,17320,Lahore,For Sale
+CAR-1257,Nissan,Leaf,2024,Grey,Hatchback,Electric,Automatic,0,39300,20980,Peshawar,For Sale
+CAR-1258,Nissan,Leaf,2012,White,Hatchback,Electric,Automatic,0,213300,4470,Rawalpindi,Reserved
+CAR-1259,Nissan,Sunny,2015,Black,Sedan,Petrol,Automatic,1500,157300,2980,Karachi,Reserved
+CAR-1260,Tesla,Model S,2013,Green,Sedan,Electric,Automatic,0,183800,15560,Multan,Reserved
+CAR-1261,Chevrolet,Camaro,2021,Yellow,Coupe,Petrol,Automatic,3600,87200,19060,Faisalabad,For Sale
+CAR-1262,Tesla,Model X,2024,Yellow,SUV,Electric,Automatic,0,38600,72860,Islamabad,For Sale
+CAR-1263,Tesla,Model X,2022,White,SUV,Electric,Automatic,0,54300,59560,Peshawar,For Sale
+CAR-1264,Mercedes-Benz,C-Class,2016,White,Sedan,Diesel,Automatic,2000,145800,12620,Multan,Sold
+CAR-1265,Toyota,Hilux,2009,White,Pickup,Diesel,Automatic,2800,258300,3250,Peshawar,For Sale
+CAR-1266,BMW,3 Series,2009,Silver,Sedan,Petrol,Manual,2000,237000,4660,Rawalpindi,For Sale
+CAR-1267,Chevrolet,Corvette,2026,Grey,Coupe,Petrol,Manual,6200,8500,64030,Faisalabad,Sold
+CAR-1268,Hyundai,Sonata,2000,Black,Sedan,Petrol,Manual,2500,362800,2160,Multan,For Sale
+CAR-1269,Suzuki,Swift,2024,Black,Hatchback,Petrol,Automatic,1200,38800,11400,Islamabad,For Sale
+CAR-1270,Honda,Civic,2023,Black,Sedan,Petrol,Automatic,1800,37000,15740,Rawalpindi,For Sale
+CAR-1271,Suzuki,Cultus,2008,White,Hatchback,Petrol,Manual,1000,246600,920,Rawalpindi,For Sale
+CAR-1272,Mazda,CX-5,2019,Silver,SUV,Petrol,Automatic,2500,92900,11760,Rawalpindi,For Sale
+CAR-1273,Tesla,Model S,2013,Silver,Sedan,Electric,Automatic,0,174800,14580,Faisalabad,For Sale
+CAR-1274,Hyundai,Tucson,2009,Black,SUV,Petrol,Automatic,2000,262000,2760,Karachi,Sold
+CAR-1275,Chevrolet,Camaro,2000,Grey,Coupe,Petrol,Manual,3600,357800,3040,Islamabad,Sold
+CAR-1276,Hyundai,Elantra,2016,White,Sedan,Petrol,Manual,2000,157000,5500,Faisalabad,For Sale
+CAR-1277,Volkswagen,Golf,2005,White,Hatchback,Petrol,Manual,1400,291400,2080,Islamabad,For Sale
+CAR-1278,Tesla,Model X,2017,White,SUV,Electric,Automatic,0,143100,29160,Karachi,For Sale
+CAR-1279,Ford,Ranger,2002,Silver,Pickup,Diesel,Manual,2200,361500,2880,Faisalabad,For Sale
+CAR-1280,Honda,City,2004,Green,Sedan,Petrol,Automatic,1500,306600,1440,Faisalabad,For Sale
+CAR-1281,Nissan,Skyline,2017,Red,Coupe,Petrol,Manual,3000,148900,11410,Peshawar,Sold
+CAR-1282,Tesla,Model S,2020,Red,Sedan,Electric,Automatic,0,73300,43250,Rawalpindi,Sold
+CAR-1283,Mercedes-Benz,C-Class,2019,Blue,Sedan,Diesel,Automatic,2000,104800,18080,Lahore,Sold
+CAR-1284,Hyundai,Tucson,2005,Green,SUV,Diesel,Manual,2000,288300,2400,Lahore,Sold
+CAR-1285,Tesla,Model X,2023,Red,SUV,Electric,Automatic,0,50000,64880,Karachi,For Sale
+CAR-1286,Hyundai,Tucson,2026,Silver,SUV,Petrol,Automatic,2000,12200,27850,Karachi,For Sale
+CAR-1287,Toyota,Land Cruiser,2001,Grey,SUV,Diesel,Automatic,4000,350300,6000,Lahore,Sold
+CAR-1288,Tesla,Model 3,2025,Black,Sedan,Electric,Automatic,0,18200,35050,Islamabad,Sold
+CAR-1289,Honda,City,2017,Gold,Sedan,Petrol,Automatic,1500,141300,5170,Rawalpindi,Sold
+CAR-1290,Hyundai,Elantra,2026,Blue,Sedan,Petrol,Automatic,2000,16200,21210,Islamabad,Sold
+CAR-1291,Tesla,Model X,2026,Red,SUV,Electric,Automatic,0,14000,93210,Multan,For Sale
+CAR-1292,Ford,Ranger,2011,White,Pickup,Diesel,Manual,2200,225700,4790,Islamabad,Sold
+CAR-1293,Honda,City,2005,Silver,Sedan,Petrol,Automatic,1500,304600,1440,Faisalabad,For Sale
+CAR-1294,BMW,5 Series,2003,White,Sedan,Petrol,Manual,2000,327600,4800,Multan,For Sale
+CAR-1295,Mercedes-Benz,S-Class,2002,White,Sedan,Petrol,Manual,3000,339500,9200,Islamabad,Sold
+CAR-1296,Mazda,CX-5,2025,Green,SUV,Petrol,Automatic,2500,25200,24790,Faisalabad,Sold
+CAR-1297,Tesla,Model S,2013,Black,Sedan,Electric,Automatic,0,183200,16740,Rawalpindi,For Sale
+CAR-1298,Suzuki,Swift,2011,White,Hatchback,Petrol,Automatic,1200,223400,1720,Faisalabad,Sold
+CAR-1299,Hyundai,Sonata,2014,Silver,Sedan,Hybrid,Manual,2500,165900,5430,Faisalabad,For Sale
+CAR-1300,Suzuki,Alto,2017,White,Hatchback,Petrol,Automatic,660,121700,2420,Multan,Sold
+CAR-1301,Nissan,Skyline,2014,Black,Coupe,Petrol,Automatic,3000,183600,6610,Peshawar,For Sale
+CAR-1302,Ford,Focus,2001,Silver,Hatchback,Petrol,Automatic,1600,366300,1600,Karachi,Sold
+CAR-1303,Tesla,Model Y,2022,Silver,SUV,Electric,Automatic,0,64100,29590,Islamabad,For Sale
+CAR-1304,Volkswagen,Tiguan,2025,White,SUV,Diesel,Automatic,1400,21800,26620,Lahore,For Sale
+CAR-1305,Toyota,Yaris,2023,Black,Hatchback,Petrol,Automatic,1500,52400,11960,Islamabad,For Sale
+CAR-1306,Honda,City,2019,White,Sedan,Petrol,Manual,1500,105300,6880,Islamabad,For Sale
+CAR-1307,Nissan,Patrol,2009,Yellow,SUV,Diesel,Automatic,4000,231100,5500,Rawalpindi,For Sale
+CAR-1308,Suzuki,Cultus,2002,Black,Hatchback,Petrol,Manual,1000,367800,880,Lahore,For Sale
+CAR-1309,Nissan,Skyline,2003,Silver,Coupe,Petrol,Automatic,3000,327400,3040,Peshawar,For Sale
+CAR-1310,Honda,City,2015,Black,Sedan,Petrol,Automatic,1500,160200,3610,Faisalabad,Reserved
+CAR-1311,Kia,Picanto,2025,Grey,Hatchback,Petrol,Automatic,1000,28400,11040,Multan,For Sale
+CAR-1312,Mercedes-Benz,C-Class,2006,White,Sedan,Diesel,Manual,2000,291600,3840,Multan,Reserved
+CAR-1313,Mercedes-Benz,E-Class,2001,Blue,Sedan,Diesel,Manual,2000,360900,4960,Rawalpindi,For Sale
+CAR-1314,Mercedes-Benz,E-Class,2012,White,Sedan,Diesel,Manual,2000,208400,8720,Faisalabad,Reserved
+CAR-1315,Mercedes-Benz,C-Class,2009,Black,Sedan,Diesel,Automatic,2000,236700,4740,Peshawar,For Sale
+CAR-1316,Toyota,Camry,2024,White,Sedan,Petrol,Automatic,2500,36000,22450,Faisalabad,For Sale
+CAR-1317,Toyota,Land Cruiser,2008,White,SUV,Petrol,Automatic,4000,261500,6610,Faisalabad,Sold
+CAR-1318,Suzuki,Cultus,2007,Blue,Hatchback,Petrol,Manual,1000,276300,880,Multan,For Sale
+CAR-1319,Ford,Focus,2012,Silver,Hatchback,Petrol,Manual,1600,194400,3160,Peshawar,Sold
+CAR-1320,Nissan,Patrol,2018,Black,SUV,Petrol,Automatic,4000,132500,21180,Multan,Sold
+CAR-1321,Nissan,Patrol,2022,Silver,SUV,Petrol,Automatic,4000,52400,34810,Peshawar,For Sale
+CAR-1322,Suzuki,Cultus,2015,Blue,Hatchback,Petrol,Automatic,1000,154300,2430,Faisalabad,For Sale
+CAR-1323,Ford,Focus,2006,Red,Hatchback,Petrol,Manual,1600,290300,1600,Lahore,Sold
+CAR-1324,Mazda,CX-5,2013,Maroon,SUV,Petrol,Manual,2500,187300,4560,Multan,For Sale
+CAR-1325,Tesla,Model X,2025,White,SUV,Electric,Automatic,0,30500,93630,Lahore,For Sale
+CAR-1326,Hyundai,Sonata,2010,Red,Sedan,Petrol,Automatic,2500,244100,2980,Islamabad,For Sale
+CAR-1327,Honda,Accord,2011,Silver,Sedan,Hybrid,Automatic,2000,220200,4120,Islamabad,For Sale
+CAR-1328,Hyundai,Elantra,2019,Maroon,Sedan,Petrol,Manual,2000,116700,8210,Karachi,Sold
+CAR-1329,Tesla,Model 3,2020,Grey,Sedan,Electric,Automatic,0,79600,16650,Lahore,For Sale
+CAR-1330,Mercedes-Benz,S-Class,2000,Blue,Sedan,Petrol,Manual,3000,349800,9200,Lahore,Sold
+CAR-1331,Nissan,Skyline,2001,White,Coupe,Petrol,Automatic,3000,353600,3040,Islamabad,For Sale
+CAR-1332,Suzuki,Vitara,2005,Red,SUV,Petrol,Manual,1600,298300,1920,Multan,For Sale
+CAR-1333,Chevrolet,Silverado,2008,Black,Pickup,Petrol,Automatic,5300,262900,3640,Karachi,Reserved
+CAR-1334,Mercedes-Benz,S-Class,2025,Green,Sedan,Diesel,Manual,3000,21600,109270,Multan,For Sale
+CAR-1335,BMW,Z4,2014,Black,Convertible,Petrol,Automatic,2000,175000,10580,Islamabad,For Sale
+CAR-1336,Honda,City,2023,Red,Sedan,Petrol,Automatic,1500,40500,11080,Lahore,For Sale
+CAR-1337,Volkswagen,Tiguan,2026,Maroon,SUV,Diesel,Manual,1400,6200,29360,Multan,Sold
+CAR-1338,Kia,Sportage,2021,Red,SUV,Petrol,Automatic,2000,77500,13850,Karachi,For Sale
+CAR-1339,Toyota,Yaris,2024,Green,Hatchback,Petrol,Automatic,1500,24300,14690,Lahore,Reserved
+CAR-1340,Kia,Picanto,2004,White,Hatchback,Petrol,Manual,1000,315200,960,Faisalabad,For Sale
+CAR-1341,Mercedes-Benz,E-Class,2016,Silver,Sedan,Petrol,Automatic,2000,145200,14670,Faisalabad,Sold
+CAR-1342,Tesla,Model Y,2023,Silver,SUV,Electric,Automatic,0,64200,31910,Rawalpindi,For Sale
+CAR-1343,Tesla,Model S,2021,Green,Sedan,Electric,Automatic,0,78700,49550,Peshawar,For Sale
+CAR-1344,Tesla,Model Y,2020,Red,SUV,Electric,Automatic,0,86400,21310,Multan,For Sale
+CAR-1345,Suzuki,Wagon R,2011,White,Hatchback,Petrol,Manual,1000,203200,1330,Peshawar,Sold
+CAR-1346,Chevrolet,Silverado,2007,Maroon,Pickup,Petrol,Manual,5300,273900,3600,Karachi,Sold
+CAR-1347,Mercedes-Benz,E-Class,2006,Grey,Sedan,Diesel,Automatic,2000,291800,4960,Karachi,For Sale
+CAR-1348,Suzuki,Cultus,2004,Silver,Hatchback,Petrol,Manual,1000,304800,880,Lahore,For Sale
+CAR-1349,BMW,3 Series,2018,Red,Sedan,Petrol,Automatic,2000,115900,16100,Faisalabad,Sold
+CAR-1350,Toyota,Camry,2017,Grey,Sedan,Hybrid,Automatic,2500,133300,7540,Faisalabad,For Sale
+CAR-1351,Hyundai,Tucson,2024,White,SUV,Petrol,Automatic,2000,32700,22170,Faisalabad,For Sale
+CAR-1352,Kia,Picanto,2008,Silver,Hatchback,Petrol,Manual,1000,246700,1050,Karachi,Sold
+CAR-1353,Volkswagen,Tiguan,2010,Red,SUV,Diesel,Automatic,1400,239600,3250,Karachi,Sold
+CAR-1354,Ford,Explorer,2013,Blue,SUV,Petrol,Automatic,3500,189500,6460,Lahore,For Sale
+CAR-1355,Chevrolet,Corvette,2012,Silver,Coupe,Petrol,Manual,6200,216700,10210,Faisalabad,For Sale
+CAR-1356,Toyota,Prius,2022,Blue,Hatchback,Hybrid,Manual,1800,71200,16360,Multan,Sold
+CAR-1357,Suzuki,Wagon R,2011,Blue,Hatchback,Petrol,Manual,1000,212300,1170,Karachi,Sold
+CAR-1358,Nissan,Leaf,2014,Red,Hatchback,Electric,Automatic,0,172700,5450,Rawalpindi,Sold
+CAR-1359,Tesla,Model S,2014,Silver,Sedan,Electric,Automatic,0,184600,18020,Rawalpindi,Sold
+CAR-1360,Mazda,Mazda 3,2023,Silver,Sedan,Petrol,Manual,2000,45200,14300,Islamabad,For Sale
+CAR-1361,Nissan,Skyline,2000,Black,Coupe,Petrol,Automatic,3000,371500,3040,Rawalpindi,For Sale
+CAR-1362,Ford,Mustang,2025,Red,Coupe,Petrol,Automatic,5000,26500,37380,Karachi,For Sale
+CAR-1363,Tesla,Model S,2023,Maroon,Sedan,Electric,Automatic,0,57000,64140,Karachi,For Sale
+CAR-1364,Kia,Sportage,2018,Silver,SUV,Petrol,Manual,2000,115200,8670,Lahore,For Sale
+CAR-1365,Suzuki,Wagon R,2003,Gold,Hatchback,Petrol,Manual,1000,328000,800,Lahore,Reserved
+CAR-1366,Kia,EV6,2025,Blue,SUV,Electric,Automatic,0,21800,41480,Karachi,Sold
+CAR-1367,Ford,Explorer,2008,Gold,SUV,Petrol,Automatic,3500,248700,3510,Islamabad,Sold
+CAR-1368,Volkswagen,Beetle,2013,Green,Hatchback,Petrol,Automatic,2000,193600,3660,Karachi,Sold
+CAR-1369,Suzuki,Swift,2006,Silver,Hatchback,Petrol,Automatic,1200,280000,1200,Peshawar,Sold
+CAR-1370,Hyundai,Tucson,2007,Black,SUV,Petrol,Manual,2000,262000,2400,Karachi,For Sale
+CAR-1371,Tesla,Model S,2021,Blue,Sedan,Electric,Automatic,0,88000,48420,Faisalabad,Sold
+CAR-1372,Suzuki,Vitara,2012,White,SUV,Petrol,Manual,1600,201000,3270,Karachi,For Sale
+CAR-1373,Mazda,MX-5,2022,White,Convertible,Petrol,Automatic,2000,66300,17610,Karachi,For Sale
+CAR-1374,Toyota,Hilux,2026,White,Pickup,Diesel,Automatic,2800,300,38150,Rawalpindi,For Sale
+CAR-1375,Tesla,Model X,2020,White,SUV,Electric,Automatic,0,97000,46930,Peshawar,Sold
+CAR-1376,Chevrolet,Silverado,2025,Green,Pickup,Petrol,Manual,5300,37400,40180,Lahore,Reserved
+CAR-1377,Ford,Explorer,2026,Silver,SUV,Petrol,Automatic,3500,8400,43790,Faisalabad,Sold
+CAR-1378,Ford,F-150,2014,Silver,Pickup,Petrol,Automatic,3500,163100,7990,Lahore,Sold
+CAR-1379,Chevrolet,Corvette,2023,Blue,Coupe,Petrol,Automatic,6200,49600,48910,Karachi,Sold
+CAR-1380,Toyota,Hilux,2007,Blue,Pickup,Diesel,Automatic,2800,271600,2800,Peshawar,Sold
+CAR-1381,Kia,EV6,2024,Silver,SUV,Electric,Automatic,0,30600,34680,Rawalpindi,Sold
+CAR-1382,Hyundai,Tucson,2007,Green,SUV,Petrol,Manual,2000,279100,2400,Multan,For Sale
+CAR-1383,Hyundai,Ioniq 5,2021,Silver,SUV,Electric,Automatic,0,60900,23120,Faisalabad,Reserved
+CAR-1384,Ford,Explorer,2020,Green,SUV,Petrol,Automatic,3500,91300,19590,Faisalabad,For Sale
+CAR-1385,Hyundai,Sonata,2018,Maroon,Sedan,Petrol,Automatic,2500,116000,9330,Peshawar,For Sale
+CAR-1386,Mercedes-Benz,GLC,2022,Black,SUV,Petrol,Automatic,2000,63900,33090,Rawalpindi,Reserved
+CAR-1387,Suzuki,Vitara,2002,Grey,SUV,Petrol,Manual,1600,342200,1920,Multan,Reserved
+CAR-1388,Mercedes-Benz,E-Class,2026,White,Sedan,Petrol,Manual,2000,23400,59500,Rawalpindi,For Sale
+CAR-1389,Toyota,Prius,2019,Silver,Hatchback,Hybrid,Automatic,1800,106800,10290,Peshawar,Reserved
+CAR-1390,Volkswagen,Passat,2004,Black,Sedan,Petrol,Manual,1800,317900,2400,Multan,For Sale
+CAR-1391,Mazda,CX-5,2022,White,SUV,Petrol,Automatic,2500,70200,18730,Faisalabad,For Sale
+CAR-1392,Toyota,Hilux,2004,White,Pickup,Diesel,Manual,2800,323200,2800,Faisalabad,For Sale
+CAR-1393,Toyota,Hilux,2007,Blue,Pickup,Diesel,Automatic,2800,265700,2800,Peshawar,For Sale
+CAR-1394,Ford,Mustang,2019,Silver,Coupe,Petrol,Manual,5000,109000,15020,Multan,For Sale
+CAR-1395,BMW,X5,2026,Gold,SUV,Diesel,Manual,3000,13800,73160,Lahore,Sold
+CAR-1396,Nissan,Sunny,2022,Silver,Sedan,Petrol,Manual,1500,68600,8600,Faisalabad,Reserved
+CAR-1397,Kia,Picanto,2007,Grey,Hatchback,Petrol,Manual,1000,279500,960,Islamabad,For Sale
+CAR-1398,Volkswagen,Passat,2006,White,Sedan,Diesel,Manual,1800,278000,2400,Peshawar,For Sale
+CAR-1399,Nissan,Skyline,2016,White,Coupe,Petrol,Automatic,3000,144400,10080,Faisalabad,Sold
+CAR-1400,Mazda,Mazda 3,2021,Green,Sedan,Petrol,Manual,2000,74700,11260,Rawalpindi,Reserved
+CAR-1401,Volkswagen,Passat,2001,Maroon,Sedan,Petrol,Manual,1800,362700,2400,Faisalabad,Reserved
+CAR-1402,Honda,Civic,2020,Grey,Sedan,Petrol,Automatic,1800,87600,9880,Peshawar,Sold
+CAR-1403,Kia,Picanto,2023,Green,Hatchback,Petrol,Automatic,1000,41700,7220,Lahore,For Sale
+CAR-1404,Volkswagen,Tiguan,2015,Blue,SUV,Petrol,Automatic,1400,149900,6920,Faisalabad,For Sale
+CAR-1405,Kia,Sorento,2002,Red,SUV,Petrol,Manual,2400,344500,2800,Faisalabad,For Sale
+CAR-1406,Chevrolet,Camaro,2011,Blue,Coupe,Petrol,Manual,3600,211900,4800,Karachi,For Sale
+CAR-1407,Honda,Accord,2016,Black,Sedan,Hybrid,Manual,2000,140000,7690,Rawalpindi,Sold
+CAR-1408,Volkswagen,Golf,2018,White,Hatchback,Petrol,Manual,1400,114800,9020,Rawalpindi,For Sale
+CAR-1409,Volkswagen,Beetle,2008,White,Hatchback,Petrol,Manual,2000,268600,1980,Faisalabad,For Sale
+CAR-1410,Suzuki,Vitara,2023,Blue,SUV,Petrol,Automatic,1600,55500,15180,Peshawar,Sold
+CAR-1411,Kia,Sorento,2007,Green,SUV,Petrol,Manual,2400,285400,2800,Lahore,For Sale
+CAR-1412,Suzuki,Vitara,2022,Maroon,SUV,Petrol,Manual,1600,53000,12580,Rawalpindi,For Sale
+CAR-1413,Mercedes-Benz,S-Class,2001,Yellow,Sedan,Petrol,Manual,3000,342600,9200,Karachi,For Sale
+CAR-1414,Mercedes-Benz,S-Class,2010,Blue,Sedan,Diesel,Manual,3000,223000,11840,Karachi,For Sale
+CAR-1415,Toyota,Hilux,2018,Blue,Pickup,Diesel,Automatic,2800,123300,11280,Multan,For Sale
+CAR-1416,Honda,City,2026,White,Sedan,Petrol,Automatic,1500,10400,19210,Islamabad,For Sale
+CAR-1417,Mercedes-Benz,GLC,2016,Maroon,SUV,Diesel,Automatic,2000,139300,13050,Peshawar,Sold
+CAR-1418,Mazda,MX-5,2001,Black,Convertible,Petrol,Manual,2000,356600,2480,Islamabad,For Sale
+CAR-1419,Suzuki,Alto,2026,White,Hatchback,Petrol,Automatic,660,4300,8680,Faisalabad,For Sale
+CAR-1420,Kia,Sportage,2018,Gold,SUV,Petrol,Manual,2000,116400,9910,Islamabad,Sold
+CAR-1421,Chevrolet,Silverado,2022,Black,Pickup,Petrol,Automatic,5300,57400,27170,Karachi,For Sale
+CAR-1422,Kia,EV6,2025,White,SUV,Electric,Automatic,0,26600,39170,Multan,Reserved
+CAR-1423,Tesla,Model S,2017,Grey,Sedan,Electric,Automatic,0,144600,28990,Rawalpindi,For Sale
+CAR-1424,Tesla,Model 3,2018,Blue,Sedan,Electric,Automatic,0,128000,14990,Karachi,For Sale
+CAR-1425,Toyota,Yaris,2021,Maroon,Hatchback,Petrol,Automatic,1500,77500,8310,Islamabad,Sold
+CAR-1426,Tesla,Model X,2019,Grey,SUV,Electric,Automatic,0,111200,36130,Peshawar,For Sale
+CAR-1427,Chevrolet,Corvette,2013,Grey,Coupe,Petrol,Automatic,6200,180700,11640,Karachi,Sold
+CAR-1428,Kia,Sorento,2014,Black,SUV,Petrol,Manual,2400,175500,6480,Multan,For Sale
+CAR-1429,Toyota,Prius,2024,White,Hatchback,Hybrid,Manual,1800,37600,22540,Multan,For Sale
+CAR-1430,Honda,City,2025,White,Sedan,Petrol,Automatic,1500,22900,17000,Islamabad,For Sale
+CAR-1431,Tesla,Model Y,2025,Grey,SUV,Electric,Automatic,0,9000,47030,Lahore,For Sale
+CAR-1432,Chevrolet,Camaro,2018,White,Coupe,Petrol,Automatic,3600,132500,13400,Karachi,For Sale
+CAR-1433,Nissan,Sunny,2022,Grey,Sedan,Petrol,Automatic,1500,77100,7850,Multan,Reserved
+CAR-1434,Toyota,Land Cruiser,2007,Green,SUV,Petrol,Manual,4000,283000,6000,Rawalpindi,For Sale
+CAR-1435,Honda,HR-V,2025,Silver,SUV,Petrol,Automatic,1500,23900,20670,Rawalpindi,For Sale
+CAR-1436,Suzuki,Vitara,2024,Black,SUV,Petrol,Manual,1600,30000,16970,Faisalabad,Sold
+CAR-1437,Ford,Mustang,2006,Silver,Coupe,Petrol,Automatic,5000,283000,3200,Karachi,For Sale
+CAR-1438,BMW,X5,2007,Black,SUV,Petrol,Manual,3000,267600,5600,Peshawar,Sold
+CAR-1439,Nissan,Sunny,2004,Blue,Sedan,Petrol,Manual,1500,311300,1120,Karachi,For Sale
+CAR-1440,Suzuki,Swift,2014,Green,Hatchback,Petrol,Automatic,1200,179200,2980,Lahore,Sold
+CAR-1441,Toyota,Yaris,2016,Silver,Hatchback,Petrol,Automatic,1500,153200,4780,Rawalpindi,Sold
+CAR-1442,Tesla,Model X,2026,White,SUV,Electric,Automatic,0,16800,96400,Multan,Reserved
+CAR-1443,Kia,Sportage,2001,Silver,SUV,Diesel,Automatic,2000,348800,2320,Islamabad,For Sale
+CAR-1444,Volkswagen,Passat,2011,Silver,Sedan,Diesel,Manual,1800,214100,4010,Lahore,Sold
+CAR-1445,Chevrolet,Corvette,2006,White,Coupe,Petrol,Automatic,6200,287700,5440,Lahore,For Sale
+CAR-1446,Hyundai,Elantra,2022,Red,Sedan,Petrol,Automatic,2000,45700,11600,Faisalabad,Sold
+CAR-1447,Volkswagen,Passat,2021,Gold,Sedan,Diesel,Automatic,1800,79400,15980,Rawalpindi,For Sale
+CAR-1448,Toyota,Camry,2011,Grey,Sedan,Petrol,Automatic,2500,213100,3380,Peshawar,For Sale
+CAR-1449,Nissan,Skyline,2006,Blue,Coupe,Petrol,Manual,3000,284800,3040,Karachi,For Sale
+CAR-1450,BMW,3 Series,2013,Silver,Sedan,Diesel,Automatic,2000,199600,7880,Faisalabad,Sold
+CAR-1451,Mercedes-Benz,C-Class,2015,Black,Sedan,Diesel,Automatic,2000,156100,10140,Faisalabad,For Sale
+CAR-1452,Toyota,Corolla,2018,White,Sedan,Petrol,Automatic,1800,113700,7930,Islamabad,For Sale
+CAR-1453,Volkswagen,Golf,2017,White,Hatchback,Petrol,Automatic,1400,143300,7060,Multan,For Sale
+CAR-1454,Nissan,Leaf,2022,White,Hatchback,Electric,Automatic,0,68900,18260,Rawalpindi,For Sale
+CAR-1455,Mercedes-Benz,S-Class,2015,Blue,Sedan,Petrol,Automatic,3000,155600,27700,Peshawar,For Sale
+CAR-1456,Hyundai,Ioniq 5,2024,Black,SUV,Electric,Automatic,0,24600,32000,Peshawar,For Sale
+CAR-1457,Tesla,Model X,2026,Black,SUV,Electric,Automatic,0,11600,89360,Karachi,For Sale
+CAR-1458,Ford,Explorer,2012,White,SUV,Petrol,Manual,3500,195900,5880,Multan,Sold
+CAR-1459,BMW,5 Series,2025,Red,Sedan,Petrol,Automatic,2000,300,50720,Islamabad,Sold
+CAR-1460,Toyota,Land Cruiser,2024,Silver,SUV,Diesel,Automatic,4000,46900,59150,Islamabad,For Sale
+CAR-1461,Mercedes-Benz,E-Class,2026,Gold,Sedan,Petrol,Automatic,2000,8800,57820,Multan,For Sale
+CAR-1462,Volkswagen,Beetle,2000,Black,Hatchback,Petrol,Manual,2000,371300,1760,Islamabad,For Sale
+CAR-1463,Honda,City,2006,Maroon,Sedan,Petrol,Manual,1500,292100,1440,Peshawar,For Sale
+CAR-1464,BMW,5 Series,2011,Silver,Sedan,Petrol,Manual,2000,208900,7080,Faisalabad,For Sale
+CAR-1465,Volkswagen,Tiguan,2026,Green,SUV,Petrol,Automatic,1400,4100,29110,Multan,For Sale
+CAR-1466,Kia,EV6,2022,Silver,SUV,Electric,Automatic,0,74000,30050,Karachi,For Sale
+CAR-1467,Toyota,Camry,2023,Blue,Sedan,Petrol,Manual,2500,43700,20720,Multan,For Sale
+CAR-1468,Tesla,Model X,2017,Silver,SUV,Electric,Automatic,0,135100,28860,Multan,For Sale
+CAR-1469,Honda,Accord,2006,White,Sedan,Petrol,Manual,2000,286800,2400,Faisalabad,Sold
+CAR-1470,Tesla,Model 3,2018,Yellow,Sedan,Electric,Automatic,0,115300,14550,Lahore,For Sale
+CAR-1471,BMW,X5,2019,Green,SUV,Diesel,Automatic,3000,107800,27600,Lahore,For Sale
+CAR-1472,Kia,Sportage,2021,Silver,SUV,Petrol,Automatic,2000,76900,14680,Faisalabad,For Sale
+CAR-1473,Hyundai,Sonata,2005,Grey,Sedan,Petrol,Automatic,2500,313600,2160,Rawalpindi,For Sale
+CAR-1474,Hyundai,Elantra,2004,White,Sedan,Petrol,Automatic,2000,330600,1760,Karachi,Reserved
+CAR-1475,Ford,F-150,2013,Black,Pickup,Petrol,Manual,3500,196900,7000,Islamabad,For Sale
+CAR-1476,Ford,Focus,2008,Blue,Hatchback,Petrol,Manual,1600,268600,1600,Rawalpindi,Reserved
+CAR-1477,Toyota,Yaris,2022,White,Hatchback,Petrol,Manual,1500,47400,10490,Peshawar,For Sale
+CAR-1478,Suzuki,Wagon R,2018,White,Hatchback,Petrol,Automatic,1000,123900,3080,Faisalabad,Sold
+CAR-1479,Suzuki,Swift,2016,Grey,Hatchback,Petrol,Automatic,1200,138100,3860,Lahore,Sold
+CAR-1480,Tesla,Model 3,2018,Silver,Sedan,Electric,Automatic,0,120000,12640,Faisalabad,For Sale
+CAR-1481,Ford,Explorer,2010,White,SUV,Petrol,Manual,3500,216400,4800,Rawalpindi,For Sale
+CAR-1482,Volkswagen,Beetle,2013,Green,Hatchback,Petrol,Automatic,2000,192000,3820,Islamabad,For Sale
+CAR-1483,Ford,Mustang,2000,Black,Coupe,Petrol,Automatic,5000,369400,3200,Faisalabad,Reserved
+CAR-1484,Suzuki,Vitara,2004,Yellow,SUV,Petrol,Automatic,1600,319000,1920,Peshawar,For Sale
+CAR-1485,Volkswagen,Golf,2022,Gold,Hatchback,Diesel,Automatic,1400,62600,13990,Islamabad,For Sale
+CAR-1486,Kia,Sportage,2017,Black,SUV,Petrol,Automatic,2000,138600,7530,Faisalabad,For Sale
+CAR-1487,Chevrolet,Camaro,2010,Silver,Coupe,Petrol,Automatic,3600,233700,4220,Multan,For Sale
+CAR-1488,Mazda,MX-5,2003,White,Convertible,Petrol,Manual,2000,328800,2480,Multan,For Sale
+CAR-1489,Chevrolet,Camaro,2020,Red,Coupe,Petrol,Automatic,3600,94100,15240,Faisalabad,For Sale
+CAR-1490,Volkswagen,Tiguan,2010,Green,SUV,Diesel,Automatic,1400,249800,3240,Peshawar,For Sale
+CAR-1491,Suzuki,Cultus,2005,Silver,Hatchback,Petrol,Manual,1000,300400,880,Islamabad,Sold
+CAR-1492,Kia,Sorento,2019,Silver,SUV,Petrol,Automatic,2400,102500,12420,Faisalabad,For Sale
+CAR-1493,Honda,City,2021,Green,Sedan,Petrol,Automatic,1500,60000,9350,Islamabad,For Sale
+CAR-1494,Tesla,Model S,2024,Green,Sedan,Electric,Automatic,0,35800,71180,Lahore,Sold
+CAR-1495,Volkswagen,Tiguan,2025,Red,SUV,Petrol,Automatic,1400,23400,26750,Peshawar,For Sale
+CAR-1496,Toyota,Corolla,2014,Black,Sedan,Petrol,Manual,1800,177600,4930,Lahore,For Sale
+CAR-1497,Nissan,Patrol,2013,Red,SUV,Diesel,Manual,4000,184400,10910,Karachi,Reserved
+CAR-1498,Ford,Focus,2008,Silver,Hatchback,Petrol,Automatic,1600,253600,1670,Faisalabad,Sold
+CAR-1499,Suzuki,Wagon R,2007,Green,Hatchback,Petrol,Manual,1000,262600,800,Faisalabad,Sold
+CAR-1500,Volkswagen,Beetle,2008,Silver,Hatchback,Petrol,Automatic,2000,256000,1980,Rawalpindi,Reserved
+CAR-1501,Honda,Civic,2013,Black,Sedan,Hybrid,Automatic,1800,192700,4140,Islamabad,Reserved
+CAR-1502,Suzuki,Vitara,2019,Yellow,SUV,Petrol,Automatic,1600,106300,9510,Islamabad,For Sale
+CAR-1503,Mercedes-Benz,E-Class,2008,Black,Sedan,Diesel,Manual,2000,243600,4960,Rawalpindi,Reserved
+CAR-1504,BMW,3 Series,2003,Silver,Sedan,Petrol,Automatic,2000,328600,3600,Islamabad,Sold
+CAR-1505,Ford,Ranger,2015,Maroon,Pickup,Diesel,Automatic,2200,168000,8260,Karachi,For Sale
+CAR-1506,Kia,Sorento,2015,Silver,SUV,Diesel,Automatic,2400,167200,6950,Peshawar,For Sale
+CAR-1507,Nissan,Skyline,2012,Silver,Coupe,Petrol,Manual,3000,207100,5370,Karachi,For Sale
+CAR-1508,Volkswagen,Golf,2013,Grey,Hatchback,Diesel,Automatic,1400,190900,4680,Karachi,Sold
+CAR-1509,Tesla,Model X,2022,White,SUV,Electric,Automatic,0,66900,62950,Multan,For Sale
+CAR-1510,Ford,Ranger,2011,Silver,Pickup,Diesel,Manual,2200,222200,4940,Lahore,For Sale
+CAR-1511,BMW,5 Series,2013,White,Sedan,Diesel,Automatic,2000,198900,10570,Faisalabad,For Sale
+CAR-1512,Hyundai,Elantra,2021,Black,Sedan,Petrol,Manual,2000,70300,10750,Multan,Sold
+CAR-1513,Chevrolet,Silverado,2022,Red,Pickup,Petrol,Automatic,5300,61700,27900,Islamabad,Sold
+CAR-1514,Volkswagen,Golf,2019,Green,Hatchback,Diesel,Automatic,1400,106800,10770,Multan,Sold
+CAR-1515,Suzuki,Swift,2018,Silver,Hatchback,Petrol,Automatic,1200,121300,4880,Faisalabad,For Sale
+CAR-1516,Suzuki,Alto,2026,Red,Hatchback,Petrol,Automatic,660,3500,7580,Islamabad,For Sale
+CAR-1517,Honda,Civic,2011,Black,Sedan,Petrol,Automatic,1800,219000,2880,Faisalabad,For Sale
+CAR-1518,Mercedes-Benz,C-Class,2019,White,Sedan,Petrol,Automatic,2000,102300,16920,Peshawar,For Sale
+CAR-1519,Tesla,Model S,2023,Maroon,Sedan,Electric,Automatic,0,44800,59390,Islamabad,Reserved
+CAR-1520,Kia,Picanto,2019,Silver,Hatchback,Petrol,Automatic,1000,114100,4690,Multan,Sold
+CAR-1521,Kia,Picanto,2015,Red,Hatchback,Petrol,Automatic,1000,152400,2900,Rawalpindi,Sold
+CAR-1522,Hyundai,Elantra,2009,Grey,Sedan,Petrol,Automatic,2000,242600,2020,Multan,For Sale
+CAR-1523,Honda,CR-V,2000,Black,SUV,Petrol,Manual,1500,367700,2640,Multan,For Sale
+CAR-1524,Kia,Picanto,2006,Blue,Hatchback,Petrol,Automatic,1000,286400,960,Rawalpindi,For Sale
+CAR-1525,Toyota,Corolla,2019,Black,Sedan,Petrol,Manual,1800,100100,9230,Multan,Sold
+CAR-1526,Toyota,Prius,2006,Black,Hatchback,Hybrid,Manual,1800,281000,2240,Rawalpindi,Sold
+CAR-1527,Mazda,CX-5,2021,Grey,SUV,Petrol,Automatic,2500,87000,15790,Rawalpindi,For Sale
+CAR-1528,Ford,Ranger,2004,Grey,Pickup,Diesel,Manual,2200,323300,2880,Multan,For Sale
+CAR-1529,BMW,5 Series,2003,White,Sedan,Diesel,Manual,2000,333600,4800,Rawalpindi,For Sale
+CAR-1530,Toyota,Prius,2005,Silver,Hatchback,Hybrid,Manual,1800,299400,2240,Peshawar,For Sale
+CAR-1531,Suzuki,Alto,2020,Blue,Hatchback,Petrol,Manual,660,88800,3840,Rawalpindi,For Sale
+CAR-1532,Kia,EV6,2025,White,SUV,Electric,Automatic,0,10600,42540,Rawalpindi,For Sale
+CAR-1533,Mercedes-Benz,GLC,2022,White,SUV,Petrol,Manual,2000,71100,31110,Karachi,Sold
+CAR-1534,Suzuki,Vitara,2009,Black,SUV,Petrol,Automatic,1600,247000,2460,Rawalpindi,For Sale
+CAR-1535,Chevrolet,Silverado,2018,Green,Pickup,Petrol,Manual,5300,124000,15500,Rawalpindi,For Sale
+CAR-1536,Honda,CR-V,2005,Blue,SUV,Petrol,Automatic,1500,291400,2640,Multan,Sold
+CAR-1537,Kia,Picanto,2023,Black,Hatchback,Petrol,Automatic,1000,44400,8080,Lahore,For Sale
+CAR-1538,Chevrolet,Silverado,2002,Red,Pickup,Petrol,Manual,5300,337200,3600,Faisalabad,For Sale
+CAR-1539,Toyota,Hilux,2011,Red,Pickup,Diesel,Automatic,2800,213800,4440,Karachi,For Sale
+CAR-1540,Ford,Focus,2003,Green,Hatchback,Petrol,Manual,1600,327000,1600,Islamabad,For Sale
+CAR-1541,Tesla,Model Y,2020,White,SUV,Electric,Automatic,0,87500,23190,Multan,For Sale
+CAR-1542,Volkswagen,Beetle,2010,Red,Hatchback,Petrol,Automatic,2000,227000,2310,Lahore,Sold
+CAR-1543,Tesla,Model S,2012,White,Sedan,Electric,Automatic,0,203100,13940,Faisalabad,For Sale
+CAR-1544,Hyundai,Elantra,2024,Grey,Sedan,Petrol,Manual,2000,24000,17940,Karachi,Sold
+CAR-1545,Kia,Picanto,2011,Silver,Hatchback,Petrol,Manual,1000,209600,1630,Faisalabad,For Sale
+CAR-1546,Mercedes-Benz,GLC,2018,Grey,SUV,Petrol,Manual,2000,107600,19740,Islamabad,For Sale
+CAR-1547,Mercedes-Benz,E-Class,2006,Silver,Sedan,Diesel,Automatic,2000,269800,4960,Islamabad,For Sale
+CAR-1548,Suzuki,Wagon R,2023,Yellow,Hatchback,Petrol,Manual,1000,45800,6270,Peshawar,For Sale
+CAR-1549,Chevrolet,Corvette,2024,Grey,Coupe,Petrol,Automatic,6200,25100,47310,Rawalpindi,For Sale
+CAR-1550,Toyota,Hilux,2020,White,Pickup,Diesel,Automatic,2800,85900,14370,Rawalpindi,For Sale
+CAR-1551,Ford,Mustang,2023,Gold,Coupe,Petrol,Automatic,5000,78600,26260,Karachi,Sold
+CAR-1552,Ford,Focus,2000,Blue,Hatchback,Petrol,Manual,1600,375600,1600,Multan,For Sale
+CAR-1553,Honda,CR-V,2015,Silver,SUV,Hybrid,Manual,1500,171400,7720,Peshawar,For Sale
+CAR-1554,BMW,5 Series,2019,Silver,Sedan,Petrol,Automatic,2000,93100,24430,Lahore,For Sale
+CAR-1555,Honda,CR-V,2025,Red,SUV,Hybrid,Automatic,1500,8600,30150,Rawalpindi,Sold
+CAR-1556,Toyota,Land Cruiser,2026,Blue,SUV,Petrol,Manual,4000,9000,69770,Lahore,Reserved
+CAR-1557,Honda,City,2002,Grey,Sedan,Petrol,Automatic,1500,341600,1440,Peshawar,For Sale
+CAR-1558,Chevrolet,Silverado,2009,Blue,Pickup,Petrol,Manual,5300,258000,4060,Islamabad,For Sale
+CAR-1559,Hyundai,Sonata,2021,Blue,Sedan,Hybrid,Automatic,2500,95900,12930,Karachi,Reserved
+CAR-1560,Tesla,Model Y,2025,Blue,SUV,Electric,Automatic,0,29600,44890,Lahore,For Sale
+CAR-1561,Ford,Mustang,2006,Silver,Coupe,Petrol,Manual,5000,276200,3200,Islamabad,Sold
+CAR-1562,Hyundai,Tucson,2008,White,SUV,Petrol,Automatic,2000,258100,2710,Rawalpindi,Sold
+CAR-1563,Tesla,Model Y,2023,White,SUV,Electric,Automatic,0,49600,31520,Multan,Sold
+CAR-1564,Volkswagen,Beetle,2018,White,Hatchback,Petrol,Manual,2000,128200,6580,Islamabad,Sold
+CAR-1565,BMW,Z4,2007,Black,Convertible,Petrol,Manual,2000,282700,4160,Peshawar,Sold
+CAR-1566,Kia,EV6,2021,Red,SUV,Electric,Automatic,0,80900,24700,Lahore,Sold
+CAR-1567,Toyota,Yaris,2017,Maroon,Hatchback,Petrol,Manual,1500,128600,4740,Lahore,Sold
+CAR-1568,Honda,Accord,2024,Blue,Sedan,Hybrid,Manual,2000,21500,24460,Multan,For Sale
+CAR-1569,Tesla,Model X,2016,Silver,SUV,Electric,Automatic,0,143200,23270,Peshawar,Sold
+CAR-1570,Toyota,Hilux,2017,Green,Pickup,Diesel,Manual,2800,136900,9900,Rawalpindi,Sold
+CAR-1571,Chevrolet,Silverado,2012,White,Pickup,Petrol,Manual,5300,201200,6120,Lahore,Sold
+CAR-1572,Tesla,Model Y,2022,Black,SUV,Electric,Automatic,0,71400,28160,Rawalpindi,For Sale
+CAR-1573,Suzuki,Vitara,2000,Blue,SUV,Petrol,Automatic,1600,371200,1920,Rawalpindi,Sold
+CAR-1574,Hyundai,Sonata,2004,Silver,Sedan,Petrol,Automatic,2500,323200,2160,Lahore,For Sale
+CAR-1575,Suzuki,Vitara,2013,Silver,SUV,Petrol,Automatic,1600,200400,3940,Lahore,Sold
+CAR-1576,Volkswagen,Passat,2007,Blue,Sedan,Diesel,Manual,1800,276400,2400,Islamabad,Sold
+CAR-1577,Ford,Mustang,2024,Green,Coupe,Petrol,Manual,5000,17300,28840,Islamabad,Sold
+CAR-1578,Mazda,Mazda 3,2026,Yellow,Sedan,Petrol,Manual,2000,6600,25100,Rawalpindi,For Sale
+CAR-1579,Volkswagen,Beetle,2005,Black,Hatchback,Petrol,Manual,2000,293100,1760,Lahore,For Sale
+CAR-1580,Kia,Sorento,2008,Silver,SUV,Petrol,Automatic,2400,250800,3010,Islamabad,For Sale
+CAR-1581,Mercedes-Benz,E-Class,2016,Silver,Sedan,Diesel,Automatic,2000,138300,15140,Multan,For Sale
+CAR-1582,Ford,Ranger,2002,Silver,Pickup,Diesel,Manual,2200,336800,2880,Multan,For Sale
+CAR-1583,Volkswagen,Tiguan,2010,Maroon,SUV,Petrol,Manual,1400,228900,3580,Multan,Sold
+CAR-1584,Mercedes-Benz,GLC,2018,Blue,SUV,Petrol,Automatic,2000,101100,17940,Islamabad,For Sale
+CAR-1585,Hyundai,Ioniq 5,2021,Grey,SUV,Electric,Automatic,0,83000,24010,Faisalabad,For Sale
+CAR-1586,Mazda,Mazda 3,2017,Silver,Sedan,Petrol,Automatic,2000,129400,6900,Lahore,For Sale
+CAR-1587,Honda,Accord,2016,Black,Sedan,Petrol,Automatic,2000,146700,8130,Faisalabad,For Sale
+CAR-1588,BMW,Z4,2013,Maroon,Convertible,Petrol,Manual,2000,185200,8150,Multan,For Sale
+CAR-1589,Nissan,Sunny,2020,Green,Sedan,Petrol,Automatic,1500,83200,6600,Rawalpindi,For Sale
+CAR-1590,Tesla,Model 3,2023,White,Sedan,Electric,Automatic,0,58300,25910,Rawalpindi,Sold
+CAR-1591,Mazda,MX-5,2002,Blue,Convertible,Petrol,Automatic,2000,333800,2480,Multan,For Sale
+CAR-1592,Volkswagen,Tiguan,2024,Red,SUV,Diesel,Automatic,1400,39700,25330,Faisalabad,For Sale
+CAR-1593,Kia,Sportage,2001,Silver,SUV,Petrol,Manual,2000,349000,2320,Faisalabad,For Sale
+CAR-1594,Mercedes-Benz,S-Class,2017,Maroon,Sedan,Diesel,Manual,3000,125200,36250,Karachi,For Sale
+CAR-1595,Hyundai,Ioniq 5,2026,White,SUV,Electric,Automatic,0,4400,48330,Lahore,Sold
+CAR-1596,Suzuki,Alto,2024,Silver,Hatchback,Petrol,Automatic,660,35000,5790,Islamabad,For Sale
+CAR-1597,Ford,Ranger,2010,Blue,Pickup,Diesel,Manual,2200,229800,4200,Multan,Sold
+CAR-1598,Toyota,Prius,2013,Green,Hatchback,Hybrid,Automatic,1800,183700,4920,Islamabad,Sold
+CAR-1599,Mazda,Mazda 3,2016,Black,Sedan,Petrol,Automatic,2000,139700,5650,Rawalpindi,For Sale
+CAR-1600,Mazda,CX-5,2012,White,SUV,Petrol,Manual,2500,195200,4570,Multan,Sold
+CAR-1601,Volkswagen,Tiguan,2013,Black,SUV,Diesel,Manual,1400,189200,5040,Lahore,Sold
+CAR-1602,Mercedes-Benz,E-Class,2025,Grey,Sedan,Diesel,Automatic,2000,24600,55050,Faisalabad,Sold
+CAR-1603,BMW,3 Series,2012,Black,Sedan,Diesel,Automatic,2000,193500,7110,Peshawar,For Sale
+CAR-1604,BMW,5 Series,2026,Green,Sedan,Diesel,Manual,2000,300,56280,Rawalpindi,For Sale
+CAR-1605,Volkswagen,Tiguan,2011,White,SUV,Petrol,Manual,1400,237300,4260,Lahore,For Sale
+CAR-1606,Chevrolet,Corvette,2026,White,Coupe,Petrol,Automatic,6200,4600,66770,Faisalabad,For Sale
+CAR-1607,Mazda,Mazda 3,2012,Blue,Sedan,Petrol,Manual,2000,206300,3700,Islamabad,Sold
+CAR-1608,Toyota,Camry,2023,Blue,Sedan,Petrol,Manual,2500,46200,17450,Multan,For Sale
+CAR-1609,Honda,Civic,2021,Blue,Sedan,Hybrid,Automatic,1800,87600,11550,Islamabad,Reserved
+CAR-1610,BMW,X5,2010,Green,SUV,Petrol,Manual,3000,232800,7990,Rawalpindi,Sold
+CAR-1611,Toyota,Corolla,2013,Blue,Sedan,Hybrid,Automatic,1800,185400,3720,Faisalabad,Sold
+CAR-1612,Chevrolet,Corvette,2015,Yellow,Coupe,Petrol,Manual,6200,170400,14450,Rawalpindi,Reserved
+CAR-1613,Volkswagen,Tiguan,2022,Black,SUV,Diesel,Automatic,1400,71300,17300,Lahore,For Sale
+CAR-1614,Ford,Mustang,2016,Gold,Coupe,Petrol,Automatic,5000,128000,10170,Peshawar,For Sale
+CAR-1615,Kia,Picanto,2017,Silver,Hatchback,Petrol,Manual,1000,125400,3230,Peshawar,For Sale
+CAR-1616,Volkswagen,Beetle,2014,Black,Hatchback,Petrol,Manual,2000,184900,4540,Multan,Sold
+CAR-1617,BMW,5 Series,2019,Blue,Sedan,Petrol,Automatic,2000,120900,24200,Rawalpindi,For Sale
+CAR-1618,Tesla,Model Y,2020,Red,SUV,Electric,Automatic,0,101400,20910,Lahore,Reserved
+CAR-1619,BMW,X5,2011,White,SUV,Diesel,Manual,3000,212800,9610,Peshawar,For Sale
+CAR-1620,Hyundai,Elantra,2020,Grey,Sedan,Petrol,Automatic,2000,103700,9080,Rawalpindi,For Sale
+CAR-1621,Nissan,Skyline,2012,Red,Coupe,Petrol,Automatic,3000,211000,5100,Peshawar,Sold
+CAR-1622,Ford,Explorer,2014,Grey,SUV,Petrol,Manual,3500,173000,8100,Multan,For Sale
+CAR-1623,Hyundai,Tucson,2024,Blue,SUV,Petrol,Manual,2000,32300,23790,Karachi,For Sale
+CAR-1624,Tesla,Model Y,2023,White,SUV,Electric,Automatic,0,37800,33380,Peshawar,For Sale
+CAR-1625,Tesla,Model 3,2026,Black,Sedan,Electric,Automatic,0,12000,44830,Islamabad,For Sale
+CAR-1626,Chevrolet,Camaro,2024,Black,Coupe,Petrol,Manual,3600,36300,29030,Faisalabad,Reserved
+CAR-1627,Mazda,CX-5,2026,Grey,SUV,Petrol,Automatic,2500,7100,28740,Karachi,For Sale
+CAR-1628,BMW,Z4,2022,Red,Convertible,Petrol,Automatic,2000,68400,28690,Lahore,For Sale
+CAR-1629,Hyundai,Sonata,2020,Black,Sedan,Hybrid,Automatic,2500,81700,11530,Faisalabad,Sold
+CAR-1630,Suzuki,Vitara,2022,Maroon,SUV,Petrol,Manual,1600,70600,15070,Faisalabad,For Sale
+CAR-1631,Kia,Picanto,2023,Blue,Hatchback,Petrol,Automatic,1000,49000,7930,Multan,For Sale
+CAR-1632,Suzuki,Wagon R,2026,White,Hatchback,Petrol,Automatic,1000,4200,10680,Islamabad,For Sale
+CAR-1633,Kia,Picanto,2025,Black,Hatchback,Petrol,Automatic,1000,17700,9640,Karachi,For Sale
+CAR-1634,Kia,EV6,2026,White,SUV,Electric,Automatic,0,17500,48990,Karachi,For Sale
+CAR-1635,Volkswagen,Passat,2005,White,Sedan,Petrol,Manual,1800,300100,2400,Karachi,For Sale
+CAR-1636,Honda,City,2011,Silver,Sedan,Petrol,Manual,1500,220000,2450,Islamabad,For Sale
+CAR-1637,Suzuki,Alto,2008,Black,Hatchback,Petrol,Manual,660,249000,700,Karachi,For Sale
+CAR-1638,Hyundai,Tucson,2006,Blue,SUV,Diesel,Manual,2000,287200,2400,Rawalpindi,For Sale
+CAR-1639,Volkswagen,Beetle,2013,Blue,Hatchback,Petrol,Manual,2000,192700,3710,Multan,Reserved
+CAR-1640,Tesla,Model S,2018,Black,Sedan,Electric,Automatic,0,125200,34080,Lahore,For Sale
+CAR-1641,Nissan,Leaf,2018,Grey,Hatchback,Electric,Automatic,0,112000,9950,Peshawar,For Sale
+CAR-1642,Suzuki,Alto,2023,White,Hatchback,Petrol,Automatic,660,49900,5320,Multan,Reserved
+CAR-1643,BMW,3 Series,2012,White,Sedan,Petrol,Automatic,2000,204000,5960,Islamabad,Sold
+CAR-1644,Mazda,CX-5,2019,Maroon,SUV,Petrol,Automatic,2500,110300,11210,Islamabad,For Sale
+CAR-1645,Toyota,Hilux,2011,Yellow,Pickup,Diesel,Automatic,2800,213500,4440,Islamabad,Sold
+CAR-1646,BMW,Z4,2024,Blue,Convertible,Petrol,Manual,2000,45700,42790,Multan,Reserved
+CAR-1647,Chevrolet,Corvette,2022,Red,Coupe,Petrol,Automatic,6200,54100,38110,Lahore,For Sale
+CAR-1648,Chevrolet,Silverado,2000,Green,Pickup,Petrol,Automatic,5300,370200,3600,Peshawar,For Sale
+CAR-1649,Nissan,Patrol,2006,Grey,SUV,Diesel,Automatic,4000,282800,4800,Islamabad,For Sale
+CAR-1650,BMW,3 Series,2008,Silver,Sedan,Diesel,Manual,2000,255300,4010,Peshawar,For Sale
+CAR-1651,Volkswagen,Golf,2023,Grey,Hatchback,Diesel,Manual,1400,42100,16810,Lahore,For Sale
+CAR-1652,Hyundai,Ioniq 5,2024,Silver,SUV,Electric,Automatic,0,25700,34070,Karachi,Sold
+CAR-1653,Hyundai,Sonata,2024,White,Sedan,Petrol,Automatic,2500,23900,19330,Multan,For Sale
+CAR-1654,Suzuki,Swift,2016,Black,Hatchback,Petrol,Manual,1200,153800,3480,Faisalabad,For Sale
+CAR-1655,Kia,Sportage,2018,Silver,SUV,Diesel,Manual,2000,108500,9740,Lahore,For Sale
+CAR-1656,Chevrolet,Silverado,2003,Black,Pickup,Petrol,Manual,5300,333300,3600,Islamabad,Reserved
+CAR-1657,Honda,Accord,2015,White,Sedan,Petrol,Automatic,2000,170000,7010,Rawalpindi,Reserved
+CAR-1658,Ford,Ranger,2005,White,Pickup,Diesel,Manual,2200,308600,2880,Karachi,Reserved
+CAR-1659,Suzuki,Vitara,2004,Grey,SUV,Petrol,Automatic,1600,315700,1920,Rawalpindi,For Sale
+CAR-1660,Ford,Ranger,2003,Red,Pickup,Diesel,Manual,2200,327000,2880,Rawalpindi,For Sale
+CAR-1661,Suzuki,Cultus,2016,Gold,Hatchback,Petrol,Automatic,1000,160100,2550,Islamabad,For Sale
+CAR-1662,Volkswagen,Passat,2016,Black,Sedan,Petrol,Automatic,1800,142500,7590,Islamabad,For Sale
+CAR-1663,Volkswagen,Passat,2013,Black,Sedan,Petrol,Automatic,1800,176700,5510,Faisalabad,For Sale
+CAR-1664,Mercedes-Benz,S-Class,2022,White,Sedan,Diesel,Automatic,3000,60900,64600,Lahore,Sold
+CAR-1665,Volkswagen,Tiguan,2016,White,SUV,Diesel,Manual,1400,142800,7600,Multan,Sold
+CAR-1666,Mazda,CX-5,2015,Green,SUV,Petrol,Manual,2500,153200,6630,Islamabad,For Sale
+CAR-1667,Hyundai,Tucson,2015,White,SUV,Diesel,Automatic,2000,160600,7030,Faisalabad,Reserved
+CAR-1668,Nissan,Sunny,2022,Silver,Sedan,Petrol,Manual,1500,62000,7770,Rawalpindi,Sold
+CAR-1669,Tesla,Model 3,2024,Blue,Sedan,Electric,Automatic,0,28700,32550,Lahore,For Sale
+CAR-1670,Toyota,Hilux,2005,Grey,Pickup,Diesel,Manual,2800,300800,2800,Peshawar,For Sale
+CAR-1671,Toyota,Hilux,2011,White,Pickup,Diesel,Manual,2800,223800,4170,Multan,Sold
+CAR-1672,Ford,F-150,2021,Black,Pickup,Petrol,Manual,3500,82000,22920,Faisalabad,For Sale
+CAR-1673,Ford,Focus,2013,Blue,Hatchback,Petrol,Automatic,1600,198400,3110,Multan,For Sale
+CAR-1674,Tesla,Model X,2019,Blue,SUV,Electric,Automatic,0,108900,39080,Islamabad,Sold
+CAR-1675,Kia,EV6,2024,Red,SUV,Electric,Automatic,0,42600,37940,Lahore,For Sale
+CAR-1676,Ford,Ranger,2014,Red,Pickup,Diesel,Automatic,2200,169500,6830,Islamabad,For Sale
+CAR-1677,BMW,Z4,2008,Black,Convertible,Petrol,Manual,2000,245400,4200,Lahore,For Sale
+CAR-1678,Honda,Accord,2004,Silver,Sedan,Petrol,Automatic,2000,324300,2400,Rawalpindi,Reserved
+CAR-1679,BMW,X5,2019,Grey,SUV,Petrol,Manual,3000,106600,28070,Lahore,For Sale
